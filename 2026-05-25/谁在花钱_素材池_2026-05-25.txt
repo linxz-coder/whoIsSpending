@@ -1,0 +1,65 @@
+谁在花钱｜素材池
+日期：2026-05-25
+
+本期筛选逻辑
+- 目标日期是周一，承接 5 月 22 日之后的工作日/周末新线索。
+- 已避开 5 月去重清单中第 77-81 条：量子 CHIPS 激励、Dorado 腰果贷款、Hark A 轮、西洽会、飞猪 618 旅行。
+- 本期保留“主体 + 事件 + 金额”有明确新增的项目；消费板块从 618 旅行/预售转向美妆与新品 GMV。
+
+1) 政府
+- 标题：财政部完成两期国债招标，合计 3200 亿元
+- 主体：中华人民共和国财政部
+- 金额：实际发行 30 年期超长期特别国债 1500 亿元，续发行 20 年期国债 1700 亿元，合计 3200 亿元
+- 领域：主权融资、财政资金、债券市场
+- 主来源：新华社，https://www.news.cn/fortune/20260522/c0ee4079546c46e7b1f5fbda118e8af0/c.html
+- 备注：不是项目采购，但属于政府把钱从债券市场筹集到财政体系的明确资金流。
+
+2) 国际政府与开发资金
+- 标题：EBRD 定价 20 亿美元 5 年期全球基准债
+- 主体：European Bank for Reconstruction and Development
+- 金额：20 亿美元
+- 领域：多边开发银行融资、全球债券、开发贷款资金来源
+- 主来源：EBRD，https://www.ebrd.com/home/news-and-events/news/2026/ebrd-prices-usd-2-billion-global-benchmark-due-may-2031.html
+- 备注：本期写“开发银行先从资本市场拿钱，再进入项目贷款和投资管线”。
+
+3) 投资机构
+- 标题：Primer 完成 1 亿美元 Series C
+- 主体：Primer
+- 金额：1 亿美元
+- 领域：AI 支付基础设施、商户收单、支付编排、美国扩张
+- 主来源：Business Wire，https://www.businesswire.com/news/home/20260519989278/en/Primer-Raises-%24100M-Series-C-to-Bring-AI-to-Every-Payment-and-Accelerate-US-Expansion
+- 备注：与 5 月 22 日 Hark 7 亿美元硬件 AI 融资不同，本期切入“AI 进入支付和商户后台”。
+
+4) 企业
+- 标题：Matador Resources 在 BLM 联邦租赁拍卖中扩张油气资产
+- 主体：Matador Resources Company
+- 金额：约 11.43 亿美元
+- 领域：油气租赁、特拉华盆地、能源资产、钻探库存
+- 主来源：Business Wire，https://www.businesswire.com/news/home/20260521632682/en/Matador-Resources-Company-Announces-Successful-Acquisitions-in-Federal-Lease-Sale
+- 备注：这是一笔公司资本开支/资产扩张，不与 5 月 19 日 NextEra 并购和 5 月 20 日 Analog Devices 收购重复。
+
+5) 富豪资本
+- 标题：Byron Allen 家族办公室拟以 1.2 亿美元取得 BuzzFeed 控制性股权
+- 主体：Byron Allen 家族办公室
+- 金额：1.2 亿美元，购买 4000 万股 BuzzFeed A 类普通股，每股 3 美元，约 52% 股权
+- 领域：媒体资产、上市公司控制权、富豪资本
+- 主来源：Bloomberg/多家财经媒体二次报道，检索关键词为 Byron Allen family office BuzzFeed 120 million 52 percent
+- 备注：金额和交易结构明确，属于富豪个人/家族办公室出手；不是普通公司并购。
+
+6) 平民消费
+- 标题：618 美妆预售开始抢预算，珀莱雅集团估算 GMV 约 2.37 亿元
+- 主体：天猫 618、李佳琦直播间、美妆品牌
+- 金额：李佳琦直播间首日上架 378 款、126 个品牌；54 款单品 GMV 破 1000 万元；珀莱雅集团截至 5 月 21 日估算 GMV 约 2.37 亿元；15 款新品累计 GMV 约 1.7 亿元
+- 领域：美妆护肤、国货品牌、新品、直播电商、618 预售
+- 主来源：财联社/证券时报等消费与电商报道，检索关键词为 2026 天猫 618 美妆 预售 珀莱雅 2.37 亿 54 款 千万
+- 备注：与 5 月 21 日“618 预售、国补、AI 导购和新品首发”和 5 月 22 日“飞猪旅行品牌盛典”不同，本期聚焦美妆护肤与新品 GMV。
+
+7) 高薪职位素材
+- 中国：
+  - AI 科学家/AI 负责人：人民币 132796 元/月，口径为脉脉 2026 春招报告中新经济行业高薪岗位平均月薪。
+  - 金融 InfoSec / IT Risk Director：人民币约 80000-125000 元/月，口径为 Morgan McKinley 2026 中国金融服务薪酬指南，上海年薪 96 万-150 万元折算。
+  - 跨境支付/商户风控/增长负责人：参考支付基础设施和电商 GMV 增长需求，按平台和金融科技公司岗位筛选，需在正文说明“薪资受公司和城市差异影响”。
+- 国际：
+  - Petroleum Engineer：美元约 12797 美元/月，口径为 BLS 年均工资 153560 美元折算。
+  - Information Security Analyst：美元约 10409 美元/月，口径为 BLS 年薪中位数 124910 美元折算。
+  - Data Scientist：美元约 9383 美元/月，口径为 BLS 年薪中位数 112590 美元折算。

@@ -1,0 +1,86 @@
+谁在花钱｜素材池
+日期：2026-05-22（北京时间）
+采样窗口：2026-05-15 至 2026-05-22
+
+去重检查：
+- 已读 `/Users/linxiaozhong/Downloads/谁在花钱日报/本月去重清单_2026-05.txt` 尾部。
+- 5月21日已写：河南392.99亿元地方债、MIGA非洲64亿美元年度担保目标、Anduril 50亿美元融资、NextEra 13亿美元Caliber交易、618天猫预售/国补/AI导购。
+- 本期避开上述同主体同事件同金额；618只保留“旅行品牌盛典/旅游囤券”新场景，不重复手机、家电、美妆和天猫预售主线。
+
+一、候选线索
+
+【政府】
+- 标题：美国商务部签署9份意向书，拟向量子计算生态提供20.13亿美元CHIPS激励，并取得少数非控股股权。
+- 主体：U.S. Department of Commerce / CHIPS Research and Development Office、IBM、GlobalFoundries、Atom Computing、Diraq、D-Wave、Infleqtion、PsiQuantum、Quantinuum、Rigetti。
+- 金额：20.13亿美元；IBM 10亿美元；GlobalFoundries 3.75亿美元；Atom/D-Wave/Infleqtion/PsiQuantum/Quantinuum各1亿美元；Rigetti最高1亿美元；Diraq最高3800万美元。
+- 领域：量子计算、量子晶圆代工、CHIPS and Science Act、先进制造、国家安全。
+- 主来源：https://www.nist.gov/news-events/news/2026/05/department-commerce-announces-letters-intent-9-companies-2-billion
+- 交叉来源：https://m.investing.com/news/stock-market-news/us-to-award-2-billion-to-quantum-computing-firms-take-equity-stakes-wsj-reports-4703495?ampMode=1
+- 备注：官方NIST/Commerce口径为“letters of intent / planned funding”，不是已拨款到位；正文按“拟提供激励、换取少数股权”写。
+
+【国际政府与开发资金】
+- 标题：EBRD向Dorado提供最高6000万美元贷款，支持科特迪瓦可持续腰果采购和加工。
+- 主体：European Bank for Reconstruction and Development、Dorado及其科特迪瓦子公司。
+- 金额：最高6000万美元（约5100万欧元）。
+- 领域：农业供应链、腰果加工、可持续采购、农村金融、妇女就业、雨林联盟认证。
+- 主来源：https://www.ebrd.com/home/news-and-events/news/2026/ebrd-supports-sustainable-cashew-value-chains-in-cote-d-ivoire.html
+- 备注：EBRD官方披露称资金支持营运资本、本地采购与加工出口，并覆盖至少10个合作社、4000名农户和20个村级储蓄贷款协会。
+
+【投资机构】
+- 标题：Hark完成7亿美元Series A融资，投后估值60亿美元。
+- 主体：Hark、Parkway Venture Capital、Nvidia、AMD Ventures、ARK Invest、Brookfield、Intel Capital、Qualcomm Ventures、Salesforce Ventures等。
+- 金额：7亿美元A轮；投后估值60亿美元；创始人此前自投1亿美元。
+- 领域：AI个人助理、多模态模型、AI硬件、算力和组件采购。
+- 主来源：https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/
+- 备注：TechCrunch称公司仍很神秘，预计夏季发布首批多模态模型；风险点是产品未公开、隐私和硬件形态不明。
+
+【企业 / 地方招商】
+- 标题：第八届中国西部国际投资贸易洽谈会签约项目212个，正式合同额超1500亿元。
+- 主体：西洽会参展参会企业、重庆及西部地区招商项目、50个国家和地区近1400家企业。
+- 金额：正式合同额超1500亿元；10亿元以上项目57个；另发布277个《投资重庆机会清单》合作项目。
+- 领域：先进材料、能源、先进制造、绿色低碳、数字经济、服务业。
+- 主来源：https://www.news.cn/fortune/20260521/06b3d41c6b174fbf92606d9ef531bc29/c.html
+- 备注：新华社官方报道；按“合同签约/招商落地”写，不写成全部已经开工或资金已经到账。
+
+【富豪资本】
+- 候选：SpaceX IPO相关报道、Elon Musk及核心圈层潜在受益。
+- 处理：本期不单列。原因是目前是IPO文件/潜在受益结构，不是新增富豪个人出资、正式增减持或监管披露中的新买入金额；避免把“可能变现”写成“花钱”。
+
+【平民消费】
+- 标题：飞猪618升级为“旅行品牌盛典”，旅行商家数和商品数连续4年增长并创新高。
+- 主体：飞猪、航空公司、酒店集团、主题乐园、暑期旅游消费者。
+- 金额/热度：大牌“好券”0.1元至6.18元购买、最高省近千元；截至报道时累计售出近10万张；直播带货坑位数同比增长300%以上；88VIP提前券可满6000元减300元。
+- 热门品类：机票卡、酒店通兑、主题乐园门票/年卡、邮轮券、暑期亲子度假。
+- 代表产品：国航全球经济舱往返不含税机票卡、南航全球飞次卡、东方航空惊喜飞行机票次卡、开元森泊酒店通兑、红树林海南多店通兑、上海迪士尼/香港迪士尼门票、长隆住玩套票、上海乐高乐园度假区铂金年卡。
+- 国内较热品牌：飞猪、国航、南航、东方航空、开元森泊、长隆、上海乐高乐园度假区。
+- 国外/国际品牌：国泰航空、加拿大航空、新加坡航空、万豪、希尔顿、雅高、洲际、凯悦、MSC地中海邮轮、好莱坞环球影城、迪士尼。
+- 主来源：https://www.donews.com/news/detail/4/6565468.html
+- 交叉来源1：https://finance.sina.com.cn/tech/roll/2026-05-20/doc-inhyphnp1726407.shtml
+- 交叉来源2：https://www.news.cn/tech/20260515/e957985b460446949cf10816b893e78e/c.html
+- 备注：今天消费板块从“买手机家电”切到“囤暑期旅行权益”，属于618的新预算入口。
+
+【高薪职位】
+- 岗位方向：量子/半导体工艺、AI硬件与端侧AI、供应链与招商项目管理、农业供应链金融、旅游收益管理、数据中心/电力/安全。
+- 中国薪资参考：
+  1. AI科学家/AI负责人：人民币132796元/月，脉脉2026春招报告口径。
+  2. 算法研究员：人民币74441元/月，脉脉2026春招报告口径。
+  3. AI infra：人民币73702元/月，脉脉2026春招报告口径。
+  4. 金融InfoSec/IT Risk Director：人民币约80000至125000元/月，Morgan McKinley 2026中国金融服务薪酬指南上海年薪96万至150万元折算。
+- 国际薪资参考：
+  1. Electronics engineer, except computer：美元约10633美元/月，BLS年薪中位数127590美元折算。
+  2. Electrical engineer：美元约9326美元/月，BLS年薪中位数111910美元折算。
+  3. Data Scientist：美元约9383美元/月，BLS年薪中位数112590美元折算。
+- 来源：
+  1. 新浪科技转脉脉2026春招报告：https://finance.sina.com.cn/tech/roll/2026-05-13/doc-inhxufve9216270.shtml
+  2. Morgan McKinley中国金融服务薪酬指南：https://www.morganmckinley.com.cn/en/2026-salary-guide/banking-financial-services/permanent-salaries
+  3. BLS Electrical and Electronics Engineers：https://www.bls.gov/ooh/architecture-and-engineering/electrical-and-electronics-engineers.htm
+  4. BLS Data Scientists：https://www.bls.gov/ooh/math/data-scientists.htm
+
+二、入选清单
+1. 美国商务部20.13亿美元量子计算CHIPS激励。
+2. EBRD最高6000万美元支持科特迪瓦腰果供应链。
+3. Hark 7亿美元A轮融资。
+4. 西洽会212个项目、超1500亿元合同额。
+5. 富豪资本不硬凑。
+6. 飞猪618旅行品牌盛典和暑期旅游囤券。
+7. 高薪职位围绕量子/AI硬件、半导体、电力电子、数据科学、招商与旅游收益管理展开。
