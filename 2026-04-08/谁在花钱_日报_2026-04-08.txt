@@ -1,0 +1,154 @@
+谁在花钱｜每日花钱新闻日报
+日期：2026-04-08（北京时间）
+采样窗口：2026-04-01 至 2026-04-08
+版本：首版（平衡版信源池）
+
+一、方法说明
+1. 主信源采用你选择的“平衡版”：中国政府网/政府公开平台、世界银行、Reuters、Bloomberg系/国际主流财经媒体、财新、第一财经、公司官方公告等。
+2. 本期以“谁在花钱”为筛选标准，只保留能明确识别出主体、领域、金额或金额区间的新闻。
+3. “审查”环节优先使用原始披露、第二家权威媒体、以及可检索到的官方社交平台发言做交叉核验。
+4. 结论分为：通过 / 基本通过 / 存疑。
+
+二、今日要点
+今天最值得关注的不是单一行业，而是三个方向同时加码：
+- 政府和政策性资本继续押注科技、区域产业升级与消费刺激。
+- 国际资本和大型企业继续把钱投向 AI 基础设施、产能和分销网络。
+- 富豪资本更愿意下注“稀缺内容资产”和可迁移到美股估值体系的大平台。
+
+三、分项日报
+
+【1】政府：中国北京继续大规模招商，34个项目签约，总额619.91亿元
+- 花钱主体：北京市相关产业投资项目、地方招商平台、配套创投基金
+- 金额：34个项目签约总额 619.91亿元；另有 500亿元国家创业投资引导基金京津冀基金项目完成首批签约
+- 领域：科技服务、医药健康、安全应急、新一代信息技术、新材料、新能源、智慧农业等
+- 发生时间：2026-03-25 至 2026-03-26披露，仍属本期最强中国大额投资线索之一
+- 对普通人的提示：北京和京津冀的钱仍然在往“硬科技+应用场景+产业配套”倾斜，求职和创业重点可看智能制造、医疗器械、数字基建、储能和供应链服务
+- 原始/主来源：
+  1) 北京市投资促进服务局：https://invest.beijing.gov.cn/zwgk/sqgzdt/202603/t20260326_4566453.html
+  2) 北京市人民政府“首都之窗”：https://www.beijing.gov.cn/fuwu/lqfw/gggs/202603/t20260326_4566470.html
+- 二次核验来源：
+  1) 开放北京：https://open.beijing.gov.cn/html/kfdt/sddt/2026/4/1775531496417.html
+  2) 第一财经转引报道：https://finance.sina.cn/2026-03-25/detail-inhsffcs6763466.d.html
+- 审查结论：通过。金额、项目数量和产业方向在多个北京官方页面一致。
+
+【2】国际政府/开发资金：世界银行与斯里兰卡启动新一轮增长与就业支持，合计动员规模超20亿美元
+- 花钱主体：世界银行集团、国际金融公司（IFC）、斯里兰卡政府
+- 金额：IFC未来5年投资超过10亿美元；世界银行未来3年优惠融资最高10亿美元；首批REVIVE项目已批准1亿美元
+- 领域：港口扩建、可再生能源、营商环境、旅游、农业、就业
+- 发生时间：2026-04-03
+- 对普通人的提示：国际开发金融的钱开始重新流向“就业拉动型基础设施”和“可创汇产业”，跟单机会主要在工程、能源设备、数字化和旅游链条
+- 原始/主来源：
+  1) 世界银行新闻稿：https://www.worldbank.org/en/news/press-release/2026/04/01/sri-lanka-and-world-bank-group-launch-new-partnership-to-create-jobs-attract-private-investment
+- 二次核验来源：
+  1) Lanka News Web：https://lankanewsweb.net/archives/187206/world-bank-launches-new-5-year-partnership-to-support-sri-lankas-growth-and-jobs/
+- 审查结论：基本通过。核心金额来自世界银行原始新闻稿，二次媒体转述一致，未见冲突版本。
+
+【3】投资机构：KKR完成230亿美元北美私募股权基金募资
+- 花钱主体：KKR及其出资人（养老金、主权基金、保险、基金会、高净值平台等）
+- 金额：230亿美元
+- 领域：北美私募股权投资
+- 发生时间：2026-04-02
+- 对普通人的提示：大机构的钱仍在回流非上市资产，说明“优质未上市公司”和并购整合仍被看好；普通投资者需要注意，公开市场估值波动时，私募资本未必在撤退，反而可能在等待更便宜的并购机会
+- 原始/主来源：
+  1) KKR相关新闻稿（Morningstar转载Business Wire）：https://www.morningstar.com/news/business-wire/20260402033814/kkr-closes-23-billion-north-america-private-equity-fund
+- 二次核验来源：
+  1) Reuters转引：https://www.investing.com/news/stock-market-news/kkr-raises-23-billion-for-north-america-private-equity-fund-4595628
+  2) WSJ摘要页：https://www.wsj.com/pro/private-equity/kkr-closes-record-23-billion-north-america-private-equity-fund-its-largest-ever-2410f65d
+- 审查结论：通过。金额、基金名称、资金来源结构一致。
+
+【4】企业：微软宣布2026年至2029年向日本投入100亿美元发展AI基础设施与网络安全
+- 花钱主体：Microsoft
+- 金额：100亿美元（约1.6万亿日元）
+- 领域：AI算力基础设施、云、网络安全、人才培训
+- 发生时间：2026-04-03
+- 对普通人的提示：AI基建投资已经从“美国内部军备竞赛”扩展到“主权AI和本地算力”阶段，受益方向会外溢到数据中心、液冷、电力、网络安全、AI培训与本地模型服务
+- 原始/主来源：
+  1) Microsoft官方新闻稿：https://news.microsoft.com/source/asia/2026/04/03/microsoft-deepens-its-commitment-to-japan-with-10-billion-investment-in-ai-infrastructure-cybersecurity-workforce/
+- 二次核验来源：
+  1) Reuters转引：https://www.business-standard.com/technology/tech-news/microsoft-to-invest-10-billion-in-japan-for-ai-cybersecurity-push-126040300243_1.html
+  2) 华尔街日报摘要页：https://www.wsj.com/tech/ai/microsoft-to-invest-10-billion-in-japan-on-ai-infrastructure-cybersecurity-3942b41f
+- 社交平台核验：
+  1) Brad Smith在LinkedIn同步发文：https://www.linkedin.com/posts/bradsmi_today-microsoft-announced-that-we-will-spend-activity-7445833147046322176-W-xh
+- 审查结论：通过。官方新闻稿、Reuters转引和管理层社交平台表述一致。
+
+【5】企业：可口可乐系统宣布至2030年向南非投入176亿兰特
+- 花钱主体：The Coca-Cola Company及其南非装瓶体系
+- 金额：176亿南非兰特，约10.5亿美元
+- 领域：产能扩张、分销网络、创新、供应链
+- 发生时间：2026-03-31 至 2026-04-01披露
+- 对普通人的提示：消费品巨头仍愿意在高增长新兴市场加码，说明“本地生产+本地分销+本地采购”的确定性仍然强于纯跨境出口逻辑
+- 原始/主来源：
+  1) 可口可乐官方新闻稿：https://www.coca-cola.com/xe/en/media-center/The-Coca-Cola-System-in-South-Africa-Announces-R17-6-Billion-Investment
+- 二次核验来源：
+  1) CCBA集团官网：https://www.ccbagroup.com/the-coca-cola-system-in-south-africa-announces-r17-6-billion-investment-supporting-economic-growth/
+  2) Reuters转引：https://www.investing.com/news/economy-news/cocacola-plans-to-invest-1-billion-in-south-africa-through-2030-4592888
+- 审查结论：通过。官方和Reuters转引金额一致。
+
+【6】富商/家族资本：Bill Ackman提出收购环球音乐，整体估值约557.5亿欧元
+- 花钱主体：Bill Ackman / Pershing Square
+- 金额：总对价估值约557.5亿欧元；其中现金部分约94亿欧元
+- 领域：音乐版权、全球内容资产、资本市场重估
+- 发生时间：2026-04-07
+- 对普通人的提示：富豪资本最近不是在追逐“更便宜的制造业资产”，而是在追逐“全球版权现金流”和可迁移到美股估值框架的内容平台；如果这类交易增多，说明稀缺IP和平台型内容资产会持续被高溢价定价
+- 原始/主来源：
+  1) Pershing Square公告（Business Wire转载）：https://natlawreview.com/press-releases/pershing-square-announces-proposal-universal-music-group-nv
+- 二次核验来源：
+  1) CBS/AFP：https://www.cbsnews.com/news/universal-music-takeover-offer-pershing-square-hedge-fund/
+  2) 洛杉矶时报：https://www.latimes.com/entertainment-arts/business/story/2026-04-07/universal-music-takeover-bid-bill-ackman
+- 审查结论：基本通过。交易仍是非约束性提案，但金额、溢价和结构在多家媒体一致。
+
+【7】平民/居民消费：中国清明假期消费继续释放，汽车和家电“以旧换新”拉动超4627.7亿元销售
+- 花钱主体：居民家庭消费、政策补贴撬动的耐用品消费
+- 金额：
+  1) 汽车以旧换新：收到补贴申请152.6万份，带动新车销售额2468亿元
+  2) 家电以旧换新、数码和智能购新：带动销售额2159.7亿元
+  合计：4627.7亿元
+- 领域：汽车、家电、数码、智能硬件、出行与住宿
+- 发生时间：2026-04-06 至 2026-04-07披露
+- 对普通人的提示：居民端的大钱主要还在两类地方花出去，一是政策补贴拉动的耐用品更新，二是短途假日型服务消费。对个人最直接的启发不是追热点，而是优先关注补贴窗口、错峰购买和地方加码政策
+- 原始/主来源：
+  1) 新华网：https://www.news.cn/government/20260407/f5885827482f4076823f8381083fc24d/c.html
+- 二次核验来源：
+  1) 人民日报转引页面：https://zw.china.com.cn/2026-04/07/content_118422599.shtml
+  2) 光明网转引：https://m.gmw.cn/2026-04/07/content_1304408724.htm
+- 审查结论：通过。核心数字在新华社、人民日报转引稿、光明网转引稿中一致。
+
+【8】高薪职位：当前普通人最值得盯的高薪方向，是“AI能力+工程化/产业化”岗位
+- 岗位方向：
+  1) 算法工程师：平均招聘月薪 25236元，职位数同比增长 110.1%
+  2) 机器人算法岗位：平均招聘月薪 24426元，需求同比增长 30.7%
+  3) 机器人调试工程师：职位数同比增长 64.1%，对制造业、电气、自动化背景更友好
+  4) AI+应用型岗位：要求会AI的职位平均年薪 29.6万元，高于未要求会AI的职位 21.8万元，年薪溢价约 7.8万元
+  5) AI技术岗整体：年薪 50万元以上职位占比 30.9%
+- 领域：大模型应用、算法、机器人、智能制造、AI产品化、AI赋能型岗位
+- 发生时间：2026-01 至 2026-02发布的招聘平台报告，仍可作为当前岗位溢价的近端参考
+- 对普通人的提示：现在更现实的高薪路径，不只是去卷“塔尖算法”，而是三条线并行。第一条是技术线，走算法、MLOps、模型部署、算力优化；第二条是产业线，走机器人调试、工业自动化、电控和设备工程；第三条是应用线，在产品、运营、销售、设计、培训岗位上叠加AI工具能力。对多数普通人来说，最容易切入的是“原岗位 + AI能力”或者“制造业背景 + 机器人/自动化”。
+- 原始/主来源：
+  1) 新浪财经转引智联招聘《2025年四季度人才市场热点快报》：https://finance.sina.com.cn/roll/2026-01-22/doc-inhicwve2906996.shtml
+  2) 新浪财经转引猎聘《2025年中国AI人才奇点报告》：https://finance.sina.com.cn/stock/t/2026-01-09/doc-inhfswxr5860983.shtml
+- 二次核验来源：
+  1) 中新经纬转引智联招聘数据：https://t.cj.sina.com.cn/articles/view/5993531560/1653e08a802001jqxk
+  2) 新浪科技转引猎聘年度人才供需趋势报告：https://finance.sina.com.cn/tech/roll/2026-02-05/doc-inhkutyw1881081.shtml
+  3) 脉脉高聘人才报告转引页：https://t.cj.sina.com.cn/articles/view/3833586174/e47fe1fe00101wygy
+- 审查结论：基本通过。核心结论来自招聘平台和人才报告，彼此方向一致，但由于样本口径、岗位定义和统计周期不同，不适合把不同平台的数字直接横向硬比，更适合用来判断“哪些方向更值钱”。
+
+四、今日综合判断
+1. 中国的钱：政府和政策工具继续往科技产业、区域招商和消费刺激投放，说明“稳增长”依旧靠产业升级和大宗消费更新双轮驱动。
+2. 海外的钱：企业和资本机构仍在大手笔押注AI、消费品本地产能和私募股权，说明全球大钱没有明显转向防守，而是在集中加码少数确定性方向。
+3. 富豪的钱：更愿意下注能形成长期现金流的稀缺资产，尤其是音乐版权、平台型内容和可重估的大盘资产。
+4. 普通人的机会：
+   - 就业上，看AI基础设施、网络安全、先进制造、医药器械、供应链服务。
+   - 求职上，高薪职位最现实的方向是“原有专业能力 + AI”以及“制造业背景 + 机器人/自动化”。
+   - 投资上，不要只盯二级市场短线波动，私募资本和产业资本仍在继续部署长期资产。
+   - 消费上，优先跟踪“以旧换新”、地方消费券和节假日政策窗口，而不是纯凭情绪下单。
+
+五、假新闻审查结论
+- 本期7条中，5条为“通过”，2条为“基本通过”，0条“存疑”。
+- “基本通过”的原因不是金额矛盾，而是交易或融资仍处于宣布/提议阶段，后续可能出现调整。
+- 截至2026-04-08（北京时间）检索结果，未发现本期所列条目存在明显伪造、关键金额冲突或被主流媒体辟谣的情况。
+
+六、建议的下期优化
+1. 把“政府、投资机构、企业、富商、平民、高薪职位”六类做成固定模板，每天只替换条目。
+2. 增加“中/外”双榜单，各保留至少3条，避免当天国际新闻过强或中国新闻过强导致结构失衡。
+3. 增加“金额标准化”字段，统一换算成人民币和美元，便于横向比较。
+4. 增加“热度/确定性/可持续性”三个评分字段，后续更容易做日报排名。

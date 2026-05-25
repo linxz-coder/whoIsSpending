@@ -1,0 +1,60 @@
+谁在花钱｜素材池
+日期：2026-05-23
+
+【政府】
+- 标题：2026年第一期中央金融机构注资特别国债招标发行
+- 主体：财政部 / 国有大型商业银行
+- 金额：3000亿元，两期发行；第一期5月22日招标发行，第二期6月12日招标发行
+- 领域：银行资本补充、信贷投放、金融稳定
+- 主来源：https://finance.sina.com.cn/jjxw/2026-05-23/doc-inhyvamy8139680.shtml
+- 交叉来源：https://www.cnfin.com/zs-lb/detail/20260522/4415888_1.html
+- 备注：支持国有大型商业银行补充资本，市场焦点在尚未完成本轮注资的工商银行、农业银行。
+
+【国际政府与开发资金】
+- 标题：27个国家寻求接入世界银行危机融资工具
+- 主体：世界银行 / 多国政府
+- 金额：世行危机工具可提供约200亿至250亿美元预先安排融资；六个月内可通过组合调整合计动员约600亿美元，长期可能约1000亿美元
+- 领域：能源冲击、粮食与化肥供应链、财政应急
+- 主来源：https://www.straitstimes.com/world/middle-east/world-bank-document-shows-27-countries-seeking-to-ensure-access-to-crisis-funds/
+- 备注：报道来自 Reuters；世行未披露具体国家名单和总申请额。
+
+【投资机构】
+- 标题：Google 与 Blackstone 设立 AI 云计算合资企业
+- 主体：Blackstone / Google
+- 金额：Blackstone 初始股权投资50亿美元；含杠杆总投资价值可能达250亿美元；目标2027年上线500MW数据中心容量
+- 领域：AI数据中心、TPU、算力即服务、电力基础设施
+- 主来源：https://www.investing.com/news/stock-market-news/google-blackstone-to-create-new-ai-cloud-company-wsj-reports-4697320
+- 备注：资本直接流向AI基础设施，而不是单纯投模型公司。
+
+【企业】
+- 标题：Publicis 拟以22亿美元收购 LiveRamp
+- 主体：Publicis Groupe / LiveRamp
+- 金额：企业价值约22亿美元，全现金交易
+- 领域：广告技术、数据协作、隐私计算、客户身份与媒体数据匹配
+- 主来源：https://m.investing.com/news/stock-market-news/frances-publicis-to-buy-us-data-firm-liveramp-in-22-billion-4694550
+- 备注：LiveRamp 连接超过25000个发布商域名、500多个技术和数据伙伴，覆盖14个市场。
+
+【富豪资本】
+- 标题：Ryan Cohen 控制下的 GameStop 对 eBay 发起非约束性收购提案
+- 主体：GameStop / Ryan Cohen / eBay
+- 金额：约555亿美元股权价值；已建立5%经济敞口；现金部分拟由约94亿美元现金及流动投资和最高200亿美元融资意向支持
+- 领域：电商、线下门店履约、收藏品与二手科技交易、主动资本
+- 主来源：https://www.sec.gov/Archives/edgar/data/1065088/000119312526202500/d138475d425.htm
+- 备注：不是今天新发生的现金交割，但属于仍在发酵的控制型资本动作；提案仍非约束性。
+
+【平民消费】
+- 标题：618提前启幕，抖音电商披露首轮阶段数据
+- 主体：抖音电商 / 平台商家 / 消费者
+- 金额：5月15日至5月20日首轮周期内，消费券拉动成交额破亿元商家数同比增长325%，亿元级爆款单品数量同比增长300%，超15万名带货达人成交总额同比翻五倍
+- 领域：内容电商、消费券、美妆、服饰、直播间、短视频成交
+- 主来源：https://www.stcn.com/article/detail/3923166.html
+- 备注：本期平民消费从“旅行权益”切换到“消费券+内容电商”。
+
+【高薪职位】
+- 标题：AI、AI基建、金融IT风险、电力电子和数据科学继续高薪
+- 中国来源：https://finance.sina.com.cn/tech/roll/2026-05-13/doc-inhxufve9216270.shtml
+- 中国补充：https://finance.sina.com.cn/tech/roll/2026-05-14/doc-inhxvtwn8754517.shtml
+- 金融IT来源：https://www.morganmckinley.com.cn/en/2026-salary-guide/banking-financial-services/permanent-salaries
+- 国际来源：https://www.bls.gov/ooh/math/data-scientists.htm
+- 国际来源：https://www.bls.gov/ooh/architecture-and-engineering/electrical-and-electronics-engineers.htm
+- 备注：本期“高薪职位”与今天资金流向一致：银行资本、AI算力、数据协作、电力与半导体工程。

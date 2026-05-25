@@ -1,0 +1,82 @@
+谁在花钱｜素材池
+日期：2026-05-20
+
+去重检查：
+- 已读 /Users/linxiaozhong/Downloads/谁在花钱日报/本月去重清单_2026-05.txt。
+- 本期剔除/不重复使用：ADB菲律宾最高17.5亿美元、Blackstone/Google TPU云50亿美元、NextEra/Dominion 668亿美元、Ackman/Microsoft、Berkshire 13F调仓、OnlyFans/Architect、京东618正式开卖和AI硬件口径等已发布主题。
+
+- 分类：政府
+- 标题：瑞典将向法国Naval Group采购4艘护卫舰
+- 主体：瑞典政府、法国Naval Group、欧洲防务供应链
+- 金额：超过40亿美元
+- 领域：国防采购、海军装备、波罗的海安全、雷达/防空/舰艇维护
+- 主来源：MarketScreener转Reuters，https://www.marketscreener.com/news/sweden-plans-to-buy-navy-frigates-from-france-ce7f5adbda8afe25
+- 关键事实：Reuters称瑞典将采购4艘法国FDI护卫舰，交易超过40亿美元，并称这是瑞典自1980年代以来最大军事投资，目标是提升波罗的海防务能力。
+- 备注：属于政府军购，不写成民用财政刺激；机会应落到舰艇制造、雷达、防空系统、维修保养、军贸合规和供应链。
+
+- 分类：国际政府与开发资金
+- 标题：世界银行批准3.5亿美元追加融资支持孟加拉LNG进口
+- 主体：World Bank、孟加拉政府、Petrobangla、孟加拉电力与工业用户
+- 金额：3.5亿美元追加融资；原Energy Sector Security Enhancement Project也为3.5亿美元
+- 领域：LNG进口、能源安全、电力供应、外汇压力、工业生产
+- 主来源：The Daily Star，https://www.thedailystar.net/business/news/wb-okays-350m-financing-bangladeshs-lng-based-energy-security-4178656
+- 交叉来源：Daily Sun，https://www.daily-sun.com/business/875510/world-bank-lends-350m-to-support-lng-imports
+- 关键事实：报道称世行已批准3.5亿美元融资，用于在全球燃料市场波动中支持孟加拉以成本更可控的机制进口LNG，覆盖Petrobangla的LNG付款，保障发电、工业活动和就业。
+- 备注：写作时强调这是能源安全和进口融资，不是普通基础设施贷款。
+
+- 分类：投资机构
+- 标题：Anthropic收购Stainless，VC支持的开发者工具资产进入Claude体系
+- 主体：Anthropic、Stainless、Sequoia Capital、Andreessen Horowitz等早期投资人
+- 金额：官方未披露；The Information此前报道称谈判价格超过3亿美元，TechCrunch转述该口径
+- 领域：开发者工具、SDK生成、MCP/Agent连接、AI应用基础设施
+- 主来源：TechCrunch，https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/
+- 交叉来源：Axios Pro Rata，https://www.axios.com/newsletters/axios-pro-rata-d969e2c3-8307-4952-be0c-ea0c8e3fb2f8
+- 关键事实：Anthropic宣布收购Stainless；TechCrunch称条款未披露，但The Information此前报道交易可能超过3亿美元。Stainless的工具曾服务OpenAI、Google、Cloudflare等客户，收购后Anthropic将关闭托管产品。
+- 备注：放在投资机构板块，重点写成“风险资本退出和AI基础设施并购”，不是把未披露金额写死为官方金额。
+
+- 分类：企业
+- 标题：Analog Devices以15亿美元现金收购Empower Semiconductor
+- 主体：Analog Devices、Empower Semiconductor、AI处理器与数据中心客户
+- 金额：约15亿美元现金
+- 领域：AI电源管理、集成电压调节器、数据中心、半导体并购
+- 主来源：Investing转Reuters，https://www.investing.com/news/stock-market-news/analog-devices-to-buy-empower-semiconductor-for-15-billion-to-boost-ai-power-portfolio-4699720
+- 交叉来源：StockTitan公司新闻，https://www.stocktitan.net/news/ADI/analog-devices-to-acquire-empower-semiconductor-expanding-its-next-wkge55quzorn.html
+- 关键事实：ADI称将以约15亿美元现金收购Empower，强化AI相关电源管理组合。Empower CEO称公司解决的是AI电源交付瓶颈，交易预计2026年下半年完成，需监管批准。
+- 备注：核心不是普通芯片并购，而是AI机柜电力密度、供电效率和封装级电源成为瓶颈。
+
+- 分类：富豪资本
+- 标题：本期不硬凑富豪个人出手
+- 备注：5月20采样窗口内可核验的大额富豪/家族办公室新增交易不足；OnlyFans、Ackman、Berkshire等本月已发布或属于此前13F披露，本期不重复。
+
+- 分类：平民消费
+- 标题：520消费从“浪漫加价”转向折扣、即时零售和黄金投资分化
+- 主体：消费者、京东、美团/即时零售平台、鲜花店、黄金珠宝、美妆品牌
+- 热门品类：鲜花与即时送礼、美妆护肤、黄金珠宝、品牌购物卡、本地生活/即时零售
+- 代表产品：鲜花卡、520礼盒、精华/香水/口红、黄金珠宝、品牌购物卡、外卖/到店券
+- 品类金额或增速：中国黄金协会口径：2026年一季度黄金首饰消费量84.62吨，同比下降37.10%；金条及金币消费量202.06吨，同比上涨46.40%。QuestMobile 2026本地生活消费洞察称，淘宝、京东主站用户使用频次仍能维持10%以上同比增长，美团增速为2.6%。
+- 昨日最火消费品牌（国内）：京东、美团/美团闪购、淘宝/天猫、周大生/中国黄金、珀莱雅
+- 昨日最火消费品牌（国外）：兰蔻、SK-II、Apple、Dyson、Givenchy
+- 主来源：新浪财经，https://finance.sina.com.cn/jjxw/2026-05-19/doc-inhyksxt2389211.shtml
+- 交叉来源1：DoNews京东520礼物金榜，https://www.donews.com/news/detail/4/6557603.html
+- 交叉来源2：凤凰网转QuestMobile本地生活消费洞察，https://tech.ifeng.com/c/8tFwuyQFv4Z
+- 交叉来源3：ONSITECLUB兰蔻520纯粹花市，https://www.onsiteclub.com/case/Lancome-520--Blossom-Fair-Shanghai-2026-5-17
+- 备注：消费结论要写“分化”：年轻人对高价浪漫符号更谨慎，平台靠券、即时达和购物卡促转化，黄金从首饰礼赠转向金条金币投资需求。
+
+- 分类：高薪职位
+- 岗位方向：AI/数据、金融信息安全、医疗技术、物流自营
+- 中国高薪岗位：
+  1. AI科学家/AI负责人：人民币132796元/月；口径为脉脉2026春招报告。
+  2. 算法研究员：人民币74441元/月；口径为脉脉2026春招报告。
+  3. AI infra：人民币73702元/月；口径为脉脉2026春招报告。
+  4. 金融InfoSec/IT Risk Director：人民币80000至125000元/月；口径为Morgan McKinley 2026中国金融服务薪酬指南，上海年薪96万至150万元折算。
+- 国际高薪岗位：
+  1. Truck driver owner-operator：美元约13333美元/月，年薪约160000美元；口径为Indeed 2026最佳岗位榜，经Axios/Fox Business转引。
+  2. Cardiac medical tech：美元约11159美元/月，年薪约133907美元；口径为Indeed 2026最佳岗位榜。
+  3. Data Scientist：美元约9383美元/月，年薪中位数112590美元；口径为BLS职业手册。
+- 标准参考来源：
+  - 新浪科技转脉脉报告：https://finance.sina.com.cn/tech/roll/2026-05-13/doc-inhxufve9216270.shtml
+  - 东方财富转脉脉报告：https://finance.eastmoney.com/a/202605143736787097.html
+  - Morgan McKinley：https://www.morganmckinley.com.cn/en/2026-salary-guide/banking-financial-services/permanent-salaries
+  - BLS Data Scientists：https://www.bls.gov/ooh/math/data-scientists.htm
+  - Axios Indeed 2026 jobs：https://www.axios.com/2026/01/13/ai-indeed-best-jobs-2026-healthcare
+- 对普通人的切入要求：AI infra要懂分布式系统、GPU/算力调度和训练效率；金融安全要懂监管、风控和技术审计；医疗岗位需要认证和长期训练；物流自营高收入伴随资产投入、运营风险和现金流压力。

@@ -1,0 +1,80 @@
+谁在花钱｜素材池
+日期：2026-05-17
+
+【政府】
+- 标题：广州南沙港区五期工程开工
+- 主体：广州港集团 / 广州南沙港区
+- 金额：总投资约144.47亿元
+- 领域：港口、外贸物流、自动化码头、粤港澳大湾区基础设施
+- 事件：南沙港区五期工程规划建设4个20万吨级、2个10万吨级集装箱泊位，设计年通过能力600万TEU。
+- 主来源：https://www.gz.gov.cn/zwfw/zxfw/jtfw/content/post_10288356.html
+- 交叉来源：https://www.news.cn/20260515/5c99e332e59242418740fd1626b67cca/c.html
+- 备注：用于政府板块。属于新增工程开工，不在5月去重清单内。
+
+【国际政府与开发资金】
+- 标题：World Bank支持巴西东北部能源转型和就业创造
+- 主体：World Bank / Brazil
+- 金额：5亿美元贷款
+- 领域：低碳工业、能源转型、农产品供应链、就业
+- 事件：世界银行批准5亿美元支持巴西东北部以低碳方式生产工业和农业商品，并推动就业。
+- 主来源：https://www.worldbank.org/en/news/press-release/2026/05/15/world-bank-supports-energy-transition-and-job-creation-in-brazil-northeast-region
+- 备注：用于国际政府与开发资金板块。5月未写过。
+
+【投资机构】
+- 标题：Fasset完成5100万美元B轮融资
+- 主体：SBI Holdings、Investcorp、Arz Portfoy等投资方 / Fasset
+- 金额：5100万美元Series B
+- 领域：稳定币、数字资产银行、跨境金融基础设施
+- 事件：Fasset宣布完成5100万美元B轮融资，计划扩大稳定币驱动的金融服务。
+- 主来源：https://www.fasset.com/blog/fasset-has-raised-a-51-million-series-b-round
+- 交叉来源：https://www.coindesk.com/business/2026/05/16/la-based-fasset-raises-51m-series-b-funding
+- 备注：用于投资机构板块。金额较小，但主题清晰：传统投资方投向稳定币金融入口。
+
+【企业】
+- 标题：Alphabet发行约36亿美元等值日元债
+- 主体：Alphabet
+- 金额：约36亿美元等值日元债，市场报道称为海外发行人在日本市场的最大日元债之一
+- 领域：公司融资、AI资本开支、数据中心
+- 事件：Alphabet在日元债市场融资，用于一般企业用途；市场解读与AI和云基础设施资本开支相关。
+- 主来源：https://www.reuters.com/markets/deals/alphabet-raises-36-bln-largest-yen-deal-foreign-issuer-2026-05-15/
+- 交叉来源：https://finance.yahoo.com/news/alphabet-raises-3-6-billion-largest-yen-deal-foreign-issuer-092753933.html
+- 备注：用于企业板块。若Reuters链接不可直连，Yahoo Finance为转载交叉来源。
+
+【富豪资本】
+- 标题：Berkshire 13F披露新建仓Alphabet、Delta、UnitedHealth等
+- 主体：Berkshire Hathaway / Warren Buffett相关资本平台
+- 金额：按13F披露持仓估算，Alphabet、Delta、UnitedHealth等新仓位合计达到数十亿美元量级
+- 领域：二级市场、科技、航空、医疗保险
+- 事件：Berkshire Hathaway在13F中披露一季度末持仓变化，市场关注其新增Alphabet、Delta和UnitedHealth等持仓。
+- 主来源：https://www.sec.gov/Archives/edgar/data/1067983/000119312526226661/0001193125-26-226661-index.htm
+- 交叉来源：https://www.reuters.com/markets/us/buffetts-berkshire-reveals-new-stakes-alphabet-delta-unitedhealth-2026-05-15/
+- 备注：用于富豪资本板块。因13F披露为季度末持仓，不等同于5月即时买入，正文需写明口径。
+
+【平民消费】
+- 标题：618从平台启动转向场景消费
+- 主体：抖音商城、京东、天猫、快手等平台和消费者
+- 热门品类：520礼赠、美妆个护、手机数码、智能家电、运动户外、居家囤货
+- 代表产品：防晒/底妆、小样礼盒、手机、智能眼镜、节能家电、运动户外装备
+- 品类金额/增速：官方报道重点披露消费券、满减、百亿补贴和平台大促节奏，未给统一GMV口径；此前商务部口径显示一季度重点平台智能眼镜销售额增长4.6倍。
+- 昨日较火消费品牌（国内）：京东、抖音商城、天猫、小米、华为、珀莱雅
+- 昨日较火消费品牌（国外）：Apple、Ray-Ban Meta、Garmin、Nike、Lululemon、L'Oreal
+- 主来源：https://www.news.cn/tech/20260515/e957985b460446949cf10816b893e78e/c.html
+- 交叉来源：https://www.donews.com/news/detail/4/6530640.html
+- 备注：5月15日已写过618启动，本期只写新增消费流向：520礼赠、数码焕新、智能硬件、户外运动和居家囤货。
+
+【高薪职位】
+- 岗位方向：AI负责人、AI基础设施/高性能计算、金融网络安全、专科医生、麻醉护士、软件架构师
+- 中国高薪岗位：
+  1) AI科学家/AI负责人：132796元/月，人民币，脉脉2026春招报告转引口径。
+  2) AI infra/高性能计算工程师：约60000-100000元/月，人民币，招聘平台观察口径；脉脉报告显示高性能计算工程师供需比明显紧张。
+  3) 金融IT安全高级岗：约108300元/月，人民币，Morgan McKinley中国金融服务薪酬指南中年薪130万元折算。
+- 国际高薪岗位：
+  1) 专科医生/医生类：约19933美元/月以上，BLS最高薪职业年薪不低于239200美元折算。
+  2) Nurse Anesthetist：约18601美元/月，BLS年薪中位数223210美元折算。
+  3) Software Architect：约19083美元/月，Glassdoor美国总薪酬中位数229000美元折算。
+- 主来源：https://finance.sina.com.cn/tech/roll/2026-05-13/doc-inhxufve9216270.shtml
+- 主来源：https://www.morganmckinley.com.cn/en/salary-guide/banking-financial-services/permanent-salaries
+- 主来源：https://www.bls.gov/ooh/highest-paying.htm
+- 主来源：https://www.bls.gov/ooh/healthcare/nurse-anesthetists-nurse-midwives-and-nurse-practitioners.htm
+- 主来源：https://www.glassdoor.com/Salaries/software-architect-salary-SRCH_KO0,18.htm
+- 备注：沿用前期已核验高薪口径。国际岗位人民币折算按1美元约7.2元估算。

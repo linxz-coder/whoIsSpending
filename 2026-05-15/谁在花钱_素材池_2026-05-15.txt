@@ -1,0 +1,57 @@
+谁在花钱｜素材池
+日期：2026-05-15
+
+本期候选素材：
+
+1. 政府｜云南省地方债
+- 标题：云南省5月15日将招标发行地方政府再融资一般债券和专项债券。
+- 主体：云南省政府、地方财政、债券投资人、存量隐性债务置换对象。
+- 金额：计划发行总额411.4亿元，其中224.9亿元再融资专项债用于置换存量隐性债务。
+- 来源：中国金融信息网/新华财经
+- 链接：https://www.cnfin.com/kx/detail/20260509/4410346_1.html
+
+2. 国际政府与开发资金｜ADB支持东盟
+- 标题：ADB承诺到2030年为东盟旗舰项目动员300亿美元。
+- 主体：Asian Development Bank、ASEAN、东盟成员国。
+- 金额：到2030年动员300亿美元；其中60亿美元用于深化资本市场，50亿美元用于加速ASEAN Power Grid；电网支持到2035年最高100亿美元。
+- 来源：ADB SEADS
+- 链接：https://seads.adb.org/news/unity-amidst-adversity-asean-outlines-priority-actions-regional-resilience
+
+3. 投资机构｜Cerebras IPO落地
+- 标题：Cerebras Systems以185美元/股定价IPO，募资55.5亿美元。
+- 主体：Cerebras、IPO投资人、承销商、AI芯片和算力基础设施买方。
+- 金额：30,000,000股Class A普通股，公开发行价185美元/股；募资约55.5亿美元；TechCrunch称首日开盘涨幅一度超100%。
+- 官方来源：https://www.cerebras.ai/press-release/cerebras-systems-announces-pricing-of-initial-public-offering
+- 二级来源：https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/
+
+4. 企业｜Microsoft/OpenAI累计投入
+- 标题：Microsoft高管在Musk v. Altman庭审中称，公司对OpenAI合作投入已超过1000亿美元。
+- 主体：Microsoft、OpenAI、Azure基础设施、AI模型托管体系。
+- 金额：累计超过1000亿美元，包含原始投资、Azure基础设施和托管成本；其中包含此前约130亿美元直接投资。
+- 来源：Bloomberg、The Information、Windows Central转引庭审证词
+- 链接：https://www.bloomberg.com/news/articles/2026-05-13/microsoft-spent-over-100-billion-on-openai-partnership-to-date
+- 链接：https://www.theinformation.com/briefings/microsoft-says-spent-100-billion-openai
+- 链接：https://www.windowscentral.com/microsoft/microsoft-made-usd30-billion-from-openai-in-2-years-but-somehow-burned-through-usd100-billion-in-costs-to-get-there
+
+5. 富豪资本｜Kevin Hartz的A*新基金
+- 标题：Kevin Hartz与Bennett Siegel管理的A*关闭4.5亿美元第三期基金。
+- 主体：A*、Kevin Hartz、Bennett Siegel、LP、早期创业公司。
+- 金额：Fund III 4.5亿美元；平均单笔300万至500万美元，计划投至少30家公司。
+- 来源：TechCrunch、Cooley
+- 链接：https://techcrunch.com/2026/05/12/kevin-hartzs-a-just-closed-its-third-fund-with-450-million/
+- 链接：https://www.cooley.com/news/coverage/2026/2026-05-12-a-announces-%24450-million-fund-iii
+
+6. 平民消费｜618内容电商和智能硬件
+- 标题：京东提前启动618，抖音商城618好物节5月15日开始；智能眼镜仍是以旧换新新热点。
+- 主体：京东、抖音商城、快手电商、天猫、智能眼镜和智能硬件品牌。
+- 金额/规模：京东提出打造至少1000款年销售额破亿元新品；抖音商城618主打百亿消费券；商务部口径一季度重点平台智能眼镜销售额增长4.6倍。
+- 来源：DoNews、人民网/商务部
+- 链接：https://www.donews.com/news/detail/4/6530640.html
+- 链接：https://finance.people.com.cn/BIG5/n1/2026/0424/c1004-40707935.html
+
+7. 高薪职位｜AI和AI基建岗位
+- 标题：脉脉2026春招报告显示，AI科学家/负责人平均月薪132796元。
+- 主体：AI科学家/负责人、算法研究员、AI infra、架构师、大模型算法、AIGC算法工程师。
+- 金额：AI科学家/负责人平均月薪132796元；高性能计算工程师供需比从0.99降至0.26。
+- 来源：新浪科技转引脉脉2026春招报告
+- 链接：https://finance.sina.com.cn/tech/roll/2026-05-13/doc-inhxufve9216270.shtml

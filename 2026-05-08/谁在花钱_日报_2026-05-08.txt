@@ -1,0 +1,136 @@
+谁在花钱｜每日花钱新闻日报
+日期：2026-05-08（北京时间）
+采样窗口：2026-05-04 至 2026-05-08
+版本：研究版
+
+一、今日要点
+今天的大钱集中在“设备更新国债资金、World Bank债券融资、数据中心REIT、Nvidia生态合作、地热能源IPO、文旅消费总账”。
+- 政府端：第二批915亿元超长期特别国债支持设备更新资金已下达。
+- 机构端：Blackstone数据中心投资载体拟募资超17亿美元。
+- 企业端：Iren与Nvidia推进5GW AI工厂基础设施合作，并给予Nvidia最高21亿美元股权期权。
+
+二、分项日报
+
+【1】政府：发改委下达第二批915亿元超长期特别国债支持设备更新
+- 花钱主体：国家发展改革委、各地设备更新项目执行主体
+- 金额：第二批915亿元；支持16个领域超过6700个项目，带动总投资超过3800亿元；今年累计安排1851亿元，占全年2000亿元的92%
+- 领域：工业、能源电力、电子信息、交通运输、物流、教育、文旅、医疗、老旧电梯、安全生产、检验检测、节能降碳等
+- 发生时间：2026-04-30披露，5月继续落地
+- 对普通人的提示：这笔钱会直接流向设备采购、工程改造和项目交付，工业设备、能源电力、医疗设备、老旧电梯改造和检验检测岗位需求更稳。
+- 原始/主来源：
+  1) 国家发展改革委：https://www.ndrc.gov.cn/fggz/202604/t20260430_1405007.html
+- 二次核验来源：
+  1) 央视新闻/中新网转引：https://www.chinanews.com.cn/cj/2026/04-30/10613582.shtml
+- 审查结论：通过。金额、支持领域和带动投资口径来自发改委官方公告。
+
+【2】国际政府与开发资金：World Bank发行NZD 13亿Kauri债券补充发展资金
+- 花钱主体：World Bank、全球债券投资人
+- 金额：NZD 13亿；7年期Kauri债券，为同期限最大规模交易
+- 领域：可持续发展融资、开发资金、SSA债券市场
+- 发生时间：2026-04-10披露，5月仍在国际资金配置窗口中
+- 对普通人的提示：开发资金不只来自政府拨款，也来自高评级债券融资；债券发行、绿色金融、项目融资和国际金融岗位值得关注。
+- 原始/主来源：
+  1) World Bank官方公告：https://www.worldbank.org/en/news/press-release/2026/04/10/world-bank-returns-to-kauri-market-with-largest-7-year-nzd-1-3-billion-benchmark-bond
+- 二次核验来源：
+  1) World Bank可持续发展债券资料
+- 审查结论：通过。发行规模、期限和用途披露完整。
+
+【3】投资机构：Blackstone数据中心投资载体拟IPO募资超17亿美元
+- 花钱主体：Blackstone Digital Infrastructure Trust及公开市场投资人
+- 金额：拟募资略超17亿美元；发行8750万股，每股20美元
+- 领域：数据中心REIT、AI基础设施、公开市场融资
+- 发生时间：2026-05-04披露，5月继续推进上市
+- 对普通人的提示：AI基础设施正在被包装成可交易的公开市场资产，房地产金融、REITs、数据中心资产管理和电力评估岗位会更重要。
+- 原始/主来源：
+  1) Reuters转引：https://www.investing.com/news/stock-market-news/blackstone-vehicle-aims-to-raise-over-17-billion-in-us-ipo-to-fund-data-center-bet-4656127
+- 二次核验来源：
+  1) The Star转引Reuters：https://www.thestar.com.my/tech/tech-news/2026/05/04/blackstone-vehicle-aims-to-raise-over-17-billion-in-us-ipo-for-data-center-bet
+- 审查结论：通过。募资规模、发行股数和用途来自Reuters口径。
+
+【4】企业：Iren与Nvidia合作建设5GW AI工厂基础设施，Nvidia获最高21亿美元购股期权
+- 花钱主体：Iren、Nvidia
+- 金额：Nvidia五年期购股期权最高21亿美元；合作目标为5GW AI工厂基础设施
+- 领域：AI数据中心、Nvidia DSX、推理算力、能源基础设施
+- 发生时间：2026-05-08披露
+- 对普通人的提示：AI算力正从GPU采购扩展到“能源容量+园区+股权绑定”，电力开发、数据中心选址、能源并购和算力运维岗位机会继续增加。
+- 原始/主来源：
+  1) MarketWatch：https://www.marketwatch.com/story/irens-stock-soars-as-a-major-nvidia-investment-overshadows-revenue-shortfall-c286cdb8
+- 二次核验来源：
+  1) Iren财报与市场转引口径
+- 审查结论：基本通过。股权期权金额和5GW目标明确，后续以双方正式文件为准。
+
+【5】富豪资本：Bill Gates等支持的Fervo Energy拟IPO募资最高13亿美元
+- 花钱主体：Fervo Energy、Bill Gates旗下Breakthrough Energy Ventures等早期投资方、IPO投资人
+- 金额：拟募资最高13亿美元；发行5555.5555万股，价格区间21至24美元；估值最高约65亿美元
+- 领域：地热能源、AI数据中心电力、清洁基荷能源
+- 发生时间：2026-05-04披露，5月中旬拟挂牌
+- 对普通人的提示：富豪资本正在押注“AI数据中心电力瓶颈”，地热、核电、储能和电力采购会成为AI基础设施的关键岗位方向。
+- 原始/主来源：
+  1) Fervo官方公告：https://www.globenewswire.com/news-release/2026/05/04/3286604/0/en/fervo-energy-announces-launch-of-its-initial-public-offering.html
+- 二次核验来源：
+  1) TechCrunch：https://techcrunch.com/2026/05/04/geothermal-startup-fervo-energy-to-raise-up-to-1-3b-in-ipo/
+  2) Bloomberg转引摘要：https://www.bloomberg.com/news/articles/2026-05-04/geothermal-energy-developer-fervo-seeks-1-33-billion-in-us-ipo
+- 审查结论：通过。发行股数、价格区间和募资上限来自公司公告及多家媒体。
+
+【6】平民消费：五一国内出游3.25亿人次，花费1854.92亿元
+- 花钱主体：居民文旅消费、景区/演出/夜间经济/文创消费
+- 热门品类（至少3个）：
+  1) 国内旅游：3.25亿人次，同比增长3.6%；总花费1854.92亿元，同比增长2.9%
+  2) 夜间文旅消费：国家级夜间文旅消费集聚区客流8041.37万人次，同比增长6.44%
+  3) 演出经济：营业性演出3.20万场，票房24.76亿元，同比增长14.66%
+  4) 惠民活动：约1.37万场文旅消费活动，发放超2.84亿元消费券
+- 代表产品（至少3个）：景区门票、夜游项目、演唱会/音乐节门票、酒店套餐、文创产品
+- 昨日最火消费品牌（国内，至少3个）：故宫文创、长隆、携程
+- 国内品牌正在热卖单品/服务：
+  1) 故宫文创：文创纪念品与展览门票
+  2) 长隆：主题乐园门票与亲子游套票
+  3) 携程：酒店、机票和跨省游产品
+- 昨日最火消费品牌（国外，至少3个）：Disney、Apple、Nike
+- 国外品牌正在热卖单品：
+  1) Disney：上海迪士尼门票和度假区消费
+  2) Apple：旅行场景中的iPhone与Apple Watch
+  3) Nike：旅行穿搭与轻便运动鞋
+- 文字总结（为什么火 / 火到什么程度 / 哪个品牌最火）：
+  1) 为什么火：五一消费从单纯出行转向“文旅+夜游+演出+文创”，体验消费比单一购物更强。
+  2) 火到什么程度：全国国内出游3.25亿人次、花费1854.92亿元；夜间文旅消费集聚区客流超8000万人次；演出票房同比增长14.66%。
+  3) 哪个品牌最火：按官方点名热度看，上海迪士尼、北京故宫、广州长隆都在头部；如果必须选一个兼具品牌化和消费能力的，上海迪士尼最突出。
+- 对普通人的提示：节后消费机会应从“旅游总量”转向“夜游、演出、主题乐园、文创和亲子游”这些可复购、可内容化的项目。
+- 原始/主来源：
+  1) 文化和旅游部官方：https://www.mct.gov.cn/gtb/index.jsp?url=https%3A%2F%2Fwww.mct.gov.cn%2Fwhzx%2Fwhyw%2F202605%2Ft20260506_965708.htm
+- 二次核验来源：
+  1) 新华社转引：https://news.sina.com.cn/c/2026-05-07/doc-inhxanxc8276545.shtml
+  2) 科技日报：https://www.stdaily.com/web/gdxw/2026-05/07/content_513006.html
+- 审查结论：通过。出游、花费、夜间消费和演出票房数据来自文旅部。
+
+【7】高薪职位：中国/国际分组，币种与来源标注
+- 岗位方向：跨行业高薪岗位，覆盖AI、金融安全、云计算、医疗、口腔、飞行员。
+- 中国高薪岗位（岗位、月薪、币种、参考来源）：
+  1) AI科学家/AI负责人：人民币137153元/月；口径为脉脉2026年1-2月中高端岗位平均月薪；参考来源：脉脉报告（新浪财经转引）
+  2) 金融IT安全高级岗：人民币约108300元/月；口径为Morgan McKinley中国金融服务薪酬指南中上海Senior Executives - IT Security平均年薪130万元折算；参考来源：Morgan McKinley 2026 China Salary Guide
+  3) 云计算架构师：人民币约41600元/月；口径为一线城市年薪接近50万元折算；参考来源：51job《人力资源白皮书》（新浪财经转引）
+- 国际高薪岗位（岗位、月薪、币种、参考来源）：
+  1) Doctor/医生：美元约22167美元/月，折合人民币约159600元/月；口径为Glassdoor年薪中位数266000美元折算；参考来源：Glassdoor
+  2) Dentist/牙医：美元约21250美元/月，折合人民币约153000元/月；口径为Glassdoor年薪中位数255000美元折算；参考来源：Glassdoor
+  3) Airline Pilot/航空飞行员：美元约18883美元/月，折合人民币约135960元/月；口径为BLS航空飞行员年薪中位数226600美元折算；参考来源：BLS
+- 薪资区间与口径：人民币折算按1美元≈7.2元人民币估算；中国岗位为招聘平台/薪酬指南口径，国际岗位为美国市场薪资口径，不含税费、奖金和地区差异。
+- 对普通人的提示：国内高薪切入点仍在AI工程化、金融安全和云架构；国际岗位则更多依赖执照、资质和长期训练。
+- 原始/主来源：
+  1) 新浪财经转引脉脉：https://finance.sina.com.cn/roll/2026-03-09/doc-inhqkxfr6896623.shtml
+  2) Morgan McKinley中国金融服务薪酬指南：https://www.morganmckinley.com.cn/en/2026-salary-guide/banking-financial-services/permanent-salaries
+  3) BLS最高薪职业：https://www.bls.gov/ooh/highest-paying.htm
+- 二次核验来源：
+  1) Glassdoor Doctor薪酬：https://www.glassdoor.com/Salaries/doctor-salary-SRCH_KO0%2C6.htm
+  2) Glassdoor Dentist薪酬：https://www.glassdoor.com/Salaries/dentist-salary-SRCH_KO0%2C7.htm
+  3) 51job白皮书转引：https://finance.sina.com.cn/jjxw/2026-02-27/doc-inhphcxk0716762.shtml
+- 审查结论：通过。已标注币种、月薪口径和参考来源。
+
+三、今日综合判断
+1. 国内政府资金继续从消费补贴扩展到设备更新和产业升级。
+2. World Bank等开发机构通过债券市场补充长期开发资金。
+3. AI基础设施继续金融化，数据中心、地热能源和电力资产都在进入IPO/REIT化路径。
+4. 企业端从“租机房”走向“能源容量+股权绑定”的深度合作。
+5. 消费端从五一支付数据进一步细分到文旅、夜游、演出和主题乐园品牌。
+
+四、假新闻审查结论
+- 本期7条中，5条“通过”，2条“基本通过”，0条“存疑”。
+- 5月去重检查：未重复使用5月6日Sierra/AEP/Blue Owl、5月7日美国财政部1250亿美元/Blitzy/Hut 8/Terafab/五一支付7.85万亿元等已写条目。

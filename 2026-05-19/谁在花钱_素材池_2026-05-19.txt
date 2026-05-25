@@ -1,0 +1,74 @@
+谁在花钱｜素材池
+日期：2026-05-19
+
+采样窗口：2026-05-12 至 2026-05-19（北京时间）
+去重说明：已先读本月去重清单，剔除5月已写过的Cerebras、OnlyFans、Ackman/Microsoft、World Bank巴西贷款、Argentum AI、520礼赠等条目。京东618条目保留，因为5月18日出现了新的正式开卖时间、低至5折、JoyInside合作品牌和AI家场景口径。
+
+1. 政府
+- 标题：美国交通部称计划对华盛顿杜勒斯机场进行约220亿美元重建
+- 主体：美国联邦政府、美国交通部、Metropolitan Washington Airports Authority、United Airlines等
+- 金额：约220亿美元；政府分担比例尚未披露
+- 领域：机场、交通基础设施、航站楼、航空枢纽
+- 主来源：Reuters/Investing，2026-05-12，https://www.investing.com/news/world-news/us-plans-22-billion-rebuilding-of-washington-dulles-airport-4682719
+- 备注：Reuters称美国交通部长Sean Duffy表示该项目约需220亿美元，仍有细节待定；2025年机场管理方已批准至少70亿美元的资本改造计划。可写“规划级大额基础设施投入”，不要写成已经全额拨款。
+
+2. 国际政府与开发资金
+- 标题：ADB向菲律宾提供最高17.5亿美元危机支持融资准备
+- 主体：Asian Development Bank、菲律宾政府、Marcos政府、脆弱家庭和能源冲击相关行业
+- 金额：最高17.5亿美元额外政策性和逆周期贷款；另有约20亿美元政策性贷款正在准备
+- 领域：能源危机、财政压力、社会保护、燃油/化肥/商品冲击
+- 主来源：Philippine Information Agency/PCO，2026-05-15，https://pia.gov.ph/news/adb-chief-executives-pay-courtesy-call-to-president-marcos-as-bank-offers-1-75b-support/
+- 交叉来源：ADB官方新闻页，https://www.adb.org/news/adb-president-meets-philippine-president-marcos-offers-1-75-billion-crisis-support
+- 备注：金额是“ready to provide/offered up to”，不是菲律宾已经提款。重点在中东冲突导致能源进口国财政压力上升。
+
+3. 投资机构
+- 标题：Blackstone拟向Google TPU云合资公司投入50亿美元股权
+- 主体：Blackstone、Google/Alphabet、Benjamin Treynor Sloss、潜在AI云客户
+- 金额：Blackstone预计出资50亿美元并持有多数股权
+- 领域：AI云、TPU、另类资产、算力租赁
+- 主来源：Reuters/Investing，2026-05-18，https://www.investing.com/news/stock-market-news/google-blackstone-to-create-new-ai-cloud-company-wsj-reports-4697320
+- 备注：Reuters明确称尚未独立核实WSJ报道，Google和Blackstone未立即回应。可写“计划/预计”，不能写成已完成交易。
+
+4. 企业
+- 标题：NextEra计划以668亿美元收购Dominion，押注AI数据中心电力需求
+- 主体：NextEra Energy、Dominion Energy、美国电力客户、Northern Virginia数据中心客户
+- 金额：全股票交易约668亿美元；合并后公司企业价值约4200亿美元；客户侧有约130GW数据中心潜在接入需求
+- 领域：电力、公用事业、AI数据中心、并购
+- 主来源：Reuters/Investing，2026-05-18，https://www.investing.com/news/stock-market-news/nextera-energy-to-buy-dominion-in-668-billion-us-power-deal-4695477
+- 备注：交易仍需反垄断、FERC、NRC、州公用事业监管等批准。可写成“AI算力正在把电力公司推入并购潮”。
+
+5. 富豪资本
+- 标题：法院文件披露Sam Altman在与OpenAI有业务往来的公司中持有超过20亿美元权益
+- 主体：Sam Altman、Helion Energy、Stripe、Retro Biosciences、Cerebras等
+- 金额：合计超过20亿美元；其中Helion约17亿美元、Stripe约6.33亿美元、Retro Biosciences约2.58亿美元
+- 领域：AI关联投资、能源、支付、长寿科技、芯片
+- 主来源：Reuters/Investing，2026-05-13，https://m.investing.com/news/economy-news/openai-chief-altman-has-over-2-billion-stake-in-companies-that-dealt-with-openai-court-filing-4686030?ampMode=1
+- 备注：这是法院文件披露的持仓和关联交易风险，不是新增买入。发布版要把它写成“富豪资本的配置结构被照亮”，避免写成Altman今天花了20亿美元。
+
+6. 平民消费
+- 标题：京东618定档5月30日晚8点，全品类现货开卖、官方直降低至5折；抖音618已在5月15日开启
+- 主体：京东、抖音商城、消费者、品牌商家、家电家居/美妆/数码/运动户外品牌
+- 热门品类：手机数码、家电家居、AI智能硬件、美妆礼赠、居家囤货、运动户外、健康服务、本地生活服务
+- 代表产品：华为新品、美的新品、SK-II新品、飞鹤新品、学习灯、魔法打印机、智能床垫、炒菜机器人、智能轮椅、AI健康服务
+- 品类金额/折扣：京东官方直降低至5折；京东金融准备百亿消费补贴；JoyInside已与近200个品牌合作，计划植入超千万台智能硬件；抖音商城投入百亿消费券，手机数码家电叠加平台补/国补/店补后低至5折，大牌美妆低至3折
+- 昨日最火消费品牌（国内）：京东、华为、美的、飞鹤、小米/海尔（其中京东为平台，后四个为品牌）
+- 昨日最火消费品牌（国外）：SK-II、Apple、Dyson、Nike、Adidas（SK-II来自京东首发名单；其余作为618数码/家电/运动户外热门外资品牌，需表述为“观察名单”而非销售额排名）
+- 主来源1：新华网京东618，2026-05-18，https://www.news.cn/tech/20260518/4977f1932c554b29a9d0546210e05170/c.html
+- 主来源2：新华网抖音618，2026-05-15，https://www.news.cn/tech/20260515/e957985b460446949cf10816b893e78e/c.html
+- 备注：与5月17/18已写的618/520背景有关，但本期更新点是京东正式开卖时间、低至5折、JoyInside合作数量和超千万台智能硬件植入计划。
+
+7. 高薪职位
+- 岗位方向：中国AI领军人、AI infra、具身智能、高性能计算；国际医疗、物流自营、数据科学
+- 中国岗位：
+  1) AI科学家/负责人：132796元/月，脉脉2026春招报告口径
+  2) 算法研究员：74441元/月，脉脉2026春招报告口径
+  3) AI infra：73702元/月，脉脉2026春招报告口径
+  4) 具身智能：61625元/月平均月薪，岗位量同比暴增15倍
+- 国际岗位：
+  1) Truck driver owner-operator：约160000美元/年，即约13333美元/月，Indeed 2026最佳岗位榜转引
+  2) Cardiac medical tech：约133907美元/年，即约11159美元/月，Indeed 2026最佳岗位榜转引
+  3) Data Scientist：BLS 2024中位年薪112590美元，即约9383美元/月，2024-2034就业增长34%
+- 主来源1：每日经济新闻转引脉脉报告，2026-05-14，https://www.nbd.com.cn/articles/2026-05-14/4391595.html
+- 主来源2：BLS Data Scientists，https://www.bls.gov/ooh/math/data-scientists.htm
+- 主来源3：Axios转引Indeed 2026最佳岗位榜，https://www.axios.com/2026/01/13/ai-indeed-best-jobs-2026-healthcare
+- 备注：人民币折算如需出现，可按1美元≈7.2元人民币估算；国际薪资正文必须保留原币种。

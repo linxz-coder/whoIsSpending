@@ -1,0 +1,138 @@
+谁在花钱｜每日花钱新闻日报
+日期：2026-05-09（北京时间）
+采样窗口：2026-05-05 至 2026-05-09
+版本：研究版
+
+一、今日要点
+今天的大钱集中在“外资流入、高等级开发融资、预测市场融资、AI芯片IPO、家族办公室直投、母亲节消费”。
+- 政府端：商务部披露一季度全国实际使用外资2496亿元，高技术产业外资同比增长30.7%。
+- 投资端：Kalshi完成10亿美元融资，预测市场开始吸引大型机构资金。
+- 企业端：Cerebras拟IPO募资最高35亿美元，AI芯片资产继续冲击公开市场。
+
+二、分项日报
+
+【1】政府：商务部披露一季度全国实际使用外资2496亿元
+- 花钱主体：外商投资企业、跨国公司、地方招商体系
+- 金额：2026年1-3月实际使用外资2496亿元；高技术产业实际使用外资1027.3亿元，同比增长30.7%
+- 领域：高技术制造、研发设计、电子通信、计算机及办公设备制造
+- 发生时间：2026-04-24披露，5月继续作为招商和产业资金观察口径
+- 对普通人的提示：外资虽总量承压，但高技术方向继续增长，研发设计、电子通信、设备制造和外企本地化岗位仍有机会。
+- 原始/主来源：
+  1) 商务部官网：https://www.mofcom.gov.cn/xwfb/rcxwfb/art/2026/art_5129fc44d6584feca60c898006e75e21.html
+- 二次核验来源：
+  1) 新浪财经/智通财经转引：https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-04-24/doc-inhvqwee3209181.shtml
+- 审查结论：通过。总额、行业拆分和同比增速来自商务部官方口径。
+
+【2】国际政府与开发资金：ADB推出700亿美元亚洲能源与数字连接投资路线图
+- 花钱主体：Asian Development Bank、亚洲及太平洋地区政府、能源和数字基础设施项目方
+- 金额：到2035年支持700亿美元区域连接投资；其中泛亚洲电网计划拟动员500亿美元
+- 领域：跨境电网、数字基础设施、区域能源与宽带连接
+- 发生时间：2026-05-03披露
+- 对普通人的提示：开发资金正在把“电网互联+数字基础设施”放在同一张蓝图里，电力、通信、跨境工程和项目融资岗位会持续受益。
+- 原始/主来源：
+  1) Dhaka Tribune转引ADB公告：https://www.dhakatribune.com/bangladesh/development/409278/adb-to-provide-70-billion-for-asia-pacific
+- 二次核验来源：
+  1) Times of India转引ADB年会信息：https://timesofindia.indiatimes.com/business/international-business/adb-launches-70-billion-connectivity-plan-asia-power-and-digital-networks-to-expand-by-2035/articleshow/130733270.cms
+- 审查结论：基本通过。总额和方向一致，后续以ADB项目清单和年度承诺为准。
+
+【3】投资机构：Kalshi完成10亿美元融资，估值220亿美元
+- 花钱主体：Coatue、Sequoia Capital、Andreessen Horowitz、IVP、Paradigm、Morgan Stanley、ARK Invest等
+- 金额：10亿美元Series F融资；投后估值220亿美元
+- 领域：预测市场、机构交易、风险管理、事件合约
+- 发生时间：2026-05-07披露
+- 对普通人的提示：机构资金正在进入“事件定价”和新型交易市场，金融工程、风控、合规、交易系统和数据产品岗位需求会扩大。
+- 原始/主来源：
+  1) The Block：https://www.theblock.co/post/400413/kalshi-hits-22-billion-valuation-after-1-billion-raise-led-by-coatue
+- 二次核验来源：
+  1) 参与投资方和融资用途同口径披露
+- 审查结论：基本通过。金额和投资方明确，但需关注监管环境对业务扩张的影响。
+
+【4】企业：Cerebras拟IPO募资最高35亿美元，估值最高约266亿美元
+- 花钱主体：Cerebras Systems、IPO投资人、承销商
+- 金额：发行2800万股，价格区间115-125美元；最高募资约35亿美元；高端估值约266亿美元
+- 领域：AI芯片、推理算力、半导体IPO、公开市场融资
+- 发生时间：2026-05-04至2026-05-09披露
+- 对普通人的提示：AI芯片公司进入公开市场定价阶段，芯片设计、封装、AI推理部署、硬件销售和半导体资本市场岗位会继续升温。
+- 原始/主来源：
+  1) Cerebras官方公告：https://www.cerebras.ai/press-release/cerebras-systems-announces-launch-of-initial-public-offering
+- 二次核验来源：
+  1) Reuters转引：https://www.marketscreener.com/news/ai-chipmaker-cerebras-aims-to-raise-3-5-billion-in-us-ipo-ce7f58dedc8af421
+  2) TechCrunch：https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/
+- 审查结论：通过。发行数量、价格区间和募资上限来自公司公告与多家媒体。
+
+【5】富豪资本：家族办公室已累计部署3.83万亿美元直接投资
+- 花钱主体：全球家族办公室、高净值家族资本
+- 金额：3.83万亿美元直接投资，覆盖21702笔交易；前三大行业信息技术、工业、医疗合计占55%，金额1.67万亿美元
+- 领域：信息技术、工业、医疗、私募股权、增长股权、共同投资
+- 发生时间：2026-04-17披露，5月仍可作为富豪资本配置观察
+- 对普通人的提示：富豪资本偏好直接参与项目，而不是只买基金份额；创业者、并购顾问、产业投融资和家族办公室运营岗位需要更懂项目判断。
+- 原始/主来源：
+  1) Dakota Family Office Investment Database：https://www.dakota.com/resources/blog/top-10-sectors-family-offices-invest-in
+- 二次核验来源：
+  1) J.P. Morgan 2026 Global Family Office Report：https://www.prnewswire.com/news-releases/jp-morgan-private-bank-releases-2026-global-family-office-report-302676012.html
+- 审查结论：基本通过。数据库口径较大，适合判断富豪资本流向，不等同于单日交易额。
+
+【6】平民消费：母亲节消费预计达到380亿美元，礼物从鲜花转向珠宝、美妆、科技和体验
+- 花钱主体：家庭礼品消费、母亲节电商与线下零售
+- 热门品类（至少3个）：
+  1) 美国母亲节消费：NRF预计达到380亿美元，超过2025年的341亿美元
+  2) 珠宝与个性化礼物：Pandora推出母亲节Buy 2 Get 1 Free，个性化刻字、Mom charms、培育钻石是主推
+  3) 科技与小家电礼物：Dyson Airwrap、Apple Watch/AirPods、Kindle、Aura数字相框等继续被多家礼物榜推荐
+  4) 国内服饰美妆礼赠：京东服饰美妆母亲节专场启动，覆盖美妆护肤、黄金珠宝、箱包表配、鲜花礼赠等
+- 代表产品（至少3个）：鲜花、珠宝项链/手链、Dyson美发工具、Apple Watch、Kindle、数字相框
+- 昨日最火消费品牌（国内，至少3个）：京东服饰美妆、周大福、花西子
+- 国内品牌正在热卖单品/服务：
+  1) 京东服饰美妆：母亲节礼盒、美妆护肤、黄金珠宝专场
+  2) 周大福：黄金首饰、母亲节珠宝礼赠
+  3) 花西子：国货美妆礼盒
+- 昨日最火消费品牌（国外，至少3个）：Pandora、Dyson、Apple
+- 国外品牌正在热卖单品：
+  1) Pandora：Mom charms、可刻字首饰、培育钻石礼物
+  2) Dyson：Airwrap / Airwrap i.d. Multi-Styler
+  3) Apple：Apple Watch、AirPods、iPhone相关配件
+- 文字总结（为什么火 / 火到什么程度 / 哪个品牌最火）：
+  1) 为什么火：母亲节礼物从“节日鲜花”扩展到“长期可用、可表达心意、可个性化”的珠宝、美妆、健康科技和家电。
+  2) 火到什么程度：NRF预计美国母亲节消费创380亿美元新高；京东和Amazon等平台都在母亲节前集中上新礼物会场和限时折扣。
+  3) 哪个品牌最火：按平台活动和礼品场景适配度看，Pandora是母亲节珠宝礼物中最突出品牌；按高客单科技礼物看，Dyson和Apple仍然强势。
+- 对普通人的提示：短期消费机会集中在“可送礼、可个性化、高客单、能快速配送”的商品，珠宝、美妆、鲜花、智能穿戴和家用小电器比泛泛服饰更容易转化。
+- 原始/主来源：
+  1) NRF母亲节消费预测：https://nrf.com/media-center/press-releases/mother-s-day-spending-expected-to-hit-record-38-billion
+  2) 京东母亲节专场转引：https://www.hstong.com/news/detail/26050618432422222
+- 二次核验来源：
+  1) Pandora母亲节页面：https://us.pandora.net/en/gifts/occasions/mothers-day/
+  2) Forbes Vetted母亲节礼物：https://www.forbes.com/sites/forbes-personal-shopper/2026/05/05/best-mothers-day-gift/
+  3) TechRadar Amazon母亲节促销：https://www.techradar.com/tech/amazons-mothers-day-sale-is-so-good-im-shopping-it-for-myself-heres-everything-i-want-from-dyson-kindle-apple-and-more
+- 审查结论：通过。消费总额用NRF，单品热度用平台与专业导购交叉观察。
+
+【7】高薪职位：中国/国际分组，币种与来源标注
+- 岗位方向：跨行业高薪岗位，覆盖AI、金融安全、云计算、医疗、口腔、飞行员。
+- 中国高薪岗位（岗位、月薪、币种、参考来源）：
+  1) AI科学家/AI负责人：人民币137153元/月；口径为脉脉2026年1-2月中高端岗位平均月薪；参考来源：脉脉报告（新浪财经转引）
+  2) 金融IT安全高级岗：人民币约108300元/月；口径为Morgan McKinley中国金融服务薪酬指南中上海Senior Executives - IT Security平均年薪130万元折算；参考来源：Morgan McKinley 2026 China Salary Guide
+  3) 云计算架构师：人民币约41600元/月；口径为一线城市年薪接近50万元折算；参考来源：51job《人力资源白皮书》（新浪财经转引）
+- 国际高薪岗位（岗位、月薪、币种、参考来源）：
+  1) Doctor/医生：美元约22167美元/月，折合人民币约159600元/月；口径为Glassdoor年薪中位数266000美元折算；参考来源：Glassdoor
+  2) Dentist/牙医：美元约21250美元/月，折合人民币约153000元/月；口径为Glassdoor年薪中位数255000美元折算；参考来源：Glassdoor
+  3) Airline Pilot/航空飞行员：美元约18883美元/月，折合人民币约135960元/月；口径为BLS航空飞行员年薪中位数226600美元折算；参考来源：BLS
+- 薪资区间与口径：人民币折算按1美元≈7.2元人民币估算；中国岗位为招聘平台/薪酬指南口径，国际岗位为美国市场薪资口径，不含税费、奖金和地区差异。
+- 对普通人的提示：国内高薪路径仍然更偏AI工程化、金融安全和云架构；国际高薪岗位的核心门槛是执照、英语环境和长期训练周期。
+- 原始/主来源：
+  1) 新浪财经转引脉脉：https://finance.sina.com.cn/roll/2026-03-09/doc-inhqkxfr6896623.shtml
+  2) Morgan McKinley中国金融服务薪酬指南：https://www.morganmckinley.com.cn/en/2026-salary-guide/banking-financial-services/permanent-salaries
+  3) BLS最高薪职业：https://www.bls.gov/ooh/highest-paying.htm
+- 二次核验来源：
+  1) Glassdoor Doctor薪酬：https://www.glassdoor.com/Salaries/doctor-salary-SRCH_KO0%2C6.htm
+  2) Glassdoor Dentist薪酬：https://www.glassdoor.com/Salaries/dentist-salary-SRCH_KO0%2C7.htm
+  3) 51job白皮书转引：https://finance.sina.com.cn/jjxw/2026-02-27/doc-inhphcxk0716762.shtml
+- 审查结论：通过。已标注币种、月薪口径和参考来源。
+
+三、今日综合判断
+1. 中国外资结构继续向高技术产业倾斜，研发和电子通信仍有韧性。
+2. 亚洲开发资金在电网和数字基础设施上继续放大，区域互联成为长期主题。
+3. AI相关资本从模型、数据中心继续扩散到芯片IPO和事件交易市场。
+4. 富豪资本直接投资更偏信息技术、工业和医疗，项目选择越来越产业化。
+5. 母亲节消费说明节日消费正从鲜花转向珠宝、美妆、科技礼物和个性化服务。
+
+四、假新闻审查结论
+- 本期7条中，4条“通过”，3条“基本通过”，0条“存疑”。
+- 5月去重检查：未重复使用5月6日Sierra/AEP/Blue Owl、5月7日Blitzy/Hut 8/Terafab/五一支付、5月8日设备更新915亿元/Blackstone/Iren/Fervo/五一文旅总账等已写条目。

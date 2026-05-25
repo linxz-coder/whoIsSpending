@@ -1,0 +1,63 @@
+谁在花钱｜素材池
+日期：2026-05-18
+采样窗口：2026-05-15 至 2026-05-18
+
+1) 政府/监管资金
+- 标题：证监会披露社保、保险等中长期资金去年净买入A股超8000亿元
+- 主体：中国证监会、社保资金、保险基金、年金基金、公募基金、券商自营、上市公司和公募基金持有人
+- 金额：中长期资金净买入A股超8000亿元；上市公司现金分红2.55万亿元；公募基金实现盈利2.6万亿元
+- 领域：资本市场、长期资金入市、投资者保护、上市公司分红
+- 主来源：CCTV/新浪转引，https://finance.sina.com.cn/jjxw/2026-05-15/doc-inhxytza8026038.shtml
+- 交叉来源：央视《朝闻天下》，https://tv.cctv.com/2026/05/16/VIDEW0uUJh0h0KjcON8cr5gD260516.shtml
+- 备注：不写成财政直接支出，按“监管推动长期资金配置与市场分红回流”口径处理。
+
+2) 国际政府与开发资金
+- 标题：EBRD投资索菲亚机场首次债券发行
+- 主体：EBRD、SOF Connect AD、Sofia Airport、Meridiam、保加利亚交通基础设施项目投资人
+- 金额：EBRD认购5000万欧元；融资包总额4.5亿欧元；资金期限22年
+- 领域：机场、PPP、交通基础设施、债券融资、资本市场
+- 主来源：EBRD，https://www.ebrd.com/home/news-and-events/news/2026/ebrd-backs-sofia-airport-s-landmark-bond-issuance.html
+- 交叉来源：BTA，https://www.bta.bg/en/news/economy/1125838-sofia-airport-secures-eur-450-mln-for-construction-of-terminal-3-modernization-
+- 备注：EBRD本次是认购债券中的5000万欧元，不是单独提供4.5亿欧元。
+
+3) 投资机构
+- 标题：Arkeus完成1800万美元A轮融资，扩张国防AI感知系统
+- 主体：Arkeus、QIC Ventures、Main Sequence、其他本轮投资方
+- 金额：1800万美元Series A
+- 领域：国防科技、AI感知、无人平台、军用ISR、制造扩张
+- 主来源：PR Newswire/公司公告，https://www.prnewswire.com/news-releases/arkeus-announces-18m-series-a-to-scale-ai-sensing-systems-for-autonomous-platforms-operating-in-contested-military-environments-302773282.html
+- 交叉来源：Axios Pro Deals，https://www.axios.com/pro/all-deals/2026/05/15/arkeus-defense-tech-series-a
+- 备注：金额较小但方向清晰，适合作为“资本继续流向AI+国防+硬件制造”的样本。
+
+4) 企业
+- 标题：Argentum AI签署25亿美元、300MW欧洲AI数据中心协议
+- 主体：Argentum AI、Boosteroid、DL Invest Group、欧洲AI算力客户和电力/地产配套方
+- 金额：约25亿美元；300MW AI数据中心基础设施协议
+- 领域：AI基础设施、数据中心、云游戏算力转AI算力、欧洲算力主权
+- 主来源：PR Newswire/公司公告，https://www.prnewswire.com/news-releases/argentum-ai-signs-2-5-billion-300mw-ai-data-center-agreement-with-boosteroid-and-dl-invest-group-302773714.html
+- 交叉来源：Economic Times DataCenters，https://datacenters.economictimes.indiatimes.com/news/investments-deals/argentum-ai-partners-with-boosteroid-and-dl-invest-group-for-2-5-billion-data-center-project/131131172
+- 备注：公告口径为协议价值，后续仍需跟踪电力、土地、设备和融资落地节奏。
+
+5) 富豪资本
+- 标题：Bill Ackman旗下Pershing Square新建Microsoft持仓，并出售Alphabet作为资金来源
+- 主体：Bill Ackman、Pershing Square、Microsoft、Alphabet
+- 金额：13F显示Microsoft约565万股，季末市值约20.9亿美元；Reuters报道称出售Alphabet不是看空，而是为Microsoft腾挪资金
+- 领域：富豪资本、对冲基金、AI云、M365、科技巨头估值切换
+- 主来源：Reuters/Investing，https://www.investing.com/news/stock-market-news/bill-ackman-says-alphabet-stake-sale-not-a-bet-against-the-company-4694431
+- 交叉来源：Yahoo Finance，https://finance.yahoo.com/markets/stocks/articles/gates-foundation-sold-microsoft-shares-141500609.html
+- 备注：SEC 13F为一季度末持仓快照，Reuters补充Ackman对资金来源的解释。
+
+6) 平民消费
+- 标题：520礼赠和京东超级18推动美妆护肤、黄金珠宝、鲜花、家电家居等即时消费
+- 主体：京东、服饰美妆/黄金珠宝/奢品/箱包表配品牌、520礼赠消费者、家电家居品牌
+- 金额/折扣：520礼赠会场大牌券后低至7.2折，购物卡至高折上9折，最高520元无门槛券；京东超级18为5月17日20点至5月18日24点，提供200-20元全品类券等
+- 热门品类：美妆护肤、黄金珠宝、鲜花卡/即时送礼、箱包表配、家电家居
+- 主来源：凤凰网商业，https://biz.ifeng.com/c/8t5zCqPvsxx
+- 交叉来源：IT之家，https://www.ithome.com/0/951/568.htm
+- 备注：这是5月15日“618内容电商抢跑”的新切面，重点写520礼赠和即时配送，不重复写618百亿券总线索。
+
+7) 高薪职位
+- 中国来源：脉脉2026春招报告转引，https://finance.sina.com.cn/tech/roll/2026-05-13/doc-inhxufve9216270.shtml
+- 中国岗位：AI科学家/负责人平均月薪132796元；算法研究员74441元/月；AI infra、高性能计算工程师紧缺，人才供需比从0.99降至0.26；金融IT/信息安全高端岗位参考Morgan McKinley中国2026薪酬指南，Director InfoSec/IT Risk上海年薪96万至150万元，平均102万元
+- 国际来源：BLS Highest Paying Occupations，https://www.bls.gov/ooh/highest-paying.htm；BLS Nurse Anesthetists，https://www.bls.gov/ooh/healthcare/nurse-anesthetists-nurse-midwives-and-nurse-practitioners.htm；BLS Software Developers，https://www.bls.gov/ooh/computer-and-information-technology/software-developers.htm
+- 国际岗位：美国医生类多项岗位年薪不低于239200美元；麻醉护士年薪中位数223210美元；软件开发者年薪中位数133080美元、就业预计2024-2034增长15%

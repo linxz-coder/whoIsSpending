@@ -1,0 +1,147 @@
+谁在花钱｜每日花钱新闻日报
+日期：2026-05-14（北京时间）
+采样窗口：2026-05-08 至 2026-05-14
+版本：研究版
+
+一、今日要点
+今天的大钱集中在“地方债项目资金、南亚预算支持、企业语音AI、AI营销和解、OpenAI重仓投资、小样经济与AI健康穿戴”。
+- 政府端：截至5月13日，2026年以来地方债券发行已达40357亿元，同比增长8%，辽宁最新33.82亿元专项债投向供排水、地铁、医共体等项目。
+- 国际政府与开发资金：ADB同意向孟加拉提供10亿美元预算支持，用于缓冲能源价格和外部冲击。
+- 投资端：Vapi完成5000万美元Series B融资，估值约5亿美元，Amazon Ring等客户推动企业语音AI进入生产使用。
+- 企业端：Apple同意支付2.5亿美元和解Siri AI功能延迟相关诉讼，AI营销承诺开始形成真实现金成本。
+- 富豪资本：SoftBank季度净利润约116亿美元，OpenAI持仓收益成为核心驱动，并计划2026年继续向OpenAI投入300亿美元。
+
+二、分项日报
+
+【1】政府：年内地方债券发行突破4万亿元
+- 花钱主体：地方政府、财政系统、专项债项目单位、基建和公共服务项目方
+- 金额：截至2026-05-13，今年以来地方债券累计发行40357亿元，较2025年同期37520亿元增长8%；辽宁省政府专项债券七至九期总额33.82亿元
+- 领域：市政和产业园区基础设施、交通基础设施、医疗共同体、供排水、地铁建设、社会事业
+- 发生时间：2026-05-14披露
+- 对普通人的提示：地方财政资金仍在靠债券前置发力，工程建设、城建运维、轨交、市政水务、县域医疗和债券项目管理岗位会继续有项目需求。
+- 原始/主来源：
+  1) 中国经济网/证券日报：https://www.ce.cn/xwzx/gnsz/gdxw/202605/t20260514_2964345.shtml
+- 二次核验来源：
+  1) 财联社：https://www.cls.cn/detail/2370723
+  2) 东方财富债市早参：https://finance.eastmoney.com/a/202605143736621362.html
+- 审查结论：基本通过。40357亿元为Wind口径统计，专项债用途来自公开发行信息；适合判断资金流向。
+
+【2】国际政府与开发资金：ADB向孟加拉提供10亿美元预算支持
+- 花钱主体：Asian Development Bank、孟加拉政府、孟加拉财政和能源相关部门
+- 金额：10亿美元预算支持；孟加拉方面还讨论后续增加支持可能性，并提到2025-26财年ADB承诺提供14亿美元
+- 领域：预算支持、能源价格冲击、通胀压力、外汇稳定、金融改革、清洁能源目标
+- 发生时间：2026-05-06披露，5月继续作为南亚开发融资观察点
+- 对普通人的提示：多边资金正在转向“预算支持+能源冲击缓冲”，懂能源进口、财政改革、外汇风险、银行改革和国际项目协调的人会更吃香。
+- 原始/主来源：
+  1) The Daily Star：https://www.thedailystar.net/business/economy/news/adb-provide-1b-budget-support-bangladesh-4168546
+- 二次核验来源：
+  1) ADB ARIC新闻索引：https://aric.adb.org/money-finance/news
+  2) The Business Standard：https://www.tbsnews.net/economy/adb-provide-1b-bangladesh-seeks-cushion-mideast-war-shocks-1397276
+- 审查结论：基本通过。金额和用途由孟加拉财政部长在ADB年会期间披露，ADB ARIC收录相关新闻；最终拨付仍以ADB项目文件和政府签署为准。
+
+【3】投资机构：Vapi完成5000万美元Series B融资，估值约5亿美元
+- 花钱主体：Peak XV、M12、Kleiner Perkins、Bessemer Venture Partners、YC等
+- 金额：5000万美元Series B融资；总融资额7200万美元；TechCrunch称投后估值约5亿美元
+- 领域：企业语音AI、AI客服、呼叫中心、语音代理、开发者API
+- 发生时间：2026-05-12披露
+- 对普通人的提示：语音AI正在从演示走向真实客服和销售场景，机会在电话销售自动化、客服质检、CRM集成、语音评估、行业知识库和AI部署工程。
+- 原始/主来源：
+  1) GlobeNewswire/Vapi新闻稿：https://www.globenewswire.com/news-release/2026/05/12/3292882/0/en/vapi-raises-50m-series-b-as-it-reaches-1-billion-calls-powering-the-next-generation-of-enterprise-voice-ai.html
+- 二次核验来源：
+  1) TechCrunch：https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/
+  2) Axios Pro：https://www.axios.com/pro/enterprise-software-deals/2026/05/12/voice-ai-vapi-enterprise-agents
+- 审查结论：通过。融资金额、领投方和总融资来自公司新闻稿，估值和Amazon Ring客户线索由TechCrunch补充。
+
+【4】企业：Apple以2.5亿美元和解Siri AI延迟相关诉讼
+- 花钱主体：Apple、美国相关iPhone购买者、集体诉讼原告
+- 金额：2.5亿美元和解基金；部分符合条件的美国iPhone 15 Pro、iPhone 15 Pro Max和iPhone 16系列用户可能获得每台设备最高约95美元
+- 领域：消费电子、AI功能营销、Siri、Apple Intelligence、消费者保护和集体诉讼
+- 发生时间：2026-05-05至2026-05-06披露
+- 对普通人的提示：AI功能不能只靠发布会承诺，产品经理、法务合规、广告审核、客服赔付和AI交付管理会成为科技公司更重要的岗位。
+- 原始/主来源：
+  1) Reuters/Investing：https://www.investing.com/news/stock-market-news/apple-settles-lawsuit-over-late-siri-ai-features-for-250-million-4661262
+  2) 法院和解文件：https://clarksonlawfirm.com/wp-content/uploads/2026/05/05-05-2026-MOTION-for-Settlement-Plaintiffs-Notice-of-Motion-and-Motion-for-Preliminary-Approval-of-Class-Actio.pdf
+- 二次核验来源：
+  1) AP：https://apnews.com/article/8613d1681d1ee9d6fb00be8e0f82c89b
+  2) TechCrunch：https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/
+- 审查结论：通过。金额由Reuters和法院文件交叉确认。
+
+【5】富豪资本：SoftBank因OpenAI持仓收益季度净利约116亿美元，并计划继续投入
+- 花钱主体：SoftBank Group、孙正义、OpenAI、SoftBank Vision Fund相关投资组合
+- 金额：SoftBank 2026年1-3月季度净利润1.83万亿日元，约116亿美元；Vision Fund因OpenAI相关收益在当季计入3.1万亿日元收益；SoftBank称2026年将进一步向OpenAI投入300亿美元，累计投资将达646亿美元，以取得约13%股权
+- 领域：AI大模型、OpenAI、风险投资、科技控股、机器人和AI基础设施
+- 发生时间：2026-05-13披露
+- 对普通人的提示：顶级富豪资本和主权级科技资本正在用集中押注换取AI入口，普通人更应关注围绕OpenAI生态的企业服务、集成、合规、安全、数据治理和行业应用岗位。
+- 原始/主来源：
+  1) Reuters/Yahoo Finance：https://ca.finance.yahoo.com/news/softbank-records-12-billion-fourth-064417106.html
+- 二次核验来源：
+  1) SoftBank财报和Reuters报道链条
+- 审查结论：通过。利润、收益和OpenAI投资计划来自Reuters财报报道。
+
+【6】平民消费：618小样经济和AI健康穿戴升温
+- 花钱主体：淘宝/天猫、李佳琦直播间、美妆和生活品牌、Google/Fitbit、健康穿戴消费者、618预热用户
+- 热门品类（至少3个）：
+  1) 小样经济：5月13日李佳琦直播间启动618“小样节”，157个品牌参与，上架271个小样产品，覆盖美妆、食品、生活日用和宠物四大品类。
+  2) 中小样与试用前置：截至2026年5月，“所有女生的快乐市集”已落地6场线下活动，覆盖4座城市，近200个品牌参与，累计派发超200万份小样，吸引超11.5万人次参与，相关话题阅读量超1800万。
+  3) AI健康穿戴：Google发布99.99美元Fitbit Air无屏健身追踪器，并将Fitbit app升级为Google Health，主打Gemini驱动的AI健康教练。
+  4) 高端/大众美妆小样专区：赫莲娜、雅诗兰黛、兰蔻、祖玛珑等品牌已在天猫等平台设立中小样专区。
+- 代表产品（至少3个）：李佳琦618小样节链接、美妆中小样、食品/宠物试用装、赫莲娜/雅诗兰黛/兰蔻小样专区、Google Fitbit Air、Google Health Premium
+- 昨日最火消费品牌（中国平台/国内消费场景，至少3个）：李佳琦直播间、天猫、赫莲娜、雅诗兰黛、兰蔻
+- 国内品牌/中国平台热卖单品：
+  1) 李佳琦直播间：618小样节、百万支小样、试用前置场景
+  2) 天猫：中小样专区、618预热、520告白季承接
+  3) 赫莲娜/雅诗兰黛/兰蔻/祖玛珑：官方中小样专区和礼赠组合
+- 昨日最火消费品牌（国外，至少3个）：Google Fitbit、WHOOP、Garmin
+- 国外品牌正在热卖单品：
+  1) Google Fitbit：Fitbit Air，99.99美元无屏健身追踪器
+  2) WHOOP：订阅制无屏健康手环，成为Fitbit Air直接对标对象
+  3) Garmin：运动健康穿戴设备，受Google Health跨平台数据整合影响
+- 文字总结（为什么火 / 火到什么程度 / 哪个品牌最火）：
+  1) 为什么火：小样降低试错成本，适合618前做“先试后买”；AI健康穿戴则把硬件、订阅和健康数据服务绑在一起，适合长期复购。
+  2) 火到什么程度：小样节开播10分钟在线人数达到平日峰值；单场活动有157个品牌、271个小样产品；Fitbit Air以99.99美元直接切入无屏健康追踪器价格带。
+  3) 哪个品牌最火：中国平台看李佳琦直播间和天猫小样专区；国际硬件看Google Fitbit Air。
+- 对普通人的提示：短期选品可以关注“低单价试用装+正装转化+直播讲解”的链路；长期机会在健康数据、可穿戴配件、AI教练内容和跨平台运动健康服务。
+- 原始/主来源：
+  1) 新浪财经/新浪科技：https://finance.sina.com.cn/tob/2026-05-13/doc-inhxtzpf7484636.shtml
+  2) 新浪财经小样经济：https://finance.sina.com.cn/roll/2026-05-13/doc-inhxuncf4415471.shtml
+  3) TechCrunch Google Fitbit Air：https://techcrunch.com/2026/05/07/google-unveils-whoop-like-screenless-fitbit-air/
+- 二次核验来源：
+  1) DoNews：https://www.donews.com/news/detail/4/6554416.html
+  2) Forbes Vetted Google Fitbit Air：https://www.forbes.com/sites/forbes-personal-shopper/2026/05/07/google-fitbit-air-launch-2026/
+  3) 9to5Google：https://9to5google.com/2026/05/07/fitbit-air-launch/
+- 审查结论：通过。小样经济用新浪和DoNews交叉，Fitbit Air用TechCrunch、Forbes和9to5Google交叉。
+
+【7】高薪职位：中国/国际分组，币种与来源标注
+- 岗位方向：AI、金融安全、云计算、医疗、企业软件和健康服务，覆盖技术、金融、医疗、企业软件和AI产品交付。
+- 中国高薪岗位（岗位、月薪、币种、参考来源）：
+  1) AI科学家/AI负责人：人民币132796元/月；口径为脉脉2026春招职场洞察报告中新经济高薪岗位TOP20平均月薪；参考来源：每日经济新闻/新浪财经转引
+  2) 金融IT安全高级岗：人民币约108300元/月；口径为Morgan McKinley中国金融服务薪酬指南中上海Senior Executives - IT Security平均年薪130万元折算；参考来源：Morgan McKinley 2026 China Salary Guide
+  3) 云计算架构师：人民币约41600元/月；口径为一线城市年薪接近50万元折算；参考来源：51job《人力资源白皮书》（新浪财经转引）
+- 国际高薪岗位（岗位、月薪、币种、参考来源）：
+  1) 美国专科医生/医生类高薪岗位：美元约19933美元/月以上，折合人民币约143500元/月以上；口径为BLS多类医生岗位年薪不低于239200美元折算；参考来源：BLS
+  2) Nurse Anesthetist / 麻醉护士：美元约18601美元/月，折合人民币约133927元/月；口径为BLS麻醉护士年薪中位数223210美元折算；参考来源：BLS
+  3) Software Architect / 软件架构师：美元约19083美元/月，折合人民币约137400元/月；口径为Glassdoor美国Software Architect总薪酬中位数229000美元折算；参考来源：Glassdoor
+- 薪资区间与口径：人民币折算按1美元≈7.2元人民币估算；中国岗位为招聘平台/薪酬指南口径，国际岗位为美国市场薪资口径，不含税费、奖金、期权和地区差异。
+- 对普通人的提示：今天的高薪机会分两类，一类是短中期能转型的AI产品化、金融安全、云架构；另一类是长周期资质型的医疗和麻醉护理。AI岗位增长快，但要避免只会调用工具，最好叠加行业知识、系统架构或合规能力。
+- 原始/主来源：
+  1) 每日经济新闻脉脉春招报告：https://www.nbd.com.cn/articles/2026-05-14/4391595.html
+  2) 新浪财经转引脉脉春招报告：https://finance.sina.com.cn/jjxw/2026-05-14/doc-inhxvpqq8750312.shtml
+  3) Morgan McKinley中国金融服务薪酬指南：https://www.morganmckinley.com.cn/en/salary-guide/banking-financial-services/permanent-salaries
+  4) BLS最高薪职业：https://www.bls.gov/ooh/highest-paying.htm
+  5) BLS麻醉护士：https://www.bls.gov/ooh/healthcare/nurse-anesthetists-nurse-midwives-and-nurse-practitioners.htm
+  6) Glassdoor Software Architect：https://www.glassdoor.com/Salaries/software-architect-salary-SRCH_KO0%2C18.htm
+- 二次核验来源：
+  1) 51job白皮书转引：https://finance.sina.com.cn/jjxw/2026-02-27/doc-inhphcxk0716762.shtml
+- 审查结论：通过。已标注币种、月薪口径和参考来源。
+
+三、今日综合判断
+1. 中国地方债资金继续前置，基础设施和公共服务项目仍是财政资金主流出口。
+2. 国际开发资金把预算支持、能源价格冲击和外汇稳定放在更靠前位置。
+3. AI资金继续从模型扩散到语音入口、客服场景、数据中心之外的实际工作流。
+4. Apple的2.5亿美元和解说明AI发布会承诺已经进入法律和现金成本阶段。
+5. SoftBank继续重仓OpenAI，富豪资本仍在用集中押注争夺AI基础设施和入口。
+6. 消费端从红包和大促进入“小样试用+健康穿戴+订阅服务”的更细分场景。
+
+四、假新闻审查结论
+- 本期7条中，5条“通过”，2条“基本通过”，0条“存疑”。
+- 5月去重检查：未重复使用5月6日Sierra/AEP/Blue Owl、5月7日Hut 8/Terafab/五一支付、5月8日设备更新915亿元/Blackstone/Iren/Fervo/五一文旅总账、5月9日商务部外资2496亿元/ADB 700亿美元/Kalshi/Cerebras/家族办公室/母亲节消费、5月12日对外投资3094.5亿元/World Bank埃及10亿美元/a16z crypto/Nvidia-Corning/OnlyFans/蜜丝婷、5月13日学前教育458亿元/EXIM关键矿产/Cowboy Space/Meta/GameStop/eBay/618红包等已写条目。

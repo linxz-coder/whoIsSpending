@@ -1,0 +1,145 @@
+谁在花钱｜每日花钱新闻日报
+日期：2026-05-13（北京时间）
+采样窗口：2026-05-08 至 2026-05-13
+版本：研究版
+
+一、今日要点
+今天的大钱集中在“学前教育财政资金、关键矿产储备、空间AI数据中心融资、AI数据中心债务融资、激进收购提案、618/520消费启动和游戏/美妆/潮玩热品”。
+- 政府端：财政部下达2026年支持学前教育发展资金458亿元，同比增加125.6亿元、增长38%。
+- 国际政府与开发资金：美国EXIM把Project Vault评为年度交易，项目包含最高100亿美元直接贷款，用于美国战略关键矿产储备。
+- 投资端：Cowboy Space完成2.75亿美元Series B融资，投后估值20亿美元，主打轨道数据中心和火箭垂直整合。
+- 企业端：Meta正为El Paso AI数据中心寻求约130亿美元融资，继续把AI基础设施建设推向债务和股权组合融资。
+- 富豪资本：GameStop对eBay提出560亿美元收购要约后遭拒，显示Ryan Cohen主导的激进资本仍在寻找零售平台整合机会。
+
+二、分项日报
+
+【1】政府：财政部下达458亿元支持学前教育发展
+- 花钱主体：财政部、地方财政、幼儿园和普惠性学前教育体系
+- 金额：2026年支持学前教育发展资金458亿元，比上年增加125.6亿元，增长38%；“十四五”时期中央财政累计安排学前教育发展资金1262亿元；免保育教育费政策惠及超过1400万在园儿童，减轻家庭教育支出超过200亿元
+- 领域：学前教育、普惠幼儿园、免保育教育费、困难儿童资助、保教质量
+- 发生时间：2026-05-08披露，2026-05-09至05-11多家权威媒体刊发
+- 对普通人的提示：财政资金正在直接压低家庭育儿成本，幼儿园运营、普惠托育、儿童教育服务、园所数字化和家庭教育产品会受益，但合规和普惠属性会越来越重要。
+- 原始/主来源：
+  1) 人民网/人民日报：https://finance.people.com.cn/n1/2026/0509/c1004-40716192.html
+  2) 人民网/新华社：https://finance.people.com.cn/n1/2026/0508/c1004-40715894.html
+- 二次核验来源：
+  1) 中国经济网/新华每日电讯：https://district.ce.cn/newarea/roll/202605/t20260511_2958000.shtml
+  2) 证券时报/央视新闻转引：https://www.stcn.com/article/detail/3899214.html
+- 审查结论：通过。金额、增长和受益人数来自财政部口径，多家权威媒体一致。
+
+【2】国际政府与开发资金：美国EXIM Project Vault涉及最高100亿美元关键矿产贷款
+- 花钱主体：Export-Import Bank of the United States、美国战略关键矿产储备项目、关键矿产供应链参与方
+- 金额：最高100亿美元直接贷款；项目为美国战略关键矿产储备建立公私合营结构
+- 领域：关键矿产、工业供应链、战略储备、出口信贷、美国制造和资源安全
+- 发生时间：2026-05-04披露
+- 对普通人的提示：国际开发和政策性金融正在把关键矿产当成安全资产，采矿、冶炼、材料、供应链金融、仓储、风控和合规岗位会持续受益。
+- 原始/主来源：
+  1) EXIM官方公告：https://www.exim.gov/news/exim-announces-project-vault-deal-year-advancing-critical-minerals-security-and-industrial
+- 二次核验来源：
+  1) EXIM交易公告与项目说明
+- 审查结论：通过。项目性质和最高贷款规模来自美国官方机构披露。
+
+【3】投资机构：Cowboy Space完成2.75亿美元Series B融资，估值20亿美元
+- 花钱主体：Index Ventures、IVP、Blossom Capital、SAIC、Breakthrough Energy Ventures、Construct Capital、Andreessen Horowitz、NEA等
+- 金额：2.75亿美元Series B融资；投后估值20亿美元
+- 领域：轨道数据中心、空间AI算力、火箭、商业航天基础设施
+- 发生时间：2026-05-11披露
+- 对普通人的提示：AI算力不只在地面数据中心竞争，资本开始押注“空间数据中心+火箭发射+轨道基础设施”一体化，航空航天、热控、电源、卫星通信和边缘计算人才需求会被重新定价。
+- 原始/主来源：
+  1) Business Wire/Yahoo Finance转引：https://finance.yahoo.com/sectors/technology/articles/cowboy-space-corporation-raises-275m-130000263.html
+- 二次核验来源：
+  1) 公司融资新闻稿及投资方名单
+- 审查结论：基本通过。金额和估值来自公司新闻稿，属公司自披露口径，需继续观察商业交付。
+
+【4】企业：Meta寻求约130亿美元融资支持El Paso AI数据中心
+- 花钱主体：Meta Platforms、Morgan Stanley、JPMorgan Chase、数据中心债务和股权投资人
+- 金额：约130亿美元融资包；Meta此前已把El Paso AI数据中心投资提高到100亿美元，目标容量约1GW
+- 领域：AI数据中心、债务融资、云基础设施、电力和园区建设
+- 发生时间：2026-05-04披露，5月继续作为AI基建融资观察点
+- 对普通人的提示：AI数据中心正在从“科技公司自有资本开支”转向“银行+债务+股权”的项目融资模式，数据中心财务、能源采购、园区开发、债券融资和工程管理岗位会增加。
+- 原始/主来源：
+  1) Reuters/Investing转引：https://m.investing.com/news/stock-market-news/meta-taps-morgan-stanley-jpmorgan-for-el-paso-data-center-deal-bloomberg-news-reports-4657681
+- 二次核验来源：
+  1) Reuters关于Meta El Paso投资提高至100亿美元：https://www.investing.com/news/stock-market-news/meta-boosts-investment-in-west-texas-ai-data-center-to-10-billion-cnbc-reports-4583350
+- 审查结论：基本通过。融资包仍属媒体线索，数据中心投资扩张和项目容量有公开报道支撑。
+
+【5】富豪资本：GameStop对eBay提出560亿美元收购要约后被拒
+- 花钱主体：GameStop、eBay、GameStop CEO Ryan Cohen、潜在债务融资方TD Securities、eBay股东
+- 金额：560亿美元半现金半股票收购要约；Ryan Cohen称可能直接向eBay股东发起要约；GameStop方面称有200亿美元潜在债务融资
+- 领域：电商、游戏零售、二手交易平台、激进收购、股东行动
+- 发生时间：2026-05-12披露
+- 对普通人的提示：老牌零售和平台公司仍可能被激进资本盯上，但“融资可信度”和“协同是否真实”会决定交易能否落地。相关机会更多在并购法务、投行、债务融资、平台运营和二手电商。
+- 原始/主来源：
+  1) Reuters/Investing转引：https://au.investing.com/news/stock-market-news/ebay-rejects-gamestops-audacious-56-billion-takeover-bid-4425985
+- 二次核验来源：
+  1) Reuters地方转引：https://kelo.com/2026/05/12/ebay-rejects-gamestops-audacious-56-billion-takeover-bid/
+- 审查结论：基本通过。收购要约与被拒事实来自Reuters链条；该交易尚未落地，不应写成已成交。
+
+【6】平民消费：618红包启动，520礼赠接档，Switch 2、SHEGLAM和Labubu仍是热品
+- 花钱主体：京东、天猫/淘宝、平台商家、数码家电消费者、美妆消费者、游戏主机玩家、潮玩收藏用户
+- 热门品类（至少3个）：
+  1) 年中大促红包与消费券：京东618京享红包最高26618元，天猫618超级红包最高26888元，5月12日晚8点启动领取。
+  2) 520/618礼赠与大件消费：天猫5月13日至20日推进520告白季，5月21日启动618预售，平台将发放消费券、店铺限时红包和官方立减。
+  3) 游戏硬件：Nintendo Switch 2截至2026年3月31日全球销量达1986万台，FY2026第四季度售出249万台。
+  4) 平价社交美妆：SHEGLAM在澳洲Kmart上架197个产品，品牌称2024年全球销量超过1亿件，#SHEGLAM话题浏览量超过200亿。
+  5) 潮玩盲盒：Pop Mart 2025年收入371.2亿元，同比增长185%，Labubu继续推动海外扩张。
+- 代表产品（至少3个）：京东/天猫618红包、520告白季礼品、Nintendo Switch 2、Mario Kart World、SHEGLAM Colour Bloom Liquid Blush、SHEGLAM唇釉/唇染、Pop Mart Labubu盲盒/挂件、iPhone 17
+- 昨日最火消费品牌（中国平台/国内消费场景，至少3个）：京东、天猫/淘宝、泡泡玛特
+- 国内品牌/中国平台热卖单品：
+  1) 京东：618京享红包、家电数码会场、手机/家电大件预约
+  2) 天猫/淘宝：618超级红包、520告白季、美妆服饰和数码家电消费券
+  3) 泡泡玛特：Labubu盲盒、挂件和海外热销IP周边
+- 昨日最火消费品牌（国外，至少3个）：Nintendo、SHEGLAM、Apple
+- 国外品牌正在热卖单品：
+  1) Nintendo：Switch 2、Mario Kart World
+  2) SHEGLAM：Colour Bloom Liquid Blush、peel-off lip stain、lip tint
+  3) Apple：iPhone 17，印度Q1销量居首，中国激活量接近3000万的市场热度继续发酵
+- 文字总结（为什么火 / 火到什么程度 / 哪个品牌最火）：
+  1) 为什么火：618红包和520礼赠把消费注意力从“单一节日”拉到“连续一个月的促销周期”，数码家电、美妆礼物、游戏主机和潮玩更容易获得提前加购。
+  2) 火到什么程度：平台红包最高到26618元/26888元；Switch 2全球销量1986万台；SHEGLAM 2024年全球销量超过1亿件；泡泡玛特2025年收入371.2亿元、同比增长185%。
+  3) 哪个品牌最火：中国平台看京东和天猫在618入口争夺最强；具体消费品牌看泡泡玛特Labubu、Nintendo Switch 2和SHEGLAM社交美妆。
+- 对普通人的提示：短期消费机会集中在“平台补贴+礼赠+大件+可晒社交平台”的交叉点，适合关注数码家电导购、礼品组合、美妆测评、游戏主机配件、潮玩二级市场和比价工具。
+- 原始/主来源：
+  1) 新浪财经/快科技618红包：https://finance.sina.com.cn/tech/roll/2026-05-12/doc-inhxrwpz1209813.shtml
+  2) 新浪财经/IT之家天猫520与618：https://finance.sina.com.cn/tech/digi/2026-04-29/doc-inhwefva7690851.shtml
+  3) Gematsu Nintendo销量：https://www.gematsu.com/2026/05/switch-2-worldwide-sales-top-19-86-million-switch-tops-155-92-million
+  4) SHEGLAM官方/GlobeNewswire：https://www.globenewswire.com/news-release/2026/05/01/3285637/0/en/viral-beauty-brand-sheglam-launches-197-products-into-kmart-australia-and-it-s-set-to-sell-fast.html
+- 二次核验来源：
+  1) PocketGamer Nintendo销量：https://www.pocketgamer.biz/nintendo-switch-2-nears-20m-unit-sales-in-under-a-year-but-shares-have-tanked-40/
+  2) Reuters/Investing Pop Mart：https://www.investing.com/news/stock-market-news/labubu-maker-pop-mart-meets-2025-revenue-expectations-4578994
+  3) Times of India iPhone 17销量：https://timesofindia.indiatimes.com/business/india-business/iphone-17-is-top-selling-smartphone-in-q1-2026/articleshow/130940526.cms
+- 审查结论：通过。平台活动用中文科技/财经媒体，硬件销量用Nintendo财报转引，品牌热度用公司披露和Reuters链条交叉。
+
+【7】高薪职位：中国/国际分组，币种与来源标注
+- 岗位方向：AI、金融安全、云计算、医疗、航空、软件架构，覆盖技术、金融、医疗、航空和企业软件。
+- 中国高薪岗位（岗位、月薪、币种、参考来源）：
+  1) AI复合型人才/AI工程师：人民币60738元/月；口径为脉脉数据中AI岗位平均月薪；参考来源：劳动报/新浪财经
+  2) 金融IT安全高级岗：人民币约108300元/月；口径为Morgan McKinley中国金融服务薪酬指南中上海Senior Executives - IT Security平均年薪130万元折算；参考来源：Morgan McKinley 2026 China Salary Guide
+  3) 云计算架构师：人民币约41600元/月；口径为一线城市年薪接近50万元折算；参考来源：51job《人力资源白皮书》（新浪财经转引）
+- 国际高薪岗位（岗位、月薪、币种、参考来源）：
+  1) 美国专科医生/医生类高薪岗位：美元约19933美元/月以上，折合人民币约143500元/月以上；口径为BLS多类医生岗位年薪不低于239200美元折算；参考来源：BLS
+  2) Nurse Anesthetist / 麻醉护士：美元约18601美元/月，折合人民币约133927元/月；口径为BLS麻醉护士年薪中位数223210美元折算；参考来源：BLS
+  3) Software Architect / 软件架构师：美元约19083美元/月，折合人民币约137400元/月；口径为Glassdoor美国Software Architect总薪酬中位数229000美元折算；参考来源：Glassdoor
+- 薪资区间与口径：人民币折算按1美元≈7.2元人民币估算；中国岗位为招聘平台/薪酬指南口径，国际岗位为美国市场薪资口径，不含税费、奖金、期权和地区差异。
+- 对普通人的提示：今天更值得看的高薪路径是“AI复合能力+金融安全+云架构+医疗资质+企业软件架构”。不想只卷大模型的人，可以向金融安全、云迁移、医疗技术和企业系统架构转。
+- 原始/主来源：
+  1) 新浪财经/劳动报AI岗位薪酬：https://finance.sina.com.cn/wm/2026-04-14/doc-inhumshf9204765.shtml
+  2) Morgan McKinley中国金融服务薪酬指南：https://www.morganmckinley.com.cn/en/salary-guide/banking-financial-services/permanent-salaries
+  3) BLS最高薪职业：https://www.bls.gov/ooh/highest-paying.htm
+  4) BLS麻醉护士：https://www.bls.gov/ooh/healthcare/nurse-anesthetists-nurse-midwives-and-nurse-practitioners.htm
+  5) Glassdoor Software Architect：https://www.glassdoor.com/Salaries/software-architect-salary-SRCH_KO0%2C18.htm
+- 二次核验来源：
+  1) Axios/Indeed 2026职业趋势：https://www.axios.com/2026/01/13/ai-indeed-best-jobs-2026-healthcare
+  2) 51job白皮书转引：https://finance.sina.com.cn/jjxw/2026-02-27/doc-inhphcxk0716762.shtml
+- 审查结论：通过。已标注币种、月薪口径和参考来源。
+
+三、今日综合判断
+1. 中国财政资金正在向“降低家庭育儿成本”倾斜，教育普惠资金会带动园所和儿童服务供给。
+2. 美国政策性金融把关键矿产当成战略储备资产，资源安全和产业安全融资会持续放大。
+3. AI基础设施资金继续外溢到轨道数据中心、地面数据中心融资、电力和连接基础设施。
+4. 激进资本仍在寻找传统互联网平台和零售资产的并购机会，但融资可信度会成为核心分水岭。
+5. 普通消费从母亲节切换到520和618，流量入口是平台红包，具体商品热度集中在数码家电、游戏硬件、美妆和潮玩。
+
+四、假新闻审查结论
+- 本期7条中，4条“通过”，3条“基本通过”，0条“存疑”。
+- 5月去重检查：未重复使用5月6日Sierra/AEP/Blue Owl、5月7日Hut 8/Terafab/五一支付、5月8日设备更新915亿元/Blackstone/Iren/Fervo/五一文旅总账、5月9日商务部外资2496亿元/ADB 700亿美元/Kalshi/Cerebras/家族办公室/母亲节消费、5月12日对外投资3094.5亿元/World Bank埃及10亿美元/a16z crypto/Nvidia-Corning/OnlyFans/蜜丝婷等已写条目。

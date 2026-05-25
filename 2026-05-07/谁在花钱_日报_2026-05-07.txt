@@ -1,0 +1,138 @@
+谁在花钱｜每日花钱新闻日报
+日期：2026-05-07（北京时间）
+采样窗口：2026-05-05 至 2026-05-07
+版本：研究版
+
+一、今日要点
+今天的大钱集中在“美国财政再融资、非洲医疗开发资金、企业AI编码融资、AI数据中心租约、马斯克芯片工厂计划、支付消费数据”。
+- 政府端：美国财政部宣布发行1250亿美元国债，用于再融资和新增现金。
+- 国际端：World Bank批准2.25亿美元支持科特迪瓦医疗、营养和早教服务。
+- 企业端：Hut 8签下98亿美元AI数据中心租约，算力基础设施继续落地。
+
+二、分项日报
+
+【1】政府：美国财政部发行1250亿美元国债，再融资833亿美元到期债务
+- 花钱主体：美国财政部
+- 金额：1250亿美元国债发行；用于再融资约833亿美元到期私人持有国债，并新增约417亿美元现金
+- 领域：政府融资、债务再融资、国债市场
+- 发生时间：2026-05-06披露
+- 对普通人的提示：政府融资规模直接影响利率和美元资产定价，金融、债券、宏观研究和海外资产配置岗位需要持续关注。
+- 原始/主来源：
+  1) U.S. Treasury官方公告：https://home.treasury.gov/news/press-releases/sb0489
+- 二次核验来源：
+  1) Treasury press releases页面同日公告：https://home.treasury.gov/news/press-releases
+- 审查结论：通过。金额、期限结构和新增现金口径来自美国财政部官方公告。
+
+【2】国际政府与开发资金：World Bank批准2.25亿美元支持科特迪瓦医疗、营养和早教服务
+- 花钱主体：World Bank、IDA、Global Financing Facility、科特迪瓦政府
+- 金额：2.25亿美元，其中2亿美元IDA信贷、2500万美元GFF赠款
+- 领域：医疗、营养、早期儿童发展、数字健康系统
+- 发生时间：2026-04-30披露，5月继续进入项目执行期
+- 对普通人的提示：国际开发资金继续投向医疗和儿童服务，基层医疗、数字健康、营养服务和公共项目运营岗位更稳。
+- 原始/主来源：
+  1) World Bank官方公告：https://www.worldbank.org/en/news/press-release/2026/04/30/world-bank-approves-225-million-to-improve-health-nutrition-and-early-childhood-services-for-millions-in-cote-d-ivoire
+- 二次核验来源：
+  1) World Bank项目新闻中心同口径
+- 审查结论：通过。资金结构、受益对象和服务方向披露完整。
+
+【3】投资机构：Blitzy完成2亿美元融资，估值14亿美元
+- 花钱主体：Northzone、PSG、Battery Ventures、Liberty Mutual Strategic Ventures等
+- 金额：2亿美元；投后估值14亿美元
+- 领域：自主软件开发、企业AI编码、遗留系统现代化
+- 发生时间：2026-05-05披露
+- 对普通人的提示：资本正在押注“AI替代软件开发流程”的公司，企业应用改造、AI代码审查、软件交付和安全合规岗位会被重新定价。
+- 原始/主来源：
+  1) Blitzy官方博客：https://blitzy.com/blog/taking-the-long-and-less-traveled-road-is-the-only-path-to-autonomy
+- 二次核验来源：
+  1) Business Wire转引：https://www.streetinsider.com/Business%2BWire/Blitzy%2BRaises%2B%24200%2BMillion%2Bat%2B%241.4%2BBillion%2BValuation%2Bto%2BAdvance%2BAutonomous%2BSoftware%2BDevelopment%2Bfor%2Bthe%2BEnterprise/26431645.html
+  2) Forbes：https://www.forbes.com/sites/sofiachierchio/2026/05/05/this-14-billion-startups-ai-writes-code-for-weeks-at-a-time/
+- 审查结论：通过。融资额、估值和领投方由官方和多家媒体交叉披露。
+
+【4】企业：Hut 8签署98亿美元AI数据中心租约
+- 花钱主体：Hut 8及其高投资级别承租方
+- 金额：15年基础租约价值98亿美元；如续约选项全部执行，价值最高251亿美元；首期352MW IT容量
+- 领域：AI数据中心、算力基础设施、得州电力与机房项目
+- 发生时间：2026-05-06披露
+- 对普通人的提示：数据中心项目正从资本开支进入长期合同锁定阶段，电力、机房建设、液冷、网络和运营岗位更确定。
+- 原始/主来源：
+  1) Hut 8公告转引：https://www.streetinsider.com/PRNewswire/Hut%2B8%2BCommercializes%2BFirst%2BPhase%2Bof%2B1%2BGW%2BBeacon%2BPoint%2BAI%2BData%2BCenter%2BCampus%2Bwith%2B15-Year%2C%2B352%2BMW%2BIT%2BLease%2Bwith%2BBase-Term%2BContract%2BValue%2Bof%2B%249.8%2BBillion/26438415.html
+- 二次核验来源：
+  1) Reuters转引：https://www.streetinsider.com/Reuters/Hut%2B8%2Bsigns%2Babout%2B%2410%2Bbillion%2BAI%2Bdata%2Bcenter%2Blease%2Bin%2BTexas%2C%2Bshares%2Bjump/26438494.html
+- 审查结论：通过。租约金额、容量和期限披露清晰。
+
+【5】富豪资本：SpaceX提交550亿美元Terafab芯片工厂计划，远期总投资或达1190亿美元
+- 花钱主体：Elon Musk相关资本体系、SpaceX、Tesla
+- 金额：初始投资550亿美元；若后续阶段全部完成，总投资最高1190亿美元
+- 领域：AI芯片、先进制造、机器人、自动驾驶、航天算力
+- 发生时间：2026-05-06披露
+- 对普通人的提示：富豪资本正在把AI、汽车、航天和芯片制造打包成垂直供应链，半导体设备、厂务、电力、先进封装和工业工程岗位会受益。
+- 原始/主来源：
+  1) Reuters转引：https://www.investing.com/news/economy-news/spacex-plans-55-billion-chip-plant-in-texas-4662329
+- 二次核验来源：
+  1) TechCrunch：https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/
+  2) Business Insider：https://www.businessinsider.com/spacex-terafab-project-cost-texas-elon-musk-2026-5
+- 审查结论：基本通过。金额来自公开备案/通知，仍需等待税收减免听证和项目正式落地。
+
+【6】平民消费：五一支付交易金额7.85万亿元，入境消费和体验消费最强
+- 花钱主体：居民消费、入境游客消费、线上线下支付网络
+- 热门品类（至少3个）：
+  1) 跨境/入境支付：境外来华人员支付交易笔数、金额同比分别增长45.15%和36.96%
+  2) 文旅体验：旅游游览和娱乐服务销售收入同比增长21.2%，文化服务+42.3%，体育服务+44.1%
+  3) 餐饮住宿与线下零售：餐饮销售收入同比增长31.4%，综合零售销售收入同比增长12.4%
+  4) 悦己消费：化妆品、金银珠宝、工艺美术品销售收入同比分别增长55.8%、28.8%、57.4%
+- 代表产品（至少3个）：入境支付、演出赛事票、餐饮住宿、化妆品、金银珠宝
+- 品类金额/增速：银联、网联共处理支付交易289.37亿笔，金额7.85万亿元，同比分别增长23.45%和2.74%
+- 昨日最火消费品牌（国内，至少3个）：支付宝、微信支付、携程
+- 国内品牌正在热卖单品/服务：
+  1) 支付宝：入境游客移动支付与商圈消费
+  2) 微信支付：外卡内绑、景区和演出赛事支付
+  3) 携程：跨省游、酒店与机票产品
+- 昨日最火消费品牌（国外，至少3个）：Apple、Nike、EltaMD
+- 国外品牌正在热卖单品：
+  1) Apple：iPhone与Apple Watch
+  2) Nike：旅行穿搭与轻便跑鞋
+  3) EltaMD：UV Clear防晒
+- 文字总结（为什么火 / 火到什么程度 / 哪个品牌最火）：
+  1) 为什么火：五一后数据确认，“体验消费+支付便利+入境游恢复”一起拉动消费，钱不只花在商品，也大量流向票务、餐饮、住宿和跨境支付。
+  2) 火到什么程度：支付交易金额达到7.85万亿元，交易笔数同比增长23.45%；入境游客使用支付宝在华消费金额同比增长近70%，微信支付外卡内绑交易笔数同比增长58%。
+  3) 哪个品牌最火：按增速和场景覆盖看，支付宝在入境消费中表现最强；按商品单品看，Apple和EltaMD继续分别占据数码换新和防晒场景。
+- 对普通人的提示：节后最值得看的不是单一旅游总量，而是“入境支付、演出赛事、餐饮住宿、悦己消费”这些能形成连续消费的场景。
+- 原始/主来源：
+  1) 新华社/央行支付数据转引：https://finance.sina.com.cn/roll/2026-05-07/doc-inhwzrtp2833974.shtml
+- 二次核验来源：
+  1) 证券时报/央视新闻转引：https://www.stcn.com/article/detail/3896162.html
+  2) 中国证券报/新华社转引：https://www.cs.com.cn/xwzx/01/2026/05/06/detail_2026050610009603.html
+- 审查结论：通过。支付总量和跨境支付增速来自央行口径，品牌热度为支付平台与消费场景观察。
+
+【7】高薪职位：中国/国际分组，币种与来源标注
+- 岗位方向：跨行业高薪岗位，覆盖AI、云计算、金融安全、医疗、口腔、航空。
+- 中国高薪岗位（岗位、月薪、币种、参考来源）：
+  1) AI科学家/AI负责人：人民币137153元/月；口径为脉脉2026年1-2月中高端岗位平均月薪；参考来源：脉脉报告（新浪财经转引）
+  2) 金融IT安全高级岗：人民币约108300元/月；口径为Morgan McKinley中国金融服务薪酬指南中上海Senior Executives - IT Security平均年薪130万元折算；参考来源：Morgan McKinley 2026 China Salary Guide
+  3) 云计算架构师：人民币约41600元/月；口径为一线城市年薪接近50万元折算；参考来源：51job《人力资源白皮书》（新浪财经转引）
+- 国际高薪岗位（岗位、月薪、币种、参考来源）：
+  1) Doctor/医生：美元约22167美元/月，折合人民币约159600元/月；口径为Glassdoor年薪中位数266000美元折算；参考来源：Glassdoor
+  2) Dentist/牙医：美元约21250美元/月，折合人民币约153000元/月；口径为Glassdoor年薪中位数255000美元折算；参考来源：Glassdoor
+  3) Airline Pilot/航空飞行员：美元约18883美元/月，折合人民币约135960元/月；口径为BLS航空飞行员年薪中位数226600美元折算；参考来源：BLS
+- 薪资区间与口径：人民币折算按1美元≈7.2元人民币估算；中国岗位为招聘平台/薪酬指南口径，国际岗位为美国市场薪资口径，不含税费、奖金和地区差异。
+- 对普通人的提示：国内优先看AI工程化、金融安全和云架构；国际岗位更依赖执照、英语环境和长期训练周期。
+- 原始/主来源：
+  1) 新浪财经转引脉脉：https://finance.sina.com.cn/roll/2026-03-09/doc-inhqkxfr6896623.shtml
+  2) Morgan McKinley中国金融服务薪酬指南：https://www.morganmckinley.com.cn/en/2026-salary-guide/banking-financial-services/permanent-salaries
+  3) BLS最高薪职业：https://www.bls.gov/ooh/highest-paying.htm
+- 二次核验来源：
+  1) Glassdoor Doctor薪酬：https://www.glassdoor.com/Salaries/doctor-salary-SRCH_KO0%2C6.htm
+  2) Glassdoor Dentist薪酬：https://www.glassdoor.com/Salaries/dentist-salary-SRCH_KO0%2C7.htm
+  3) 51job白皮书转引：https://finance.sina.com.cn/jjxw/2026-02-27/doc-inhphcxk0716762.shtml
+- 审查结论：通过。已标注币种、月薪口径和参考来源。
+
+三、今日综合判断
+1. 政府端今日更值得看的是融资和债务滚动，而不是单纯财政支出。
+2. 国际开发资金继续投向医疗、营养和儿童服务，公共服务岗位确定性较高。
+3. AI资本开始向“软件开发自动化”和“数据中心租约”落地。
+4. 富豪资本的超大额芯片工厂计划说明AI算力供应链仍在垂直整合。
+5. 消费端从“旅游人次”进一步落到支付交易、入境消费和体验服务。
+
+四、假新闻审查结论
+- 本期7条中，5条“通过”，2条“基本通过”，0条“存疑”。
+- 5月去重检查：未重复使用5月6日已写过的商务部6292.7亿元、World Bank不丹5.15亿美元、Sierra 9.5亿美元、AEP 780亿美元、Blue Owl/SpaceX二级交易等条目。
