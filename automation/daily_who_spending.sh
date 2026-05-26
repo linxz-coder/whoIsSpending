@@ -84,8 +84,6 @@ Required steps:
    title = "谁在花钱日报｜${DAY}"
    date = ${DAY}
    authors = ["小中"]
-
-   [taxonomies]
    tags = ["日报", "商业", "投资", "高薪职位"]
    +++
 5. Copy the Markdown article to /Users/lxz/.local/share/whoIsSpendingDaily/repos/zola-basic/content/blog/谁在花钱日报-${DAY}.md.
