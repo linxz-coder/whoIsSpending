@@ -7,7 +7,7 @@
   <key>ProgramArguments</key>
   <array>
     <string>/bin/zsh</string>
-    <string>/Users/lxz/Downloads/谁在花钱日报/automation/daily_who_spending.sh</string>
+    <string>/Users/lxz/.local/share/whoIsSpendingDaily/repos/whoIsSpending/automation/daily_who_spending.sh</string>
   </array>
   <key>StartCalendarInterval</key>
   <dict>
@@ -17,7 +17,7 @@
     <integer>30</integer>
   </dict>
   <key>WorkingDirectory</key>
-  <string>/Users/lxz/Downloads/谁在花钱日报</string>
+  <string>/Users/lxz/.local/share/whoIsSpendingDaily/repos/whoIsSpending</string>
   <key>EnvironmentVariables</key>
   <dict>
     <key>HOME</key>
