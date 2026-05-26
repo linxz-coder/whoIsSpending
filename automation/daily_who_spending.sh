@@ -30,10 +30,16 @@ echo "zola_dir=$ZOLA_DIR"
 echo "codex=$CODEX_BIN"
 
 if ! mkdir "$LOCK_DIR" 2>/dev/null; then
-  echo "Another daily run is already active. Exiting."
-  exit 0
+  if [[ -f "$LOCK_DIR/pid" ]] && kill -0 "$(cat "$LOCK_DIR/pid")" 2>/dev/null; then
+    echo "Another daily run is already active. Exiting."
+    exit 0
+  fi
+  echo "Removing stale lock: $LOCK_DIR"
+  rm -rf "$LOCK_DIR"
+  mkdir "$LOCK_DIR"
 fi
-trap 'rmdir "$LOCK_DIR" 2>/dev/null || true' EXIT
+echo "$$" >"$LOCK_DIR/pid"
+trap 'rm -rf "$LOCK_DIR" 2>/dev/null || true' EXIT
 
 if [[ ! -x "$CODEX_BIN" ]]; then
   echo "Codex CLI not executable: $CODEX_BIN"
@@ -108,10 +114,13 @@ echo "log_file=$LOG_FILE"
 echo "final_file=$FINAL_FILE"
 
 "$CODEX_BIN" \
+  --disable apps \
   --search \
   --dangerously-bypass-approvals-and-sandbox \
   --dangerously-bypass-hook-trust \
   exec \
+  --ignore-user-config \
+  --ignore-rules \
   -C "$BASE_DIR" \
   --add-dir "$ZOLA_DIR" \
   -o "$FINAL_FILE" \
