@@ -7,7 +7,7 @@ from pathlib import Path
 import shutil
 import sys
 
-BASE_DIR = Path('/Users/linxiaozhong/Downloads/谁在花钱日报')
+BASE_DIR = Path(__file__).resolve().parent
 
 
 def valid_date(value: str) -> str:
