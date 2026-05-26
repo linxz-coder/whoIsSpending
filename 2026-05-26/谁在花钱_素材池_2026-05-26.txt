@@ -1,0 +1,58 @@
+谁在花钱｜素材池
+日期：2026-05-26
+
+一、候选事件与信源
+
+1. 深圳 2026 年第二季度新开工项目 279 个，总投资 1524.3 亿元
+- 主体：深圳市
+- 金额：总投资 1524.3 亿元，年度计划投资 390.9 亿元
+- 领域：重大项目、产业空间、基础设施、民生工程
+- 要点：社会投资项目 174 个，年度计划投资占比 87.1%；产业项目 109 个，年度计划投资占比 58.0%。
+- 主来源：深圳政府在线，https://www.sz.gov.cn/cn/xxgk/zfxxgj/sldzc/szfld/qwz/jqhd/content/post_12805422.html
+- 使用判断：政府栏目。未见本月去重清单出现。
+
+2. 世界银行支持巴西东北部低碳产业与能源转型，融资包合计 9.68 亿美元
+- 主体：世界银行、巴西东北部州联盟
+- 金额：5 亿美元 IBRD 贷款锚定 9.68 亿美元融资包，另含 CTF、LPF、ESMAP 等资金，并预计撬动超过 4.23 亿美元商业融资
+- 领域：低碳产业、可再生能源、可持续航空燃料、肥料、绿钢、水泥
+- 主来源：World Bank，https://www.worldbank.org/en/news/press-release/2026/05/23/attracting-investment-for-decarbonization-in-the-afe-brazilian-northeast
+- 使用判断：国际政府与开发资金栏目。与 5 月已写 MIGA/EBRD 事件不同。
+
+3. Star Catcher 完成 6500 万美元超额认购 A 轮融资
+- 主体：Star Catcher Industries，B Capital、Shield Capital、Cerberus Ventures 等投资人
+- 金额：6500 万美元 A 轮，总融资额达到 8800 万美元
+- 领域：太空能源基础设施、卫星供电、轨道电网
+- 主来源：PR Newswire，https://www.prnewswire.com/news-releases/star-catcher-secures-65-million-oversubscribed-series-a-for-space-energy-grid-to-enable-next-generation-satellite-operations-302463089.html
+- 使用判断：投资机构栏目。未见本月去重清单出现。
+
+4. Equity Residential 与 AvalonBay 合并，企业价值约 690 亿美元
+- 主体：Equity Residential、AvalonBay Communities
+- 金额：合并后企业价值约 690 亿美元，预计协同效应 1.75 亿美元
+- 领域：美国公寓 REIT、租赁住房、物业运营
+- 主来源：Reuters/Investing.com 转发，https://www.investing.com/news/stock-market-news/eqr-avb-to-merge-in-69-billion-allstock-deal-reuters-4082460
+- 使用判断：企业栏目。未见本月去重清单出现。
+
+5. Bill Ackman 的 Pershing Square 买入微软约 21 亿美元股份
+- 主体：Pershing Square Capital Management、Bill Ackman
+- 金额：约 21 亿美元
+- 领域：公开市场持仓、云计算、企业软件、AI 基础设施
+- 主来源：Bloomberg Law/Bloomberg，https://news.bloomberglaw.com/private-equity/ackmans-pershing-square-bought-2-1-billion-stake-in-microsoft
+- 使用判断：富豪资本栏目。属于富豪/基金经理公开市场资本配置。
+
+6. 端午旅行消费提前启动，机票预订增长
+- 主体：端午假期出行消费者、OTA 与航旅平台
+- 金额与量级：国内航线预订量超过 84 万张，同比增长 4%；出境机票预订量约 45 万张，同比增长 9%
+- 领域：端午假期、错峰请假、机票酒店、短途出境游
+- 主来源：新浪财经转北京青年报，https://finance.sina.cn/2026-05-25/detail-inexhsnr3537587.d.html
+- 使用判断：平民消费栏目。与此前 618、520、旅游囤券主题不同，切入点为端午出行预算。
+
+二、薪酬参考
+
+- 中国 AI 科学家/AI 负责人：脉脉 2026 春招报告口径，新经济行业高薪岗位平均月薪约 132796 元。
+- 中国金融 InfoSec / IT Risk Director：Morgan McKinley 2026 中国金融服务薪酬指南，上海年薪约 96 万至 150 万元，折算月薪约 80000 至 125000 元。
+- 中国产业园/城市更新/物业资产运营负责人：招聘市场中常见为数万至十万元/月区间，强依赖城市、资产规模、奖金和股权。
+- 国际 Computer and Information Systems Managers、Data Scientists、Information Security Analysts：参考 BLS OEWS/OES 与 OOH 口径，按年薪除以 12 折算。
+
+三、去重判断
+
+本期未重复使用 2026-05 已发布清单中的 82-93 条事件。今天消费栏目不再写 618 平台补贴、旅行品牌盛典或美妆预售，改写端午出行预算。
