@@ -113,18 +113,61 @@ echo "prompt_file=$PROMPT_FILE"
 echo "log_file=$LOG_FILE"
 echo "final_file=$FINAL_FILE"
 
-"$CODEX_BIN" \
-  --disable apps \
-  --search \
-  --dangerously-bypass-approvals-and-sandbox \
-  --dangerously-bypass-hook-trust \
-  exec \
-  --ignore-user-config \
-  --ignore-rules \
-  -C "$BASE_DIR" \
-  --add-dir "$ZOLA_DIR" \
-  -o "$FINAL_FILE" \
-  - <"$PROMPT_FILE"
+run_codex_once() {
+  "$CODEX_BIN" \
+    --disable apps \
+    --search \
+    --dangerously-bypass-approvals-and-sandbox \
+    --dangerously-bypass-hook-trust \
+    exec \
+    --ignore-user-config \
+    --ignore-rules \
+    --ephemeral \
+    -C "$BASE_DIR" \
+    --add-dir "$ZOLA_DIR" \
+    -o "$FINAL_FILE" \
+    - <"$PROMPT_FILE"
+}
+
+CODEX_TIMEOUT_SECONDS="${CODEX_TIMEOUT_SECONDS:-2700}"
+CODEX_MAX_ATTEMPTS="${CODEX_MAX_ATTEMPTS:-2}"
+attempt=1
+codex_status=1
+
+while (( attempt <= CODEX_MAX_ATTEMPTS )); do
+  echo "codex_attempt=${attempt}/${CODEX_MAX_ATTEMPTS}"
+  set +e
+  run_codex_once &
+  codex_pid=$!
+  (
+    sleep "$CODEX_TIMEOUT_SECONDS"
+    if kill -0 "$codex_pid" 2>/dev/null; then
+      echo "Codex attempt ${attempt} timed out after ${CODEX_TIMEOUT_SECONDS}s; terminating pid ${codex_pid}."
+      kill -TERM "$codex_pid" 2>/dev/null
+      sleep 10
+      kill -KILL "$codex_pid" 2>/dev/null
+    fi
+  ) &
+  watchdog_pid=$!
+
+  wait "$codex_pid"
+  codex_status=$?
+  kill "$watchdog_pid" 2>/dev/null
+  wait "$watchdog_pid" 2>/dev/null
+  set -e
+
+  if [[ "$codex_status" -eq 0 ]]; then
+    break
+  fi
+
+  echo "Codex attempt ${attempt} failed with exit code ${codex_status}."
+  if (( attempt >= CODEX_MAX_ATTEMPTS )); then
+    exit "$codex_status"
+  fi
+
+  sleep 60
+  (( attempt += 1 ))
+done
 
 echo "finished_at=$(date '+%F %T %Z')"
 if [[ -f "$FINAL_FILE" ]]; then
