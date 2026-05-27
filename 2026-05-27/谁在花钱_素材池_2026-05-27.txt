@@ -1,0 +1,62 @@
+谁在花钱｜素材池
+日期：2026-05-27
+
+一、候选事件与信源
+
+1. 中国人民银行开展 1776 亿元 7 天期逆回购操作
+- 主体：中国人民银行
+- 金额：1776 亿元
+- 领域：公开市场操作、银行体系流动性、货币市场
+- 要点：2026 年 5 月 27 日，央行以固定利率、数量招标方式开展 1776 亿元 7 天期逆回购操作，全额满足一级交易商需求。
+- 主来源：中新网，https://www.chinanews.com.cn/cj/2026/05-27/10629154.shtml
+- 使用判断：政府栏目。未见本月去重清单出现。
+
+2. EBRD 投资索非亚机场项目债券
+- 主体：EBRD、SOF Connect EAD
+- 金额：EBRD 投资 5000 万欧元高级票据；项目总成本 4.5 亿欧元
+- 领域：机场基础设施、PPP、项目债券、交通
+- 要点：资金用于机场长期财务结构优化、再融资和未来资本开支债券，支持保加利亚最大机场特许经营项目。
+- 主来源：EBRD，https://www.ebrd.com/home/work-with-us/projects/psd/57183.html
+- 使用判断：国际政府与开发资金栏目。与 5 月已写 EBRD 全球基准债、科特迪瓦腰果贷款不同。
+
+3. Stord 完成近 2.5 亿美元融资，估值 30 亿美元
+- 主体：Stord 及其投资人
+- 金额：近 2.5 亿美元，估值 30 亿美元
+- 领域：物流履约、仓配一体化、物理智能、供应链软件
+- 要点：Reuters 报道 Stord 完成后期融资，并推出 Stord Labs 以推进 physical intelligence。
+- 主来源：MarketScreener/Reuters，https://www.marketscreener.com/news/logistics-startup-stord-raises-250-million-at-3-billion-valuation-ce7f5addd08bf624
+- 使用判断：投资机构栏目。未见本月去重清单出现。
+
+4. IREN 向 Dell 采购约 16 亿美元 Nvidia Blackwell 系统
+- 主体：IREN、Dell、Nvidia
+- 金额：约 16 亿美元；服务此前 34 亿美元云 AI 服务合同
+- 领域：AI 数据中心、GPU 服务器、算力基础设施
+- 要点：系统将部署在 IREN 德州 Childress 数据中心，预计 2027 年初就绪，投产后公司 ARR 预计由 37 亿美元提升至 44 亿美元。
+- 主来源：Investing/Reuters，https://www.investing.com/news/stock-market-news/iren-to-buy-blackwell-systems-from-dell-for-about-16-billion-4710986
+- 使用判断：企业栏目。与 5 月已写 Blackstone/Google AI 云合资不同。
+
+5. Bill Gates 家族办公室 Cascade 买入 Republic Services 股票
+- 主体：Cascade Investment、Republic Services
+- 金额：约 1.005 亿美元
+- 领域：富豪资本、废弃物处理、公共服务基础设施、长期股权
+- 要点：Cascade 在 5 月 11 日至 13 日买入 499150 股 RSG，加权均价约 201.40 美元，持股提升至约 35.7%。
+- 主来源：FilingExplorer，https://www.filingexplorer.com/news/rsg-insider-trading-may-2026
+- 使用判断：富豪资本栏目。未见本月去重清单出现。
+
+6. 618 家电与数码消费在国补和大促中放量
+- 主体：618 消费者、电商平台、家电与数码品牌
+- 金额与量级：冰箱、洗衣机、电视、空调、电脑、热水器 6 类家电以旧换新销售 2320.5 万台，带动销售额 954.3 亿元；手机、平板等数码和智能产品购新销售 3632 万件，带动销售额 1090.5 亿元。
+- 领域：618、家电、3C 数码、国补、以旧换新
+- 主来源：新浪科技/家电网，https://finance.sina.com.cn/tech/roll/2026-05-22/doc-inhytqkv7724712.shtml
+- 使用判断：平民消费栏目。与 5 月 25 美妆预售、5 月 26 端午旅行不同。
+
+二、薪酬参考
+
+- 中国 AI 科学家/AI 负责人：脉脉 2026 春招报告口径，新经济行业高薪岗位平均月薪约 132796 元。
+- 中国金融 InfoSec / IT Risk Director：Morgan McKinley 2026 中国金融服务薪酬指南，上海年薪约 96 万至 150 万元，折算月薪约 80000 至 125000 元。
+- 数据中心电力/暖通/交付负责人、供应链算法/履约负责人、环保运营负责人：招聘市场常见为数万至十万元/月区间，强依赖城市、项目规模、奖金和股权。
+- 国际 Computer and Information Systems Manager、Data Scientist、Electrical / Computer Hardware Engineer：参考 BLS OEWS/OES 与 OOH 口径，按年薪除以 12 折算。
+
+三、去重判断
+
+本期未重复使用 2026-05 已发布清单中的 82-99 条事件。消费栏目从 618 美妆与端午旅行，切换到家电/数码国补和以旧换新预算。
