@@ -86,6 +86,7 @@ Required steps:
    authors = ["小中"]
    tags = ["日报", "商业", "投资", "高薪职位"]
    +++
+   After the front matter, start the article body directly with the lead paragraph. Do not include a repeated H1 title or standalone date because the Zola template already renders both.
 5. Copy the Markdown article to /Users/lxz/.local/share/whoIsSpendingDaily/repos/zola-basic/content/blog/谁在花钱日报-${DAY}.md.
 6. Run zola build in /Users/lxz/.local/share/whoIsSpendingDaily/repos/zola-basic if zola is available. If it creates or changes public/, do not commit public/.
 7. Commit and push zola-basic first:
