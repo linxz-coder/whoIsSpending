@@ -1,0 +1,72 @@
+谁在花钱｜素材池
+日期：2026-05-29
+
+一、候选线索与去重判断
+
+1. 政府｜财政部下达 2026 年支持学前教育发展资金 458 亿元
+- 分类：政府
+- 主体：财政部、教育系统、地方学前教育财政安排
+- 金额：458 亿元，比上年增加 125.6 亿元，增长 38%
+- 领域：学前教育、普惠幼儿园、免保育教育费、困难儿童资助
+- 主来源：https://jkw.mof.gov.cn/gongzuodongtai/202605/t20260508_3989228.htm
+- 关键事实：财政部近期下达 2026 年支持学前教育发展资金 458 亿元；“十四五”时期中央财政累计安排 1262 亿元；从 2025 年秋季学期起，免除公办幼儿园学前一年在园儿童保育教育费，对民办园适龄儿童给予相应减免，惠及超过 1400 万在园儿童，减轻家庭教育支出超过 200 亿元。
+- 去重判断：本月清单未见“学前教育 458 亿元”条目，可入选。
+
+2. 国际政府与开发资金｜EBRD 启动 10 亿欧元 Mosaic 风险转移交易
+- 分类：国际政府与开发资金
+- 主体：European Bank for Reconstruction and Development / EBRD、PGGM、AXA XL、AXIS Capital、Liberty Mutual
+- 金额：10 亿欧元参考组合；835 百万欧元 senior tranche、145 百万欧元 mezzanine tranche、20 百万欧元 junior tranche
+- 领域：多边开发银行、风险转移、私营部门贷款、可持续基础设施、金融机构
+- 主来源：https://www.ebrd.com/home/news-and-events/news/2026/ebrd-launches-inaugural--1-billion-securitisation-transaction.html
+- 关键事实：EBRD 将 Mosaic 定义为首个 portfolio-level significant risk transfer，覆盖其投资地区超过一半经济体和多个部门，目的是通过分担风险释放资产负债表空间，扩大长期开发融资能力。
+- 去重判断：本月清单有 EBRD 20 亿美元债和 6000 万美元贷款，但未见 Mosaic 10 亿欧元风险转移结构，属于不同交易。
+
+3. 投资机构｜Squid 获 600 万美元融资，扩展跨链消费端产品
+- 分类：投资机构
+- 主体：Squid、North Island Ventures、Ripple、Dialectic、Borderless、Scenius Capital 等
+- 金额：600 万美元融资；平台历史路由金额超过 60 亿美元
+- 领域：跨链基础设施、数字资产、稳定币、tokenized securities、消费端钱包体验
+- 主来源：https://www.prnewswire.com/news-releases/squid-raises-6m-to-expand-consumer-product-offering-on-cross-chain-infrastructure-302779721.html
+- 关键事实：Squid 宣布 600 万美元融资，由 North Island Ventures 领投；自 2023 年 1 月以来路由超过 60 亿美元交易量，服务超过 100 万用户和 400 万笔交易。
+- 去重判断：本月清单未见 Squid / North Island / 600 万美元条目，可入选。
+
+4. 企业｜奕斯伟武汉硅材料基地总投资超 100 亿元，主体结构封顶
+- 分类：企业
+- 主体：奕斯伟武汉硅材料基地、光谷科学岛、湖北半导体材料产业链
+- 金额：总投资超 100 亿元
+- 领域：半导体硅片、高性能存储芯片、先进逻辑芯片、高端图像传感器、国产供应链
+- 主来源：https://jxt.hubei.gov.cn/bmdt/rdjj/202605/t20260528_5945877.shtml
+- 关键事实：项目建筑面积约 19 万平方米，2026 年四季度计划首批设备搬入，2027 年上半年实现首批产能投产，预计 2030 年达产。
+- 去重判断：本月清单未见奕斯伟武汉硅材料基地或“超 100 亿元”半导体硅材料项目，可入选。
+
+5. 富豪资本｜Fertitta Entertainment 拟以 176 亿美元交易收购 Caesars Entertainment
+- 分类：富豪资本
+- 主体：Tilman Fertitta / Fertitta Entertainment、Caesars Entertainment
+- 金额：交易价值约 176 亿美元，含约 119 亿美元 Caesars 未偿债务；股东每股现金 31 美元
+- 领域：赌场、酒店、餐饮、体育博彩、娱乐资产、富豪控股平台
+- 主来源：https://investor.caesars.com/news-releases/news-release-details/caesars-entertainment-enters-agreement-be-acquired-fertitta
+- 交叉来源：https://www.investing.com/news/stock-market-news/caesars-entertainment-to-be-bought-by-fertitta-entertainment-for-176-billion-4714103
+- 关键事实：Caesars 董事会已批准交易并建议股东批准；交易不以融资为条件；有至 2026-07-11 的 go-shop 期；合并后覆盖 60 个赌场度假村和博彩设施、线上博彩平台、200 多个第三方体育博彩直营网点，以及 Fertitta 的餐饮和娱乐资产。
+- 去重判断：本月清单未见 Caesars / Fertitta / 176 亿美元条目，可入选。
+
+6. 平民消费｜618 消费继续从商品折扣转向平台补贴、分期免息和履约系统
+- 分类：平民消费
+- 主体：消费者、抖音商城、京东、天猫淘宝、美妆服饰生鲜品牌、即时零售和本地生活平台
+- 金额/增速：
+  - 国家统计局：2026 年 1-4 月社会消费品零售总额 164941 亿元，同比增长 1.9%；网上零售额 65308 亿元，同比增长 6.6%；网上商品零售额 41185 亿元，同比增长 5.7%，占社零 25.0%；网上服务零售额 24123 亿元，同比增长 8.3%。
+  - 抖音商城 618 开启 3 日：消费券带动成交额破千万元商家数同比增长 338%，商品卡成交额破千万元商家数同比增长 321%，商城成交额破千万元商家数同比增长 217%，单场直播成交额破千万元达人数同比增长 160%。
+- 主来源：https://www.stats.gov.cn/english/PressRelease/202605/t20260519_1963757.html
+- 交叉来源：https://www.ithome.com/0/952/348.htm
+- 热门品类：美妆个护、服饰运动、食品生鲜、家电数码、旅游本地生活、餐饮到店、即时零售
+- 代表产品/服务：功效护肤套装、防晒彩妆、运动户外、手机平板、空调冰箱、生鲜礼盒、到店团购、即时配送
+- 昨日最火消费品牌（国内）：抖音商城、京东、淘宝天猫、美团、小米、海尔、珀莱雅、薇诺娜、安踏
+- 昨日最火消费品牌（国外）：Apple、Samsung、Nike、Adidas、Dyson、Sony、Lancôme、Estée Lauder
+- 去重判断：5 月 28 日写过“服务消费和 618 履约系统”；今天的新增角度是“京东临近 5 月 30 日现货开卖、平台补贴与分期免息继续抢预算、抖音第一阶段商家增长数据”，需在正文说明是消费大促的推进节点。
+
+7. 高薪职位｜今天的钱指向的岗位
+- 中国高薪方向：学前教育集团运营/园所数字化、半导体材料与设备导入、博彩酒店并购整合、跨链产品/安全、618 增长投放与供应链履约
+- 国际标准参考：
+  - Computer Hardware Engineer：BLS 2024 中位年薪 155020 美元，约 12918 美元/月。https://www.bls.gov/ooh/architecture-and-engineering/computer-hardware-engineers.htm
+  - Software Developer：BLS 2024 中位年薪 133080 美元，约 11090 美元/月。https://www.bls.gov/ooh/computer-and-information-technology/software-developers.htm
+  - Financial Manager：BLS 2024 中位年薪 161700 美元，约 13475 美元/月。https://www.bls.gov/ooh/management/financial-managers.htm
+  - Logistician：BLS 2024 中位年薪 80880 美元，约 6740 美元/月。https://www.bls.gov/ooh/business-and-financial/logisticians.htm
