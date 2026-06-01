@@ -1,0 +1,90 @@
+谁在花钱｜素材池
+日期：2026-06-01
+
+候选主题：广州政务云、泰国民生补贴、Anthropic 融资、Dell AI 服务器、SpaceX 算力租赁、京东 618 开门红、高薪岗位
+
+一、政府
+
+- 分类：政府
+- 标题：广电运通子公司中标广州数字政府政务云资源租赁服务第二阶段项目
+- 主体：广州市政务服务和数据管理局 / 广州广电运通信息科技有限公司
+- 金额：约 3.09 亿元，公告口径为 309,217,299 元
+- 领域：数字政府、政务云、云资源租赁、一云多芯
+- 事件：广电运通公告称，控股子公司运通信息收到广州市政府采购中心出具的中标通知书，成为 2024-2027 年广州市数字政府政务云服务运维项目之政务云资源租赁服务第二阶段项目中标供应商，服务期 12 个月。
+- 主来源：https://www.stcn.com/article/detail/3932052.html
+- 交叉来源：https://finance.sina.com.cn/jjxw/2026-05-28/doc-inhzmtwm1135701.shtml
+- 备注：服务期计划自 2026-06-01 至 2027-05-31；适合作为今天政府项，因为项目服务期从当天开始。
+
+二、国际政府与开发资金
+
+- 分类：国际政府与开发资金
+- 标题：泰国内阁批准 Thai Help Thai Plus 成本缓解方案
+- 主体：泰国内阁、泰国财政部、Krungthai Bank
+- 金额：1760 亿泰铢；其中 520 亿泰铢覆盖 1320 万名福利卡低收入群体，1200 亿泰铢用于 60/40 共同支付计划；另调整公共债务计划增加约 2200 亿泰铢净新增借款。
+- 领域：民生补贴、消费刺激、小商户数字化、能源危机应对
+- 事件：泰国内阁批准 Thai Help Thai Plus 方案，福利卡人群 2026 年 6-9 月每月补助提高至 1000 泰铢；共同支付计划覆盖目标为 3000 万人。商户可在 6 月 1 日起接收付款，系统还加入 AI 辅助小商户分析销售和管理成本。
+- 主来源：https://www.nationthailand.com/business/economy/40066437
+- 备注：这是海外政府把预算和借款转化成居民购买力、小商户现金流和数字支付系统的案例。
+
+三、投资机构
+
+- 分类：投资机构
+- 标题：Anthropic 完成 650 亿美元 Series H 融资
+- 主体：Anthropic；Altimeter Capital、Dragoneer、Greenoaks、Sequoia Capital 等
+- 金额：650 亿美元融资；9650 亿美元投后估值；其中包括 150 亿美元此前已承诺的 hyperscaler 投资，包括来自 Amazon 的 50 亿美元。
+- 领域：AI 模型、企业 AI、算力、云平台、存储和芯片供应链
+- 事件：Anthropic 宣布完成 Series H 融资，资金用于安全和可解释性研究、扩充算力、扩大 Claude 产品和合作伙伴体系；公司称年化收入本月早些时候超过 470 亿美元。
+- 主来源：https://www.anthropic.com/news/series-h
+- 交叉来源：https://apnews.com/article/86c432fa375548fd4f111f8164d6ffc1
+- 备注：这是本期投资机构主线。钱不是只买模型，而是买算力、云平台入口、企业客户和模型安全研究。
+
+四、企业
+
+- 分类：企业
+- 标题：Dell 上调全年收入展望，AI 服务器收入预期升至约 600 亿美元
+- 主体：Dell Technologies
+- 金额：2027 财年 AI 服务器收入预期约 600 亿美元；年度收入展望从 1380-1420 亿美元上调至 1650-1690 亿美元；第一季度收入 438.4 亿美元；基础设施解决方案集团季度收入同比增长 181%。
+- 领域：AI 服务器、数据中心、Nvidia GPU、存储、供应链
+- 事件：Reuters 报道，Dell 因 AI 数据中心建设需求上调年度收入和盈利预期。美国科技巨头 2026 年 AI 基础设施支出预期超过 7000 亿美元，拉动服务器和数据中心设备供应商需求。
+- 主来源：https://www.investing.com/news/stock-market-news/dell-raises-annual-forecasts-as-ai-data-center-buildout-fuels-demand-4715373
+- 备注：避免重复 5 月底 IREN 向 Dell 采购约 16 亿美元 Blackwell 系统，本条写 Dell 自身收入预期和行业资金流。
+
+五、富豪资本
+
+- 分类：富豪资本
+- 标题：Musk 称 SpaceX 对 Anthropic 的 Colossus 算力租赁目前只是 6 个月安排
+- 主体：SpaceX / Elon Musk / Anthropic
+- 金额：此前协议口径为 Anthropic 每月向 SpaceX 支付 12.5 亿美元，使用 Memphis 的 Colossus 与 Colossus II 数据中心算力；Musk 最新称当前安排为 180 天租期，之后有共同 90 天取消通知。
+- 领域：AI 算力租赁、GPU 数据中心、SpaceX IPO、AI compute as a service
+- 事件：Reuters 报道，Musk 说明 SpaceX 并未承诺多年期 Colossus 租赁，短期安排来自 SpaceX 需求，同时 SpaceX 正讨论以较大规模提供 AI compute as a service。
+- 主来源：https://m.investing.com/news/stock-market-news/musk-says-spacex-did-not-commit-to-longterm-colossus-lease-with-anthropic-4713659?ampMode=1
+- 备注：富豪资本本期不再重复 Fertitta / Caesars，转为写 Musk 控制的 SpaceX 如何把算力资产变成高频现金流。
+
+六、平民消费
+
+- 分类：平民消费
+- 标题：京东 618 开门红 4 小时百大品牌成交额平均增长超 5 倍
+- 主体：京东、平台商家、消费品牌、金融和物流服务商
+- 金额：开门红 4 小时，百大品牌成交额同比平均增长超 5 倍；首次参加京东 618 的 51 个新商家成交额破千万元，1516 个新商家破百万元；京东全球售成交额同比翻番；数字人 JoyStreamer 带货成交额突破 7000 万元；白条成交额同比增长 212%。
+- 领域：618、服饰美妆、海外消费、AI 导购、数字人、消费金融、物流履约
+- 事件：京东 618 于 5 月 30 日晚 8 点开启，开门红数据说明消费预算继续向折扣、分期、AI 营销、全球售和供应链履约集中。
+- 主来源：https://finance.sina.com.cn/jjxw/2026-05-31/doc-inhzuetr9392666.shtml
+- 备注：与 5 月 29 日写“平台补贴、分期和履约”相比，本期有开门红正式数据和 AI 营销具体金额，属于新增更新点。
+
+七、高薪职位
+
+- 岗位方向：政务云与云资源运营、AI 数据中心与服务器供应链、AI 模型商业化、算力租赁财务建模、电商大促增长、供应链履约、小商户数字化
+- 中国高薪岗位：
+  1. 政务云架构 / 云资源调度 / 信创云平台负责人：人民币约 45000 至 90000 元/月，参考数字政府、云厂商和大型集成商岗位口径。
+  2. AI 服务器供应链 / 数据中心交付负责人：人民币约 60000 至 120000 元/月，参考 AI 服务器、IDC、GPU 集群交付岗位口径。
+  3. 618 大促增长 / AI 营销产品 / 履约策略负责人：人民币约 40000 至 90000 元/月，参考头部电商、品牌和物流平台岗位口径。
+- 国际高薪岗位：
+  1. Financial Manager：161700 美元/年，约 13475 美元/月，BLS 2024 年薪中位数。
+  2. Computer Hardware Engineer：155020 美元/年，约 12918 美元/月，BLS 2024 年薪中位数。
+  3. Software Developer：133080 美元/年，约 11090 美元/月，BLS 2024 年薪中位数。
+  4. Logistician：80880 美元/年，约 6740 美元/月，BLS 2024 年薪中位数。
+- 标准参考来源：
+  - https://www.bls.gov/ooh/management/financial-managers.htm
+  - https://www.bls.gov/ooh/architecture-and-engineering/computer-hardware-engineers.htm
+  - https://www.bls.gov/ooh/computer-and-information-technology/software-developers.htm
+  - https://www.bls.gov/ooh/business-and-financial/logisticians.htm
