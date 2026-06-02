@@ -1,0 +1,65 @@
+谁在花钱｜素材池
+日期：2026-06-02
+
+一、政府
+- 分类：政府 / 国资投资
+- 标题：宁夏国资监管企业前4个月完成固定资产投资72.8亿元
+- 主体：宁夏国资监管企业
+- 金额：72.8亿元；其中盐池惠安堡光伏、300万千瓦光伏基地及配套储能电站完成投资35.7亿元
+- 领域：新能源、固定资产投资、国资
+- 主来源：国务院国资委转宁夏国资委，2026-05-19，https://wap.sasac.gov.cn/n2588025/n2588129/c35429722/content.html
+- 备注：近两周有效线索，未出现在2026-06月去重清单。
+
+二、国际政府与开发资金
+- 分类：国际政府与开发资金
+- 标题：World Bank批准5亿美元支持加纳农村道路与市场接入
+- 主体：World Bank / Ghana Market Access and Connectivity Project
+- 金额：5亿美元
+- 领域：农村道路、农业价值链、市场接入、短期就业
+- 主来源：World Bank，2026-05-28，https://www.worldbank.org/en/news/press-release/2026/05/28/world-bank-approves-500-million-to-improve-rural-roads-and-market-access-in-ghana
+- 备注：近7天内有效线索。
+
+三、投资机构
+- 分类：投资机构 / 成长股权
+- 标题：Stord完成近2.5亿美元Series F融资，估值30亿美元
+- 主体：Stord；投资方包括Strike Capital、Kleiner Perkins、Founders Fund、Franklin Templeton、Baillie Gifford、G Squared、Bond、Lux等
+- 金额：近2.5亿美元融资；估值30亿美元
+- 领域：电商履约、DTC品牌基础设施、AI运营软件
+- 主来源：Stord新闻稿，2026-05-26，https://www.stord.com/newsroom/stord-raises-250m-series-f
+- 备注：用于观察资本流向“品牌履约+AI软件+仓配网络”。
+
+四、企业
+- 分类：企业 / AI基础设施
+- 标题：NVIDIA一季度收入816亿美元，数据中心收入752亿美元，并新增800亿美元回购授权
+- 主体：NVIDIA
+- 金额：Q1 FY2027收入816.15亿美元；数据中心收入752亿美元；新增800亿美元回购授权；Q2收入展望约910亿美元
+- 领域：AI数据中心、AI工厂、网络、GPU、边缘AI
+- 主来源：NVIDIA财报新闻稿，2026-05，https://nvidianews.nvidia.com/_gallery/download_pdf/6a0e17dc3d633295d45282e6/
+- 备注：说明企业AI基础设施预算继续流向GPU、网络和数据中心。
+
+五、富豪资本
+- 分类：富豪资本 / 控股公司
+- 标题：Berkshire以68亿美元收购Taylor Morrison，并向Alphabet投入100亿美元
+- 主体：Berkshire Hathaway / Greg Abel
+- 金额：68亿美元收购Taylor Morrison；100亿美元投资Alphabet
+- 领域：住宅建造、AI基础设施、长期股权配置
+- 主来源：AP，2026-06-01，https://apnews.com/article/berkshire-hathaway-warren-buffett-abel-taylor-morrison-b7bf3c0c23cbe5e4e9d2f2bd184eb06a
+- 交叉来源：Reuters/MarketScreener，2026-06-01，Alphabet拟筹资800亿美元，含Berkshire 100亿美元投资，https://uk.marketscreener.com/news/alphabet-plans-to-raise-80-billion-for-ai-goals-berkshire-to-invest-10-billion-ce7f5dd9dc8cff22
+- 备注：同一控制主体两天内大额配置，适合富豪资本板块。
+
+六、平民消费
+- 分类：平民消费 / 新能源车
+- 标题：比亚迪5月销量383453辆，出口新能源车160644辆
+- 主体：比亚迪
+- 金额/销量：新能源车销量383453辆；乘用车销量376990辆；纯电198674辆；插混178316辆；出口新能源车160644辆
+- 领域：新能源车、出海、家庭大件消费
+- 主来源：比亚迪2026年5月产销快报转载，中财网，2026-06-01，https://www.cfi.net.cn/p20260601002693.html
+- 备注：用于替代昨日已经使用的京东618开门红，避免同月重复。
+
+七、高薪职位
+- 主题线索：新能源电站与储能项目、AI数据中心和GPU网络、跨境新能源车销售/售后/金融、电商履约AI软件。
+- 国际薪资标准参考：BLS Occupational Employment and Wages May 2025，2026-05-15发布，https://www.bls.gov/news.release/archives/ocwage_05152026.pdf
+- 可用口径：Software developers平均年薪148100美元；Information security analysts平均年薪132510美元；Financial and investment analysts平均年薪116800美元；Logisticians平均年薪89730美元。
+
+八、本月去重检查
+- 已避开2026-06-01已发布条目：广州政务云、泰国Thai Help Thai Plus、Anthropic 650亿美元融资、Dell AI服务器收入预期、SpaceX/Colossus算力租赁、京东618开门红。
