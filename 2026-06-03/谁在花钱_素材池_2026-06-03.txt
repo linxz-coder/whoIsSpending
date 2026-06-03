@@ -1,0 +1,75 @@
+谁在花钱｜素材池
+日期：2026-06-03
+
+筛选规则：
+- 本日选题避开 2026-06 已发布的 12 条重复事件。
+- 优先保留有明确金额、容量、融资规模或资产配置口径的线索。
+- 发布版不放来源说明；本文件保留核验链接。
+
+1) 政府｜深圳宝安第二批重点项目集中开工
+- 标题：深圳第二批重点项目集中开工，宝安 47 个项目总投资逾 170 亿元
+- 主体：深圳市宝安区
+- 金额：47 个项目总投资 170.95 亿元；政府投资项目 24 个，总投资 16.24 亿元；社会投资项目 23 个，总投资 154.71 亿元
+- 领域：产业项目、工业上楼、基础设施、社会民生、绿色智能算力
+- 补充数字：产业类项目 18 个，总投资 85.04 亿元；工业上楼项目 4 个，总投资 47.80 亿元；宝安新一代绿色智能算力产业园总投资约 2.8 亿元，投产后 5 年累计产值预计 110 亿元
+- 主来源：https://www.sz.gov.cn/cn/zjsz/fwts_1_3/tzdt_1/content/post_12807285.html
+- 备注：用作政府板块，重点写地方财政与社会资本共同买“产业空间、算力、医院、体育公园和交通改造”。
+
+2) 国际政府与开发资金｜EBRD 匈牙利光伏储能融资
+- 标题：EBRD finances landmark solar and battery project in Hungary
+- 主体：European Bank for Reconstruction and Development、Renalfa IPP
+- 金额：EBRD 提供 7000 万欧元贷款，属于 2.1 亿欧元融资包的一部分
+- 领域：450MW 太阳能光伏组合、250MW/1GWh 共址电池储能系统、匈牙利东北部能源安全
+- 补充数字：项目预计每年交付约 448GWh 可再生电力，支持匈牙利 2030 年可再生能源占比目标
+- 主来源：https://www.ebrd.com/home/news-and-events/news/2026/ebrd-finances-landmark-solar-and-battery-project-in-hungary.html
+- 备注：用作国际开发资金板块，重点写“开发银行的钱买的是电网灵活性，不只是发电装机”。
+
+3) 投资机构｜Focused Energy 完成 2.4 亿美元 Series A
+- 标题：Focused Energy raises whopping $240M Series A for laser-powered fusion tech
+- 主体：Focused Energy、RWE、SPRIND、Prime Movers Lab、European Innovation Council Fund
+- 金额：2.4 亿美元 Series A；公司累计私人资本约 3 亿美元，另有约 2 亿美元 grants
+- 领域：激光惯性约束核聚变、Lighthouse 示范系统、德国退役核电站场址
+- 主来源：https://techcrunch.com/2026/06/02/focused-energy-raises-whopping-240m-series-a-for-laser-powered-fusion-tech/
+- 交叉来源：https://www.rwe.com/-/media/RWE/documents/07-presse/rwe-ag/2026/2026-05-27-rwe-increases-investment-in-focused-energy.pdf
+- 备注：用作投资机构板块，重点写长期能源技术从实验室走向工程化场站。
+
+4) 企业｜SoftBank 法国 AI 数据中心最高 750 亿欧元投资
+- 标题：SoftBank Group to Build 5 GW of AI Data Center Capacity in France
+- 主体：SoftBank Group、法国 Choose France、EDF、Schneider Electric、SB Energy
+- 金额：最高 750 亿欧元；第一阶段 450 亿欧元，交付 3.1GW AI 数据中心容量
+- 领域：AI 数据中心、Dunkirk、Bosquel、Bouchain、机器人化电力模块和机柜制造、法国低碳电力
+- 主来源：https://group.softbank/en/news/press/20260531_0
+- 备注：用作企业板块，重点写企业 AI 预算从模型和芯片扩展到电力、土地、模块化制造和跨国工业协同。
+
+5) 富豪资本｜UBS 家族办公室报告显示超高净值资金继续买 AI、基础设施和电力
+- 标题：UBS Global Family Office Report 2026
+- 主体：UBS 调研的 307 个 family offices
+- 资金口径：受访家族平均净资产 27 亿美元；受访家族总财富 6274 亿美元；每个 family office 平均管理 13 亿美元资产
+- 资产配置：60% 计划未来 12 个月调整战略资产配置；65% 已投资 AI 价值链；37% 配置或关注 power and resources；37% 配置或关注 infrastructure；33% 配置或关注 AI-enabled healthcare
+- 主来源：https://www.ubs.com/global/en/media/display-page-ndp/en-20260528-global-family-office-report-2026.html
+- 备注：用作富豪资本板块，不写成单笔交易，写成“富豪钱的方向盘正在从单一科技股转向 AI 所需的电力、数据中心、半导体、软件和医疗应用”。
+
+6) 平民消费｜618 首阶段从低价转向场景化、季节性和复购
+- 标题：天猫 618 开门红数据公布，平台成交破亿品牌数量同比增长 40%
+- 主体：天猫、京东、京东服饰、京东超市、抖音、美团等平台
+- 金额/增速：
+  - 天猫披露 2026 年 618 第一阶段交易数据，美妆和服饰两大核心品类复购率均突破 40%，入驻不超过 3 年的新锐品牌中 329 个登顶各自细分赛道成交额榜首
+  - 京东服饰 618 开门红 52 小时，儿童包、防晒配饰成交额同比涨超 100%，蕉下、Songmont、MLB 等超 500 个品牌成交额同比翻倍
+  - 京东超市开门红用户数高两位数增长，定制包销款商品成交额同比增长 40%，百亿超市频道成交额环比增长 150%，超千个品牌成交额同比增长 100%
+- 主来源：https://finance.eastmoney.com/a/202606023757518246.html
+- 交叉来源：https://news.sina.com.cn/sx/2026-06-02/detail-inhzzcpq3164435.shtml
+- 交叉来源：https://mtz.china.com/touzi/2026/0602/238399.html
+- 备注：避开 2026-06-01 已写过的“京东 4 小时百大品牌同比超 5 倍、JoyStreamer 7000 万元”。
+
+7) 高薪职位素材
+- 中国方向：
+  - AI 数据中心电力/液冷/网络交付负责人：人民币约 60000 至 120000 元/月，参考招聘平台同类高级岗位区间，匹配 SoftBank、宝安算力园和 AI 基建主题
+  - 光储项目开发/电力交易/储能系统负责人：人民币约 35000 至 80000 元/月，匹配 EBRD 匈牙利光储项目
+  - 核聚变/高端激光/精密制造工程负责人：人民币约 40000 至 90000 元/月，匹配 Focused Energy 激光聚变和高端制造主题
+  - 618 品牌增长/电商 AI 投放/品类运营负责人：人民币约 35000 至 90000 元/月，匹配 618 消费数据和平台运营主题
+- 国际方向：
+  - Software Developer：约 12342 美元/月，按 BLS May 2025 平均年薪 148100 美元折算
+  - Information Security Analyst：约 11043 美元/月，按 BLS May 2025 平均年薪 132510 美元折算
+  - Financial and Investment Analyst：约 9733 美元/月，按 BLS May 2025 平均年薪 116800 美元折算
+  - Logistician：约 7478 美元/月，按 BLS May 2025 平均年薪 89730 美元折算
+- 参考来源：https://www.bls.gov/news.release/ocwage.t01.htm
