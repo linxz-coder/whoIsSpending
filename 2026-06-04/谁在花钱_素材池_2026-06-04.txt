@@ -1,0 +1,76 @@
+谁在花钱｜素材池
+日期：2026-06-04
+
+筛选规则：
+- 本日选题避开 2026-06 已发布的 18 条重复事件。
+- 优先保留有明确金额、融资结构、财政口径、订单增速或就业指向的线索。
+- 发布版不放来源说明；本文件保留核验链接。
+
+1) 政府｜中央财政下达 2026 年育儿补贴补助资金
+- 标题：中央财政下达育儿补贴补助资金 999 亿元支持实施育儿补贴制度
+- 主体：财政部、各级财政、卫生健康部门
+- 金额：中央财政近期下达 2026 年育儿补贴补助资金 999 亿元，较上年增长 10.6%；预计全年各级财政共安排补贴资金约 1100 亿元
+- 领域：育儿补贴、民生保障、生育友好型社会、财政转移支付
+- 主来源：https://bgt.mof.gov.cn/zhuantilanmu/rdwyh/czyw/202606/t20260602_3991021.htm
+- 备注：用作政府板块，重点写财政的钱从一次性项目转向家庭现金流和公共服务系统；普通人机会在补贴审核、母婴服务、托育运营和地方数字政务。
+
+2) 国际政府与开发资金｜AfDB 批准马达加斯加金融治理与经济韧性融资
+- 标题：African Development Bank Group Approves $68 Million to Strengthen Madagascar's Financial Governance and Economic Resilience
+- 主体：African Development Bank Group、Republic of Madagascar
+- 金额：6800 万美元融资包，其中 African Development Fund 优惠贷款 2720 万美元，Transition Support Facility 优惠贷款 4080 万美元；两阶段项目总投资达到 1.36 亿美元
+- 领域：公共财政、税收系统、反腐治理、经济韧性、预算支持
+- 主来源：https://www.afdb.org/en/news-and-events/press-releases/african-development-bank-group-approves-68-million-strengthen-madagascars-financial-governance-and-economic-resilience-93636
+- 备注：用作国际开发资金板块，重点写开发资金不只修路发电，也会买政府财政系统和税收征管能力。
+
+3) 投资机构｜Terra AI 完成 2000 万美元 Series A
+- 标题：Terra AI raises $20M to Accelerate Mineral and Reservoir Exploration to Meet Global Critical Mineral and Energy Demands
+- 主体：Terra AI、Khosla Ventures、BHP Ventures
+- 金额：2000 万美元 Series A
+- 领域：关键矿产、油气/储层、地下不确定性建模、AI 地质推理、碳封存选址
+- 主来源：https://www.prnewswire.com/news-releases/terra-ai-raises-20m-to-accelerate-mineral-and-reservoir-exploration-to-meet-global-critical-mineral-and-energy-demands-302789507.html
+- 核验要点：Khosla Ventures 领投，BHP Ventures 战略投资；公司称平台可整合多类型勘探数据，生成数百万个地质模型，并把通常需要多年推进的资源评估前置到更早阶段。
+- 备注：用作投资机构板块，重点写投资人买的是关键矿产开发的“时间压缩器”。
+
+4) 企业｜Alphabet 宣布 800 亿美元股权融资计划用于 AI 基础设施
+- 标题：Alphabet Announces Proposed $80 Billion Equity Capital Raise to Expand AI Infrastructure and Compute
+- 主体：Alphabet、Berkshire Hathaway、Goldman Sachs、J.P. Morgan、Morgan Stanley
+- 金额：预计合计 800 亿美元股权融资；其中 300 亿美元承销公开发行，400 亿美元 ATM 发行计划，100 亿美元向 Berkshire Hathaway 定向增发；2026 年资本开支预计 1800 亿至 1900 亿美元
+- 领域：AI 算力基础设施、全球 compute、云服务、资本市场融资
+- 主来源：https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx
+- PDF 来源：https://s206.q4cdn.com/479360582/files/doc_news/2026/Jun/01/attachments/2026-June-Alphabet-Equity-Capital-Raise-Press-Release-PDF.pdf
+- 更新点：6 月 2 日已写过 Berkshire 向 Alphabet 投入 100 亿美元；今天不重复写单一私募，而写 Alphabet 官方披露的 800 亿美元整体融资结构、AI 基建用途和资本开支口径。
+- 备注：用作企业板块，重点写 AI 大厂的钱已经从利润再投资扩展到股权、债务和现金流组合融资。
+
+5) 富豪资本｜Ackman / Pershing Square 试图收购 Universal Music Group，被董事会拒绝
+- 标题：Universal Music Group declines Bill Ackman takeover proposal
+- 主体：Bill Ackman、Pershing Square Capital Management、Universal Music Group
+- 金额：Pershing Square 提出现金加股票要约，按 Reuters 计算交易价值约 557.5 亿欧元，约合 650.3 亿美元；UMG 董事会一致拒绝
+- 领域：音乐版权、流媒体、上市地、股票回购、富豪资本主动投资
+- 主来源：https://www.investing.com/news/stock-market-news/universal-music-group-declines-pershing-square-proposal-4717130
+- 备注：用作富豪资本板块，明确写“这不是已落地成交，而是富豪资本试图重新定价音乐版权和平台资产”。
+
+6) 平民消费｜618 首轮战报新增 AI 硬件、海外订单和线下门店口径
+- 标题：2026 年 618 首轮战报出炉：平台数据稳中有升，新商家与海外市场表现亮眼
+- 主体：京东、天猫、抖音商城、消费者、新商家、海外订单
+- 金额/增速：
+  - 京东 52 小时战报：下单用户数再创新高，京东 MALL、京东 3C 数码门店、京东折扣超市等线下门店整体客流量同比增长超 70%；超 5600 家京东 3C 数码门店客流量同比增长 138%；27 家京东 MALL 销售额同比增长 53%
+  - 京东新商家数量同比增长超 62%，51 个新商家成交额破千万元，1516 个新商家成交额破百万元；iPhone 开售 1 分钟成交额破亿元，华为手机 10 分钟成交额同比增长超 5 倍；京东全球售首轮整体订单同比翻倍，高尔夫装备、电竞座椅等新潮单品订单同比增长超 10 倍
+  - 天猫 618 第一阶段：超 40000 个品牌成交额翻倍，破亿品牌数同比增长 40%，破亿且双位数增长直播间同比增长 50%；首次参与天猫 618 的新品牌中，千万级成交品牌数量同比增长 67%；入驻不超过 3 年的新锐品牌中有 329 个成为细分赛道冠军；AI 智能硬件整体同比增长 80%，AI 眼镜品类同比增长 9 倍
+  - 抖音商城第一阶段：百亿消费券补贴带动成交额破亿元的商家数量同比增长 325%，成交额破亿元爆款单品数同比增长 300%
+- 主来源：https://finance.sina.com.cn/jjxw/2026-06-03/doc-iniacaes2528669.shtml
+- 更新点：6 月 3 日已写过服饰美妆复购、儿童包、防晒配饰和京东超市口径；今天改写更完整的 AI 电商、海外订单、手机数码、线下门店和新商家口径。
+- 备注：用作平民消费板块，重点写普通人的钱正在从“便宜买货”流向“AI 购物、即时线下、跨境订单和新商家爆发”。
+
+7) 高薪职位素材
+- 中国方向：
+  - 育儿补贴/托育服务数字化运营负责人：人民币约 30000 至 80000 元/月，参考政务服务、互联网医疗、母婴服务和连锁托育同类中高级岗位区间，匹配财政补贴发放、审核、风控和服务承接。
+  - AI 基础设施资本计划/IR/项目融资负责人：人民币约 60000 至 150000 元/月，参考大型互联网、云计算、数据中心和券商投行同类岗位区间，匹配 Alphabet 800 亿美元融资与 AI capex 主题。
+  - 关键矿产 AI 地质建模/资源项目评估负责人：人民币约 45000 至 100000 元/月，参考矿业、油气、地质建模、能源咨询和工业 AI 岗位区间，匹配 Terra AI 主题。
+  - 跨境电商 AI 增长/品牌出海负责人：人民币约 35000 至 100000 元/月，参考电商平台、品牌出海和增长投放岗位区间，匹配 618 海外订单和 AI 购物主题。
+- 国际方向：
+  - Software Developer：约 12342 美元/月，按 BLS May 2025 平均年薪 148100 美元折算。
+  - Information Security Analyst：约 11043 美元/月，按 BLS May 2025 平均年薪 132510 美元折算。
+  - Financial and Investment Analyst：约 9733 美元/月，按 BLS May 2025 平均年薪 116800 美元折算。
+  - Logistician：约 7478 美元/月，按 BLS May 2025 平均年薪 89730 美元折算。
+- 标准参考来源：https://www.bls.gov/news.release/ocwage.htm
+- 对普通人的切入要求：懂一个高金额场景的流程、数据和合规，比泛泛会 AI 更重要。
