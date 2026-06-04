@@ -12,7 +12,7 @@
 
 每天怎么用
 1. 初始化当天目录
-   python3 '/Users/lxz/Downloads/谁在花钱日报/run_daily.py' init 2026-04-09
+   python3 '/Users/linxiaozhong/Downloads/谁在花钱日报/run_daily.py' init 2026-04-09
 
 2. 把当天找到的新闻、公告、金额、链接先丢进“素材池”文件
 
@@ -29,13 +29,14 @@
   4) 输出到当天目录：
      - 谁在花钱_日报_YYYY-MM-DD.txt
      - 谁在花钱_发布版_YYYY-MM-DD.txt
-  5) 把发布版整理成 Zola 博客 Markdown，写入 /Users/lxz/Desktop/zola-basic/content/blog
+  5) 把发布版整理成 Zola 博客 Markdown，写入 /Users/linxiaozhong/Desktop/archive/zola-basic/content/blog
   6) 在 Zola 仓库内提交并推送到 GitHub 远端 main 分支
 - 如果你只发“日报”，默认做“谁在花钱”这一个项目，默认优先使用“新闻源清单.txt”里的一级、二级、三级新闻源。
-- 自动任务每日运行：本机 LaunchAgent 每天 10:30 自动生成日报并推送；如需临时跳过周末，可卸载或停用 LaunchAgent。
+- 周末不推送：如果目标日期是周六或周日，默认不生成、不提交、不推送日报；如云端已有最新版本，以云端最新版本为准。
 - 日报正文默认包含：政府、国际政府与开发资金、投资机构、企业、富豪资本、平民消费、高薪职位。
 - “高薪职位”默认跨行业筛选，不只聚焦AI/大模型；优先覆盖科技、金融、医疗、能源、制造、出海、销售管理等多个行业中当日可核验的高薪岗位。
 - “高薪职位”默认分“中国”和“国际”两组；每个岗位必须标明薪资币种、月薪口径和标准参考来源。国际岗位如换算成人民币，需同时保留原币种金额。
+- “高薪职位”的中国岗位必须优先扫描国内招聘/薪资平台，不再主要依据当天新闻推断岗位。BOSS直聘必查，并至少交叉职友集、猎聘、智联招聘、51job、脉脉高聘、看准网中的2个来源；输出时必须写清岗位名、人民币月薪区间、城市/经验口径和扫描来源。
 - 同一自然月默认去重：已发布过且“主体+事件+金额”相同的条目不再重复；只有出现明确更新（金额变化、交易正式落地、官方新增公告）才允许再次写入，并需在正文点明更新点。
 - 平民消费默认写法：优先输出“热门消费品类 + 代表产品 + 资金流向”，尽量避免连续多天只写“以旧换新总额”或“假期总消费额”。
 - 平民消费默认附加项：补充“昨日最火消费品牌（国内至少3个、国外至少3个）”。品牌热度可来自三级灵感源，但最终描述需与一级/二级可信源的消费数据共同使用。
@@ -45,7 +46,6 @@
   - date = YYYY-MM-DD
   - authors = ["小中"]
   - tags = ["日报", "商业", "投资", "高薪职位"]
-- Zola 博客正文不要再重复写 H1 标题或单独日期；网站模板已经显示标题和日期，正文应从“今天，全球的大钱...”这类导语直接开始。
 - 如果你有特殊要求，直接在“日报”后面补一句即可，例如：
   - 日报，只看中国
   - 日报，重点看AI和政府花钱
@@ -55,16 +55,14 @@
 
 查看状态
 - 查看全部日期：
-  python3 '/Users/lxz/Downloads/谁在花钱日报/run_daily.py' status
+  python3 '/Users/linxiaozhong/Downloads/谁在花钱日报/run_daily.py' status
 - 查看某一天：
-  python3 '/Users/lxz/Downloads/谁在花钱日报/run_daily.py' status 2026-04-09
+  python3 '/Users/linxiaozhong/Downloads/谁在花钱日报/run_daily.py' status 2026-04-09
 
 说明
 - 这是半自动流程：目录、模板和成品输出自动化；新闻筛选、核验和成稿仍由你与 Codex 协作完成。
-- 新闻源的默认白名单和优先级以 [新闻源清单.txt](/Users/lxz/Downloads/谁在花钱日报/新闻源清单.txt) 为准。
-- 博客发布默认仓库：`/Users/lxz/Desktop/zola-basic`
-- 博客发布默认目录：`/Users/lxz/Desktop/zola-basic/content/blog`
+- 新闻源的默认白名单和优先级以 [新闻源清单.txt](/Users/linxiaozhong/Downloads/谁在花钱日报/新闻源清单.txt) 为准。
+- 博客发布默认仓库：`/Users/linxiaozhong/Desktop/archive/zola-basic`
+- 博客发布默认目录：`/Users/linxiaozhong/Desktop/archive/zola-basic/content/blog`
 - 推送时只提交本次新增或修改的日报文章文件，不主动处理仓库里其他无关改动。
-- 自动化脚本：`/Users/lxz/Downloads/谁在花钱日报/automation/daily_who_spending.sh`
-- 自动化日志：`/Users/lxz/Library/Logs/whoIsSpendingDaily`
 - 如果后面你要继续推进，我可以把它再升级成：输入日期后自动生成研究版草稿框架、自动汇总金额字段、自动导出周报。
