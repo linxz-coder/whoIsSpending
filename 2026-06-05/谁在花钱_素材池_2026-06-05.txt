@@ -1,0 +1,89 @@
+谁在花钱｜素材池
+日期：2026-06-05
+
+一、候选素材与来源
+
+【政府】
+- 标题：哈尔滨新区新材料与智能农机产业园竣工投用
+- 主体：哈尔滨新区、黑龙江省工信厅/黑龙江日报
+- 金额：园区总投资4.5亿元；德国科乐收高端农机SKD制造基地计划投资2000万元；智能薄膜生产线预计年产值约15亿元
+- 领域：新材料、智能农机、产业园、地方产业平台
+- 主来源：https://gxt.hlj.gov.cn/gxt/c106966/202606/c00_31946556.shtml
+- 备注：2026-06-03发布。和6月已发布的深圳、宁夏、育儿补贴等条目不重复。
+
+【国际政府与开发资金】
+- 标题：World Bank批准3.72亿美元支持格鲁吉亚TC-GATE项目
+- 主体：World Bank Group、Georgia、AIIB、ADB
+- 金额：World Bank本次融资3.72亿美元；项目总成本超过7.5亿美元
+- 领域：Trans-Caspian Transport Corridor、铁路货运、道路现代化、机构改革
+- 主来源：https://www.worldbank.org/en/news/press-release/2026/06/02/georgia-boosts-role-in-trans-caspian-transport-corridor-with-world-bank-group-support
+- 备注：项目预计直接惠及超过90万人，并通过物流、交通、农业相关服务带来就业。
+
+【投资机构】
+- 标题：AI音乐公司Suno完成4亿美元Series D融资
+- 主体：Suno、Bond Capital、IVP、Forerunner、Union Square Ventures、Alkeon、Quiet、Matrix、Lightspeed、Menlo Ventures、Schroders Capital
+- 金额：4亿美元Series D；估值54亿美元
+- 领域：AI音乐生成、版权诉讼、音乐创作工具
+- 主来源：https://techcrunch.com/2026/06/03/still-facing-copyright-lawsuits-ai-music-generator-suno-raises-another-400m/
+- 备注：版权争议仍在，但资金继续押注AI创作工具和分发入口。
+
+【企业】
+- 标题：Pinterest与AWS扩大合作，承诺40亿美元云服务支出
+- 主体：Pinterest、Amazon Web Services
+- 金额：计划至2031年投入40亿美元云服务承诺
+- 领域：AI视觉搜索、推荐系统、Trainium、Graviton、Kubernetes/EKS、云基础设施
+- 主来源：https://investor.pinterestinc.com/news-and-events/press-releases/press-releases-details/2026/Pinterest-Works-with-AWS-to-Power-Next-Chapter-of-AI-Driven-Visual-Search-Discovery/default.aspx
+- 备注：Pinterest披露其全球月活超过6亿，本次是公司史上最大基础设施承诺。
+
+【富豪资本】
+- 标题：Universal Music Group回购Pershing减持中的部分股份
+- 主体：Bill Ackman、Pershing Square、Universal Music Group、Bollore family
+- 金额：Pershing拟出售约8060万股；UMG回购超过1400万股，金额约2.5亿欧元；Pershing预计至少获利6亿美元
+- 领域：音乐版权、主动投资、股票回购、持仓退出
+- 主来源：https://m.investing.com/news/stock-market-news/universal-music-buys-back-part-of-ackmans-pershing-stake-after-64-billion-bid-fails-4726249?ampMode=1
+- 备注：这是6月4日“Ackman收购UMG被拒”后的新进展，今天写退出和回购，不重复写收购提案本身。
+
+【平民消费】
+- 标题：京东618开门红52小时，建材与AI家居消费继续放量
+- 主体：京东、建材家居品牌、AI家电家居新品
+- 热门品类：建材、AI智能浴霸、AI智能锁、AI智能门、AI大路灯、家装家居
+- 代表产品：美的AI智能浴霸P5、凯迪仕i60 Ultra AI智能锁、亚太天能J6SE AI智能门、奥普AI智能浴霸S6-AIR、童视界京东自研AI大路灯D6
+- 品类金额/增速：超1000个建材品牌成交额同比超100%；搭载JoyInside的AI家电家居新品成交额环比增长200%
+- 昨日最火消费品牌（国内）：美的、凯迪仕、奥普、亚太天能、童视界、京东自营
+- 昨日最火消费品牌（国外）：Apple、Samsung、Dyson、Nike、adidas、IKEA
+- 主来源：https://news.ikanchai.com/2026/0603/659094.shtml
+- 交叉背景：https://www.mofcom.gov.cn/xwfb/sjfzrfb/art/2026/art_af8f89a0ec45453f99749f8587545344.html
+- 备注：区别于6月4日已写的AI智能硬件、AI眼镜、手机数码、线下门店和跨境订单，今天聚焦家装建材和AI家场景。
+
+【高薪职位】
+- 国内扫描来源：
+  1. BOSS直聘量化深度学习/量化策略/高级量化岗位：
+     https://www.zhipin.com/zhaopin/e53c18df5da6a9cb1nd-2tm4FA~~/
+     https://www.zhipin.com/zhaopin/e1cbbc743a6296a91H1829m0/
+  2. BOSS直聘AI算法研究员/AI Agent/AI Tech Lead：
+     https://www.zhipin.com/zhaopin/ee808bed99463f390HV92tq1/
+     https://www.zhipin.com/zhaopin/f38d1a9828a5d3ca0nd439S9GQ~~/
+     https://www.zhipin.com/zhaopin/01717243aa2c843a0nV639W_EA~~/
+  3. BOSS直聘跨境电商负责人、SHEIN广告投放技术专家、跨境电商CEO/COO：
+     https://www.zhipin.com/zhaopin/ec6c03f448a8926e0nJ72di1/
+     https://www.zhipin.com/zhaopin/eae7fd3e59842bdc1nx73Nu6EA~~/
+     https://www.zhipin.com/zhaopin/29fb343d7c7a34ae1nB52N29Eg~~/
+  4. BOSS直聘数据安全/网络安全/移动安全岗位：
+     https://www.zhipin.com/zhaopin/6534a4f5a1dc6dd61XNz0968/
+     https://www.zhipin.com/zhaopin/c871b5b81f48df581nZ-3t25EQ~~/
+     https://www.zhipin.com/zhaopin/1156078b9d56e4580XR939W0/
+  5. 职友集薪资聚合：
+     https://www.jobui.com/salary/quanguo-lianghuayanjiuyuan/ind-zhengquan/
+     https://www.jobui.com/salary/beijing-rengongzhinengsuanfayanjiuyuan/
+- 典型岗位：
+  1. 高级量化研究员/高级C++量化开发：BOSS可见60-90K、90-120K·16薪样本；职友集证券量化研究员多数20-50K/月。
+  2. AI科学家/AI算法研究员/AI Agent架构师：BOSS可见50-80K、30-60K·16薪、50-80K·20薪样本；职友集北京人工智能算法研究员75%岗位20-50K/月。
+  3. 跨境电商负责人/海外增长负责人/跨境广告技术TL：BOSS可见60-90K·13薪、60-90K·15薪、80-110K样本。
+  4. 网络安全大模型/数据安全/移动安全专家：BOSS可见50-80K、60-90K·14薪、50-80K·15薪样本。
+- 国际标准参考来源：
+  - BLS May 2025 OEWS：https://www.bls.gov/news.release/archives/ocwage_05152026.pdf
+  - Software Developers平均年薪148100美元；Information Security Analysts平均年薪132510美元；Financial and Investment Analysts平均年薪116800美元；Biochemists and Biophysicists平均年薪129840美元。
+
+二、今日初筛结论
+- 今天的大钱可以概括为：产业平台、欧亚物流走廊、AI内容工具、AI视觉搜索云基础设施、音乐版权资本退出、AI家居消费和高门槛岗位。
+- 6月去重检查：上述政府、World Bank、Suno、Pinterest、UMG回购/退出、京东建材AI家居条目均未以“主体+事件+金额”相同形式在6月清单中出现；UMG和618条目需要写明更新点。
