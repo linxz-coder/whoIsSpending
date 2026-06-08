@@ -1,0 +1,77 @@
+谁在花钱｜素材池
+日期：2026-06-08
+
+一、政府
+- 标题：总投资约50亿元！广州航天小镇一期项目在黄埔开工
+- 主体：广州建筑集团、广州市黄埔区、广州航天小镇项目、中科宇航等商业航天产业链企业
+- 金额：项目计划总投资约50亿元；一期聚焦可重复使用运载器、航天器及液体发动机，计划2027年建成投产
+- 领域：商业航天、可重复使用运载器、卫星制造、产业园区、低空经济与未来产业
+- 主来源：广州市黄埔区人民政府门户网站，https://www.hp.gov.cn/xwzx/zwyw/content/post_10833328.html
+- 交叉来源：新华社/地方政务转载线索；6月去重清单未出现该“主体+事件+金额”
+- 备注：发布时间为2026-05-29，因6月6日至7日为周末且未发布日报，本期作为近阶段未入选的官方项目线索使用。
+
+二、国际政府与开发资金
+- 标题：New US$900 million World Bank Financing to Improve Iraq’s Road Connectivity and Support Job Creation
+- 主体：World Bank、Iraq、Roads and Bridges Directorate、Ministry of Construction, Housing, and Public Municipalities
+- 金额：9亿美元融资包
+- 领域：道路走廊、跨境交通、道路安全、工程就业、贸易效率
+- 主来源：World Bank，https://www.worldbank.org/en/news/press-release/2026/06/05/new-us-900-million-world-bank-financing-to-improve-iraq-s-road-connectivity-and-support-job-creation
+- 交叉来源：World Bank Projects / ITREC项目页
+- 备注：项目覆盖伊拉克南北、东西两条战略通道，第一阶段包括E1关键路段修复、库尔德地区道路升级和E2初段建设，预计惠及约790万人。
+
+三、投资机构
+- 标题：OpenRouter Raises $113 Million CapitalG-led Series B as Weekly Volume Explodes to 25T Tokens
+- 主体：OpenRouter、CapitalG、NVentures、ServiceNow Ventures、MongoDB Ventures、Snowflake Ventures、Databricks Ventures、Andreessen Horowitz、Menlo Ventures
+- 金额：1.13亿美元Series B融资
+- 领域：AI模型交换、推理路由、开发者基础设施、企业多模型接入
+- 主来源：Business Wire，https://www.businesswire.com/news/home/20260526953416/en/OpenRouter-Raises-%24113-Million-CapitalG-led-Series-B-as-Weekly-Volume-Explodes-to-25T-Tokens
+- 交叉来源：公司公告/二级科技媒体线索
+- 备注：公司称周处理量达到25万亿tokens，并提供400+模型接入；本月去重清单未出现。
+
+四、企业
+- 标题：SpaceX披露与Google的AI compute云服务协议
+- 主体：Google LLC、Space Exploration Technologies Corp.、NVIDIA GPU供应链
+- 金额：Google同意自2026年10月至2029年6月按月支付9.2亿美元；对应约110000块NVIDIA GPUs及CPU、内存等组件；合计约294亿美元（按32个月粗算）
+- 领域：AI算力租赁、GPU云、模型训练/推理基础设施、neocloud
+- 主来源：SEC Free Writing Prospectus，https://www.sec.gov/Archives/edgar/data/1181412/000162828026041150/spacexagreementfwp.htm
+- 交叉来源：Gulf News/AFP、MarketScreener、Blockspace等二级报道
+- 备注：协议要求SpaceX在2026-09-30前交付承诺GPU容量；2026-12-31后双方可提前90天终止。不同于6月1日、6月4日已写的Alphabet融资结构，本条写的是新增算力采购承诺。
+
+五、富豪资本
+- 标题：SpaceX plans to raise $75B in its IPO
+- 主体：Elon Musk控制的SpaceX、承销商、公开市场投资者
+- 金额：计划发行约5.556亿股，每股135美元，拟融资约750亿美元
+- 领域：IPO、AI基础设施估值、Starlink、航天与算力平台
+- 主来源：Axios，https://www.axios.com/2026/06/03/spacex-ipo-raise
+- 交叉来源：SpaceX IPO相关SEC S-1/FWP文件，https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm
+- 备注：与企业板块的Google算力合同同属SpaceX，但事件和金额不同：企业板块写客户付费，富豪资本板块写创始人控制公司进入公开市场融资。
+
+六、平民消费
+- 标题：“618”告别低价内卷，进入AI驱动和服务效率阶段
+- 主体：天猫、京东、抖音、美团、618消费者、消费品牌
+- 热门品类：AI家电家居、AIPC、AI眼镜、大屏AI手机、智能学习机、运动户外、家享生活、3C数码
+- 代表产品/品牌：华为、小米、美的、珀莱雅、迪桑特、可隆、萨洛蒙、伯希和、Apple、Nike、adidas、Dyson、Samsung
+- 品类金额或增速：天猫披露第一阶段超40000个品牌成交额翻倍，破亿品牌数同比增长40%，破亿且双位数增长直播间同比增长50%；京东首轮数据显示AI家电家居新品成交额环比增长200%，AIPC、AI眼镜、大屏AI手机、智能学习机等消费级AI产品成交额同比增长200%，AI迷你工作站、工业感知设备等B端智能硬件成交同比增长10倍以上。
+- 主来源：中国经济网，https://www.ce.cn/cysc/newmain/yc/jsxw/202606/t20260605_3011538.shtml
+- 交叉来源：新浪财经天猫618第一阶段品牌成交榜，https://finance.sina.com.cn/wm/2026-06-01/doc-inhzxrnh3705876.shtml
+- 备注：区别于6月5日只写AI家居，本期按“AI驱动大促机制+专业户外品牌+服务效率”入选。
+
+七、高薪职位
+- 岗位方向：AI基础设施/AI芯片、AI Agent工程、跨境电商与国际物流负责人、网络与数据安全、美国软件与安全岗位
+- 国内扫描来源：BOSS直聘公开页面及研报样本、职友集跨境电商运营负责人薪资、Robert Half跨境/电商物流负责人薪资页
+- 中国高薪岗位：
+  1. AI芯片/高性能算子/AI基础设施工程师：人民币约40000至80000元/月，部分样本为50-80K·16薪。来源口径：BOSS直聘岗位样本被公开研报引用。
+  2. AI Agent工程师/架构师：人民币约50000至90000元/月，3-5年经验样本可进入50K以上区间。来源口径：BOSS直聘公开样本与职场/开发者内容交叉。
+  3. 跨境电商运营负责人：职友集显示多数公开样本集中在20-50K/月；更高阶跨境/电商物流负责人、货代总经理、海外市场主管在Robert Half薪酬页中为年薪几十万至百万元以上，对应月薪约50K至180K+。
+  4. 数据安全/移动安全/网络安全大模型方向：人民币约40000至90000元/月，仍集中在北京、上海、深圳、杭州等城市。
+- 国际高薪岗位：
+  1. Software Developer：约12342美元/月，沿用BLS May 2025年均工资148100美元折算。
+  2. Information Security Analyst：约11043美元/月，按BLS/OEWS公开年均工资132510美元折算。
+  3. Financial and Investment Analyst：约9733美元/月，按BLS May 2025年均工资116800美元折算。
+  4. Biochemist and Biophysicist：约10820美元/月，按BLS May 2025年均工资129840美元折算。
+- 标准参考来源：
+  - BOSS直聘：https://www.zhipin.com/
+  - 职友集跨境电商运营负责人薪资：https://www.jobui.com/salary/quanguo-kuajingdianshangyunyingfuzeren/
+  - Robert Half跨境/电商物流负责人薪资：https://www.roberthalf.cn/cn/zh/job-details/cross-boarder-e-commerce-logistics-head
+  - BLS OEWS：https://www.bls.gov/oes/
+- 风险提示：BOSS岗位页面的实时搜索结果会随城市、登录状态和发布时间变化；本期采用公开可见岗位样本、薪资聚合页和薪酬指南交叉，不把单条岗位当作行业结论。
