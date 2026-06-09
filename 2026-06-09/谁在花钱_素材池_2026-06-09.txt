@@ -1,0 +1,99 @@
+谁在花钱｜素材池
+日期：2026-06-09
+
+一、候选素材与核验记录
+
+【政府】
+- 标题：三峡水运新通道正式开工
+- 主体：三峡水运新通道工程、三峡枢纽新通道、葛洲坝航运扩能
+- 金额：总投资约772.08亿元人民币
+- 领域：国家重大工程、长江航运、水运基础设施、多式联运、绿色物流
+- 主来源：新华社经人民网/新华财经转发
+  - https://finance.people.com.cn/n1/2026/0608/c1004-40736197.html
+  - https://www.cnfin.com/hg-lb/detail/20260608/4423618_1.html
+- 交叉来源：中国新闻网经济观察
+  - https://www.chinanews.com.cn/cj/2026/06-08/10636633.shtml
+- 备注：本月去重清单未出现“主体+事件+金额”组合。该项目为6月8日开工，属于今天可写的新增大额政府/重大工程资金流向。
+
+【国际政府与开发资金】
+- 标题：World Bank Group支持土耳其城市基础设施现代化
+- 主体：World Bank Group、Türkiye、Antalya、Konya
+- 金额：1.915亿欧元，约2.194亿美元贷款
+- 领域：城市公共交通、供水、卫生、能源效率、城市韧性
+- 主来源：World Bank新闻稿
+  - https://www.worldbank.org/en/news/press-release/2026/06/05/world-bank-group-supports-resilient-municipal-infrastructure-to-modernize-cities-in-turkiye
+- 备注：区别于6月8日已写伊拉克9亿美元交通走廊，今天写的是土耳其城市公共服务和韧性基础设施。
+
+【投资机构】
+- 标题：Supabase完成5亿美元Series F融资，估值105亿美元
+- 主体：Supabase、Stripe、Salesforce Ventures及其他投资人
+- 金额：5亿美元Series F；投后估值105亿美元
+- 领域：开源Postgres、开发者平台、AI应用后端、agentic infrastructure
+- 主来源：PR Newswire / Supabase发布
+  - https://www.prnewswire.com/news-releases/supabase-raises-500m-at-10-5b-to-accelerate-lead-in-agentic-infrastructure-302791787.html
+- 交叉线索：同日附近Ramp完成7.5亿美元融资，说明资金继续进入AI增强的企业运营/开发者基础设施
+  - https://www.prnewswire.com/news-releases/ramp-raises-series-f-at-44-billion-valuation-302791103.html
+- 备注：Supabase本月去重清单未出现。此处按“投资机构的钱买AI应用后端基础设施”写，不再重复6月8日OpenRouter模型入口。
+
+【企业】
+- 标题：IBM计划未来五年向量子计算投入超过100亿美元
+- 主体：IBM
+- 金额：超过100亿美元
+- 领域：量子计算、容错量子计算、研发、制造扩展、生态合作、并购
+- 主来源：IBM / PR Newswire
+  - https://www.prnewswire.com/news-releases/ibm-commits-more-than-10-billion-to-quantum-computing-funding-its-roadmap-from-todays-leading-systems-to-the-worlds-first-fault-tolerant-quantum-computers-302788490.html
+- 备注：区别于6月8日Google向SpaceX租GPU，今天写的是企业长期押注下一代计算栈，不是短期GPU租赁。
+
+【富豪资本】
+- 标题：Robin Khuda创办的AirTrunk将在孟买附近投资约210亿美元建设3GW数据中心
+- 主体：AirTrunk、Robin Khuda、Blackstone、Maharashtra政府
+- 金额：2万亿卢比，约210亿美元；项目容量3GW
+- 领域：AI数据中心、印度数字基础设施、云计算、电力和土地
+- 主来源：Forbes
+  - https://www.forbes.com/sites/yessarrosendar/2026/06/03/billionaire-robin-khudas-airtrunk-to-invest-21-billion-in-data-center-project-near-mumbai/
+- 交叉来源：Moneycontrol / Reuters
+  - https://www.moneycontrol.com/news/business/airtrunk-to-invest-21-billion-in-india-data-centre-13937896.html
+- 备注：此条既是企业投资，也是富豪资本和PE支持的数据中心资产扩张。按富豪资本板块写，突出创始人、Blackstone支持和印度AI基础设施。
+
+【平民消费】
+- 标题：618消费继续流向AI智能硬件、家电家居、户外运动、宠物和功能家居
+- 主体：天猫、京东、618消费者、品牌商家
+- 金额/增速：
+  - 天猫618第一阶段超40000个品牌成交额翻倍，破亿品牌数同比增长40%。
+  - AI智能硬件整体同比增长80%，AI眼镜同比增长9倍；宠物烘焙粮同比增长超200%，变形家具同比增长超50%。
+  - 京东开门红52小时，搭载JoyInside的AI家电家居新品成交额环比增长200%，超2000家电家居品牌成交额同比增长超100%。
+  - 京东政企业务整体成交额同比增长80%，AI采购订单环比提升99%，智能眼镜、智能手表分别同比增长270%、100%。
+- 主来源：
+  - 东方财富/中证报：天猫618开门红数据
+    https://finance.eastmoney.com/a/202606023757518246.html
+  - IT之家：京东618开门红52小时战报
+    https://www.ithome.com/0/958/754.htm
+  - 证券之星：京东618政企超省月
+    https://4g.stockstar.com/detail/IG2026060400008184
+  - 新浪财经/天下网商：2026天猫618第一阶段品牌成交排行榜
+    https://finance.sina.com.cn/wm/2026-06-01/doc-inhzxrnh3705876.shtml
+- 昨日最火消费品牌（国内）：华为、小米、美的、海尔、珀莱雅、老铺黄金
+- 昨日最火消费品牌（国外）：Apple、Nike、adidas、Dyson、Samsung、Salomon
+- 备注：更新点区别于6月8日“AI效率、专业户外和服务确定性”，今天突出“消费级AI硬件、政企采购、宠物/功能家具、品牌榜”。
+
+【高薪职位】
+- 岗位方向：AI Agent研发/AI Coding、芯片系统工程/AI芯片、跨境电商负责人、数据安全/信息安全、数据科学和软件开发
+- 国内扫描来源：
+  - BOSS直聘：芯片SE 50-80K·15薪；上海AI Agent研发工程师、AI Coding算法工程师50-80K·15薪；深圳AI Agent研发工程师50-80K·16薪；跨境电商负责人30-50K等
+    https://www.zhipin.com/zhaopin/2ec1f26872efff331HZ429m6/
+    https://m.zhipin.com/zhaopin/51ee4856976b1d630ndz292-Fw~~/
+    https://www.zhipin.com/zhaopin/d863b052df9029601HZ_2tu_Eg~~/
+    https://www.zhipin.com/zhaopin/ec6c03f448a8926e0nJ72di1/
+  - 职友集：深圳芯片行业薪酬区间6-50K，45.6%岗位拿20-50K/月；深圳芯片工程师本科样本多数15-50K
+    https://www.jobui.com/salary/shenzhen-all/ind-xinpian/
+    https://www.jobui.com/salary/shenzhen-xinpiangongchengshi/
+  - 猎聘/领英职位线索：AI芯片工程师25-50K，猎聘AI解决方案架构师50-80K
+    https://cn.linkedin.com/jobs/view/ai%E8%8A%AF%E7%89%87%E5%B7%A5%E7%A8%8B%E5%B8%88-at-%E5%BE%97%E4%B8%80%E5%BE%AE%E7%94%B5%E5%AD%90%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8-4407298404
+    https://www.liepin.com/zpaijjfajgs/
+- 国际标准参考来源：
+  - BLS OOH Data Scientists：2024 median annual wage 112590美元，2024-2034就业增长34%
+    https://www.bls.gov/ooh/math/data-scientists.htm
+  - BLS OOH Information Security Analysts：2024 median annual wage 124910美元
+    https://www.bls.gov/ooh/computer-and-information-technology/information-security-analysts.htm
+  - BLS OEWS/聚合结果：Software Developers、Financial and Investment Analysts用May 2024 OEWS公开口径折算月薪
+- 备注：国内岗位严格按招聘/薪资平台口径，不用今天新闻直接推断薪资。国际岗位保留美元年薪除以12的月薪口径。
