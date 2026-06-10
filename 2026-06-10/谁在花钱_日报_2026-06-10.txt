@@ -1,0 +1,114 @@
+谁在花钱｜每日花钱新闻日报
+日期：2026-06-10
+
+一、今日要点
+
+今天，全球的大钱主要流向“城市更新、跨洲铁路、AI改造传统软件、AI算力金融化、数据中心REIT、清凉与运动消费、AI基础设施人才”。
+
+本期新增去重条目：
+43) 城市更新专项资金970亿元与地下管网1600亿元；
+44) ADB支持土耳其伊斯坦布尔北部铁路跨越项目7.5亿美元贷款；
+45) Beacon 2.25亿美元Series C；
+46) Broadcom/Apollo/Blackstone AI XPV平台350亿美元；
+47) AirTrunk新加坡REIT IPO超过10亿美元；
+48) 618清凉经济与运动户外品牌增长；
+49) AI Infra、分布式架构、量化研究与国际AI工程薪资样本。
+
+二、分项日报
+
+【政府】
+- 花钱主体：国家发展改革委、财政部、住房城乡建设部等。
+- 金额：城市更新专项资金970亿元；城市地下管网建设改造资金规模1600亿元。
+- 领域：城市更新、老旧小区、危旧房、地下管网、公共服务设施。
+- 事件：新华社报道，2026年中央预算内投资城市更新专项资金安排970亿元，重点支持城镇老旧小区、危旧房改造等城市更新项目，预计惠及约800万户居民。人民日报进一步披露，超长期特别国债支持城市地下管网建设改造，2026年安排资金规模1600亿元，比上一年增加250亿元。
+- 来源：
+  - https://www.xinhuanet.com/20260608/b604ac47cb884bd7bf5941cafe1bb33b/c.html
+  - https://paper.people.com.cn/rmrb/pc/content/202606/09/content_30162035.html
+- 对普通人的提示：城市更新的钱不会只到建筑施工，还会进入管网检测、地下空间改造、老旧小区物业、智能水务燃气、消防安全、电梯更新、社区商业和公共服务运营。
+
+【国际政府与开发资金】
+- 花钱主体：Asian Development Bank、World Bank、土耳其相关交通部门。
+- 金额：ADB贷款6.4583亿欧元，约7.5亿美元；项目总成本约82.7亿美元。
+- 领域：铁路、跨境物流、机场连接、欧洲-亚洲通道。
+- 事件：ADB批准贷款，支持土耳其伊斯坦布尔北部铁路跨越项目。项目计划建设127公里电气化铁路，绕开伊斯坦布尔都市区，连接两座主要机场和国家铁路网，并缓解客货运输瓶颈。World Bank也参与共同融资和项目准备。
+- 来源：
+  - https://www.adb.org/news/adb-approves-750-million-loan-new-railway-line-enhancing-turkiye-transport-and-logistics
+  - https://www.aa.com.tr/en/economy/asian-development-bank-approves-750m-loan-for-new-railway-line-in-turkiye/3961483
+- 对普通人的提示：这类钱会优先流向铁路土建、轨道电气化、信号系统、车站连接、项目融资、跨境物流、工程咨询和供应链管理。
+
+【投资机构】
+- 花钱主体：General Catalyst、HarbourVest、Lightspeed等投资机构。
+- 金额：Beacon完成2.25亿美元Series C，过去一年总融资超过5亿美元。
+- 领域：AI-native operating system、垂直软件、长期控股、AI roll-up。
+- 事件：Beacon宣布完成2.25亿美元Series C，资金用于继续收购关键行业的小型软件和服务企业，并用自研AI操作系统改造工程、运营、后台和销售流程。它不是传统“买完再卖”的PE模式，而是更像长期控股加AI改造。
+- 来源：
+  - https://www.businesswire.com/news/home/20260609855732/en/Beacon-Raises-%24225M-Series-C-to-Bring-AI-to-the-Everyday-Economy
+  - https://www.wsj.com/pro/venture-capital/startup-beacon-software-raises-225-million-to-expand-venture-roll-up-strategy-d456c1bf
+- 对普通人的提示：机会在传统行业SaaS、垂直软件迁移、AI自动化、客户成功、财务运营、销售流程改造和小企业数字化。AI不只替代软件工程，也在改变传统服务业并购后的经营方式。
+
+【企业】
+- 花钱主体：Broadcom、Apollo、Blackstone，首期服务Anthropic等前沿AI实验室。
+- 金额：首期350亿美元；平台目标到2028年支持超过20GW算力容量；首期支持Anthropic超过1GW算力扩张。
+- 领域：AI芯片、XPU、网络、私募信贷、数据中心、AI训练与推理。
+- 事件：Broadcom、Apollo和Blackstone设立AI XPV平台，首期350亿美元由Apollo牵头、Blackstone参与，用于把Broadcom的XPU和网络方案与长期资本打包，支持Anthropic在Fluidstack场地部署超过1GW的算力扩张，并为OpenAI、Anthropic等前沿实验室未来训练和推理容量建立融资框架。
+- 来源：
+  - https://investors.broadcom.com/news-releases/news-release-details/broadcom-apollo-and-blackstone-establish-landmark-strategic
+  - https://www.apollo.com/insights-news/pressreleases/2026/06/apollo-leads-35-billion-capital-solution-for-broadcom-ai-xpv-platform-in-partnership-with-blackstone-and-leading-global-banks-3308896
+- 对普通人的提示：AI的钱正在从单纯买GPU，变成芯片、网络、数据中心、长期租约和信贷结构的组合。机会在AI Infra架构、网络工程、数据中心交付、能源采购、模型推理成本优化和基础设施金融。
+
+【富豪资本】
+- 花钱主体：AirTrunk、Blackstone、CPP Investments、Robin Khuda。
+- 金额：新加坡REIT IPO拟融资超过10亿美元，潜在规模最高约15亿新元/12亿美元；Blackstone和CPP Investments此前以约240亿澳元收购AirTrunk。
+- 领域：数据中心、REIT、AI基础设施、资本退出。
+- 事件：AirTrunk开始接触投资者，筹备新加坡数据中心REIT IPO。公司由澳大利亚富豪Robin Khuda创办，Blackstone和CPP Investments是主要支持方。若上市成功，AI数据中心会从“重资产建设”进一步变成可被公开市场购买的收益型基础设施资产。
+- 来源：
+  - https://www.wsj.com/business/blackstone-backed-data-center-operator-taps-investors-ahead-of-over-1-0-billion-singapore-ipo-0f97d3d1
+  - https://airtrunk.com/blackstone-announces-agreement-to-acquire-airtrunk-in-a-a24b-transaction/
+- 更新点：6月9日已写AirTrunk印度数据中心投资，本期写的是同一资产平台的REIT融资与退出路径，不是同一笔建设投资。
+- 对普通人的提示：数据中心行业的机会不只在建设端，也在资产证券化、REIT运营、投资者关系、能源成本管理、长期租约定价和跨境合规。
+
+【平民消费】
+- 花钱主体：618消费者、平台商家、品牌和参与国补的零售店铺。
+- 热门品类：清凉经济、运动户外、美妆服饰、新品消费、直播电商。
+- 代表产品：空气循环扇、制冰机、手机散热器、运动鞋服、户外装备、美妆爆品。
+- 品类金额/增速：抖音商城618第一阶段中，参与“国补”商家的店铺平均订单量同比增长71%；空气循环扇、制冰机、手机散热器订单量分别同比增长348%、122%、167%。京东开门红4小时，近百个运动户外品牌成交额同比增长翻倍。
+- 昨日最火消费品牌（国内）：安踏、李宁、伯希和、麦瑞克、华为、小米。
+- 昨日最火消费品牌（国外）：FILA、adidas、Nike、Salomon、ASICS、Apple。
+- 来源：
+  - https://www.news.cn/tech/20260522/b779eaaecd3148c7b4e4747f17a063d8/c.html
+  - https://finance.sina.com.cn/tech/roll/2026-06-01/doc-inhzwcky4169648.shtml
+- 事件：618消费继续从“纯低价”转向“季节场景+功能升级”。天气变热推动清凉小家电和手机散热器增长，运动户外品牌仍在吃健康生活方式和专业装备需求。
+- 对普通人的提示：机会在夏季小家电、运动户外、功能型内容种草、门店导购、直播选品、补贴规则运营、售后服务和本地即时零售。
+
+【高薪职位】
+- 岗位方向：中国AI Infra/分布式架构、量化研究；国际AI基础设施工程与AI工程。
+- 国内扫描来源：BOSS直聘必查，并交叉职友集、猎聘。
+- 中国高薪岗位：
+  1. 分布式系统架构师：人民币100000至150000元/月，北京，3-5年，本科，来源为BOSS直聘架构师页。
+  2. 大模型工程架构师：人民币50000至80000元/月，16薪，北京，3-5年，本科，来源为BOSS直聘架构师页。
+  3. 资深AI基础设施架构师：人民币90000至120000元/月，14薪，北京，10年以上，本科，来源为猎聘搜索结果。
+  4. 量化研究员：人民币70000至100000元/月，15薪或24薪，上海，博士或3-5年样本，来源为BOSS直聘量化研究员页。
+- 国内标准参考来源：
+  - BOSS直聘架构师页：https://www.zhipin.com/zhaopin/70b8af23bcb140ca1nZy3dW6/
+  - 职友集架构师薪资页：https://m.jobui.com/company/19117456/salary/j/jiagoushi/
+  - 猎聘AI基础设施架构师页：https://www.liepin.com/job/1961171717.shtml
+  - BOSS直聘量化研究员页：https://www.zhipin.com/zhaopin/274af7bacb16032103N_2Nm8Ew~~/
+- 国际高薪岗位：
+  1. AI Infrastructure Engineer：美国base salary 190000至270000美元/年，加股权和福利，约15833至22500美元/月，来源为LinkedIn/Together AI。
+  2. Google AI Engineer：美国总包183000至583000美元/年，median 280000美元/年，约15250至48583美元/月总包，来源为Levels.fyi。
+  3. ML/AI Software Engineer：美国平均总包约243000美元/年，约20250美元/月，来源为Levels.fyi。
+- 国际参考来源：
+  - https://www.linkedin.com/jobs/view/ai-infrastructure-engineer-at-together-ai-4296359351
+  - https://www.levels.fyi/companies/google/salaries/software-engineer/title/ai-engineer
+  - https://www.levels.fyi/t/software-engineer/focus/ml-ai
+- 门槛：分布式系统、GPU/网络、Kubernetes、RDMA、推理服务、低延迟系统、金融数据、统计建模、C++/Python和生产级工程经验。
+- 为什么现在高薪：今天的大额资金都指向“AI基础设施能不能更便宜、更稳定、更快落地”。企业愿意为能降低算力成本、提升系统吞吐、管理长期租约风险的人付高薪。
+- 普通人如何切入：后端工程师可以转Kubernetes、推理服务和数据平台；运维/网络工程师可以补RDMA、InfiniBand和GPU集群；金融背景的人可以从Python、因子研究和实盘监控切入量化；产品/运营可以转AI基础设施销售、客户成功和数据中心项目运营。
+
+三、今日结论
+
+今天的钱，在买“城市韧性、跨境通道和AI基础设施的金融化”。
+
+政府资金继续进城市更新和地下管网，这是最接近普通生活的硬投资；开发资金支持土耳其铁路，是跨洲供应链重新布线；投资机构投Beacon，是把AI带进传统小企业；Broadcom、Apollo和Blackstone的350亿美元平台，则说明AI算力已经进入芯片、网络、租约、信贷一起设计的新阶段；AirTrunk筹备REIT IPO，说明数据中心正在成为公开市场资产；消费者的钱则继续流向清凉小家电、运动户外和功能升级产品。
+
+普通人的机会不在追概念，而在这些钱落地时必须有人做的环节：管网改造、铁路工程、垂直软件改造、AI集群交付、数据中心资产运营、清凉与运动消费选品，以及AI Infra和量化研究岗位。

@@ -1,0 +1,87 @@
+谁在花钱｜素材池
+日期：2026-06-10
+
+## 政府
+
+- 标题：中央预算和超长期特别国债继续投向城市更新、地下管网与老旧小区改造
+- 主体：国家发展改革委、财政部、住房城乡建设部等
+- 金额：2026年中央预算内投资城市更新专项资金970亿元；超长期特别国债支持城市地下管网建设改造资金规模1600亿元
+- 领域：城市更新、地下管网、老旧小区、危旧房改造、公共服务设施
+- 主来源：https://www.xinhuanet.com/20260608/b604ac47cb884bd7bf5941cafe1bb33b/c.html
+- 交叉来源：https://paper.people.com.cn/rmrb/pc/content/202606/09/content_30162035.html
+- 备注：与6月已写育儿补贴、三峡水运等条目不同，本期按城市更新资金包入选。
+
+## 国际政府与开发资金
+
+- 标题：ADB批准7.5亿美元贷款，支持土耳其伊斯坦布尔北部铁路跨越项目
+- 主体：Asian Development Bank、World Bank、土耳其相关交通部门
+- 金额：ADB贷款6.4583亿欧元，约7.5亿美元；项目总成本约82.7亿美元
+- 领域：铁路、跨境物流、欧洲-亚洲通道、机场连接
+- 主来源：https://www.adb.org/news/adb-approves-750-million-loan-new-railway-line-enhancing-turkiye-transport-and-logistics
+- 交叉来源：https://www.aa.com.tr/en/economy/asian-development-bank-approves-750m-loan-for-new-railway-line-in-turkiye/3961483
+- 备注：127公里电气化铁路，绕开伊斯坦布尔都市区瓶颈，连接两座主要机场与国家铁路网。
+
+## 投资机构
+
+- 标题：Beacon完成2.25亿美元Series C，把AI用于收购和改造传统垂直软件企业
+- 主体：Beacon、General Catalyst、HarbourVest、Lightspeed等
+- 金额：2.25亿美元Series C；过去一年总融资超过5亿美元
+- 领域：AI-native operating system、垂直软件、长期控股、AI roll-up
+- 主来源：https://www.businesswire.com/news/home/20260609855732/en/Beacon-Raises-%24225M-Series-C-to-Bring-AI-to-the-Everyday-Economy
+- 交叉来源：https://www.wsj.com/pro/venture-capital/startup-beacon-software-raises-225-million-to-expand-venture-roll-up-strategy-d456c1bf
+- 备注：投资机构买的不是单个SaaS应用，而是用AI改造一批现金流稳定的小型软件公司的平台能力。
+
+## 企业
+
+- 标题：Broadcom、Apollo、Blackstone成立AI XPV平台，首期350亿美元投向AI算力部署
+- 主体：Broadcom、Apollo、Blackstone、Anthropic、OpenAI等前沿AI实验室
+- 金额：首期350亿美元；平台目标到2028年支持超过20GW算力容量；首期支持Anthropic超过1GW算力扩张
+- 领域：AI芯片、XPU、网络、私募信贷、数据中心、AI训练与推理
+- 主来源：https://investors.broadcom.com/news-releases/news-release-details/broadcom-apollo-and-blackstone-establish-landmark-strategic
+- 交叉来源：https://www.apollo.com/insights-news/pressreleases/2026/06/apollo-leads-35-billion-capital-solution-for-broadcom-ai-xpv-platform-in-partnership-with-blackstone-and-leading-global-banks-3308896
+- 备注：这是AI基础设施从“买GPU”转向“芯片、网络、租约和信贷一起打包”的典型交易。
+
+## 富豪资本
+
+- 标题：AirTrunk在新加坡筹备数据中心REIT IPO，目标融资超过10亿美元
+- 主体：AirTrunk、Blackstone、CPP Investments、Robin Khuda
+- 金额：拟融资超过10亿美元，潜在规模最高约15亿新元/12亿美元；Blackstone和CPP Investments此前以约240亿澳元收购AirTrunk
+- 领域：数据中心、REIT、AI基础设施、资本退出
+- 主来源：https://www.wsj.com/business/blackstone-backed-data-center-operator-taps-investors-ahead-of-over-1-0-billion-singapore-ipo-0f97d3d1
+- 交叉来源：https://airtrunk.com/blackstone-announces-agreement-to-acquire-airtrunk-in-a-a24b-transaction/
+- 备注：更新点：6月9日已写AirTrunk印度数据中心投资，本期写的是同一资产平台的REIT融资与退出路径，不是同一笔建设投资。
+
+## 平民消费
+
+- 热门品类：清凉经济、运动户外、美妆服饰、新品消费、直播电商
+- 代表产品：空气循环扇、制冰机、手机散热器、运动鞋服、户外装备、美妆爆品
+- 品类金额或增速：抖音商城618第一阶段参与“国补”商家店铺平均订单量同比增长71%；空气循环扇、制冰机、手机散热器订单量分别同比增长348%、122%、167%；京东开门红4小时近百个运动户外品牌成交额同比增长翻倍
+- 昨日最火消费品牌（国内）：安踏、李宁、伯希和、麦瑞克、华为、小米
+- 昨日最火消费品牌（国外）：FILA、adidas、Nike、Salomon、ASICS、Apple
+- 主来源：https://www.news.cn/tech/20260522/b779eaaecd3148c7b4e4747f17a063d8/c.html
+- 交叉来源：https://finance.sina.com.cn/tech/roll/2026-06-01/doc-inhzwcky4169648.shtml
+- 备注：区别于6月9日AI硬件/政企AI采购，本期按天气驱动的清凉小家电与运动户外品牌热度入选。
+
+## 高薪职位
+
+- 岗位方向：中国AI Infra/分布式架构、量化研究；国际AI基础设施工程与AI工程
+- 国内扫描来源：BOSS直聘、职友集、猎聘
+- 典型岗位与薪资：
+  - 分布式系统架构师：北京，3-5年，本科，100-150K/月，BOSS直聘
+  - 大模型工程架构师：北京，3-5年，本科，50-80K/月，16薪，BOSS直聘
+  - 资深AI基础设施架构师：北京，10年以上，本科，90-120K/月，14薪，猎聘搜索结果
+  - 量化研究员：上海，博士/3-5年样本，70-100K/月，15薪或24薪，BOSS直聘
+- 国内交叉参考：
+  - BOSS直聘架构师页：https://www.zhipin.com/zhaopin/70b8af23bcb140ca1nZy3dW6/
+  - 职友集架构师薪资页：https://m.jobui.com/company/19117456/salary/j/jiagoushi/
+  - 猎聘AI基础设施架构师页：https://www.liepin.com/job/1961171717.shtml
+  - BOSS直聘量化研究员页：https://www.zhipin.com/zhaopin/274af7bacb16032103N_2Nm8Ew~~/
+- 国际岗位与薪资：
+  - AI Infrastructure Engineer：美国全职base salary 190000-270000美元/年，加股权和福利，约15833-22500美元/月，LinkedIn/Together AI
+  - Google AI Engineer：美国总包183000-583000美元/年，median 280000美元/年，约15250-48583美元/月总包，Levels.fyi
+  - ML/AI Software Engineer：美国平均总包约243000美元/年，约20250美元/月，Levels.fyi
+- 国际来源：
+  - https://www.linkedin.com/jobs/view/ai-infrastructure-engineer-at-together-ai-4296359351
+  - https://www.levels.fyi/companies/google/salaries/software-engineer/title/ai-engineer
+  - https://www.levels.fyi/t/software-engineer/focus/ml-ai
+- 风险提示：国内招聘页可能随岗位下线变动，薪资按当前公开页面样本；国际总包含股票和奖金，不等同现金月薪。
