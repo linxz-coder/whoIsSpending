@@ -1,0 +1,70 @@
+谁在花钱｜素材池
+日期：2026-06-11
+
+【政府】
+- 标题：2026年第二批915亿元超长期特别国债支持设备更新资金已经下达
+- 主体：国家发展改革委会同有关部门
+- 金额：第二批915亿元；今年累计1851亿元，占全年2000亿元的92%；带动总投资超过3800亿元
+- 领域：工业、能源电力、电子信息、交通运输、物流、教育、文旅、医疗、设施农业、粮油加工、住宅老旧电梯、安全生产、消防救援、检验检测、节能降碳环保、回收循环利用等16个领域
+- 主来源：https://www.ndrc.gov.cn/fggz/202604/t20260430_1405007.html
+- 交叉来源：https://www.ndrc.gov.cn/fggz/202605/t20260511_1405142.html
+- 备注：6月继续有“两新”政策和设备更新相关文章发酵；本月去重清单尚未写过该“915亿元设备更新”条目。
+
+【国际政府与开发资金】
+- 标题：AIIB向Acelen Renewables提供5800万美元贷款，支持巴西可持续航空燃料项目
+- 主体：亚洲基础设施投资银行、Acelen Renewables、IFC、IDB等开发金融机构
+- 金额：AIIB贷款5800万美元；项目融资包预计约15亿美元
+- 领域：巴西Bahia大型生物炼厂、SAF可持续航空燃料、HVO可再生柴油、低碳交通燃料
+- 主来源：https://www.aiib.org/en/news-events/news/2026/aiib-lend-acelen-renewables-usd58-million-support-sustainable-aviation-fuel-project-in-brazil.html
+- 备注：HEFA装置计划约2万桶/日处理能力，原料含大豆油、废弃食用油和其他废弃物输入。
+
+【投资机构】
+- 标题：PhysicsX完成3亿美元Series C，估值约24亿美元
+- 主体：Temasek领投；M&G Investments、Intrepid Growth Partners新进；Applied Materials、Atomico、General Catalyst、NVIDIA、Siemens等继续参与
+- 金额：3亿美元Series C；约24亿美元估值
+- 领域：工业AI、工程仿真、航空航天、半导体、汽车、能源、材料、数据中心硬件设计
+- 主来源：https://www.physicsx.ai/newsroom/physicsx-announces-300m-series-c-to-accelerate-physics-ai-for-industrial-engineering
+- 备注：本月去重清单未写过PhysicsX；可作为“AI从聊天应用转向硬件设计和工业仿真”的投资机构条目。
+
+【企业】
+- 标题：Amazon签署175亿美元高级无担保延迟提款定期贷款
+- 主体：Amazon.com, Inc.；Citibank N.A.为administrative agent；多家贷款方
+- 金额：175亿美元；承诺有效期至2026-09-30；SOFR贷款利差0.625%至0.875%；无财务契约
+- 领域：AI基础设施、AWS、数据中心、芯片、企业资本开支
+- 主来源：https://www.sec.gov/Archives/edgar/data/1018724/000110465926072140/tm2613616d4_8k.htm
+- 备注：SEC 8-K写法为general corporate purposes；结合市场报道解读为AI资本开支弹药，但正文应避免把用途说成公司官方唯一用途。
+
+【富豪资本】
+- 标题：SoftBank承诺最高750亿欧元在法国建设5GW AI数据中心容量
+- 主体：孙正义领导的SoftBank Group；法国Choose France峰会；SB Energy等合作方
+- 金额：最高750亿欧元；第一阶段450亿欧元，计划到2031年交付Hauts-de-France地区3.1GW容量
+- 领域：AI数据中心、欧洲算力基础设施、低碳电力、工业园区
+- 主来源：https://group.softbank/en/news/press/20260531_0
+- 备注：第一阶段涉及Dunkirk/Loon-Plage、Bosquel、Bouchain；本月去重清单未写过SoftBank法国AI数据中心。
+
+【平民消费】
+- 标题：国补叠加618，AI硬件、手机数码、家电家居、清凉经济继续吸走消费预算
+- 主体：消费者、天猫、京东、抖音商城等平台
+- 金额/增速：天猫618第一阶段超40000个品牌成交额翻倍；破亿元品牌数同比增长40%；AI智能硬件成交额同比增长80%，AI眼镜成交额同比增长9倍。京东618开启52小时，超2000个家电家居品牌成交额同比增长超一倍；AI眼镜、大屏AI手机、AI电脑成交额同比增长两倍；iPhone成交额1分钟破亿元；华为手机10分钟成交额同比增长超5倍。抖音参与国补商家店铺平均订单量同比增长71%，空气循环扇、制冰机、手机散热器订单量分别同比增长348%、122%、167%。
+- 热门品类：AI眼镜、AIPC/AI电脑、大屏AI手机、家电家居、空气循环扇、制冰机、手机散热器、美妆服饰
+- 代表产品/品牌：中国品牌：华为、小米、vivo、真我、红魔、科沃斯、创维；国际品牌：Apple/iPhone、Nike、adidas、FILA、Dyson、ASICS
+- 主来源：https://www.beijingprice.cn/c/2026-06-09/558794.shtml
+- 交叉来源：https://www.news.cn/tech/20260522/b779eaaecd3148c7b4e4747f17a063d8/c.html
+- 备注：区别于6月10日只写清凉经济和运动户外，今天按“国补+618把AI硬件、手机、家电家居和清凉设备一起推高”入选。
+
+【高薪职位】
+- 岗位方向：AI/大模型工程、分布式系统与AI Infra、云基础设施解决方案、量化研究/量化投资、国际AI工程
+- 国内扫描来源：BOSS直聘、猎聘、职友集/薪资聚合、看准网/薪资聚合；本次可打开BOSS直聘与国际薪资页，猎聘部分触发安全页但搜索摘要显示岗位薪资。
+- 中国高薪岗位：
+  1. 分布式系统架构师：人民币100000至150000元/月，北京朝阳区，3-5年，本科，BOSS直聘样本。
+  2. 大模型工程架构师：人民币50000至80000元/月，16薪，北京朝阳区，3-5年，本科，BOSS直聘样本。
+  3. AI/机器学习架构工程师（模型训推方向）：人民币45000至75000元/月，16薪，北京，1-3年，本科，BOSS直聘样本。
+  4. 公共云解决方案架构师-AI基础设施领域：人民币30000至60000元/月，16薪，北京/杭州样本，BOSS直聘样本。
+  5. 量化研究员/量化投资研究员：猎聘搜索样本显示上海量化研究员80000至100000元/月、18薪，以及部分量化投资研究员/基金经理100000至200000元/月、24薪。
+- 国际高薪岗位：
+  1. AI Engineer：KORE1 2026薪酬指南显示美国AI工程师base salary约145000至310000美元/年，约12083至25833美元/月。
+  2. Senior AI Engineer：KORE1显示6年以上base约220000至300000美元/年，总包约280000至400000美元+，约18333至25000美元/月base。
+  3. Staff/Principal AI Engineer：KORE1显示10年以上base约250000至400000美元+/年，总包约350000至600000美元+，约20833至33333美元/月base。
+- 主来源：https://www.zhipin.com/zhaopin/70b8af23bcb140ca1nZy3dW6/
+- 交叉来源：https://www.kore1.com/ai-engineer-salary-guide/ ; https://www.levels.fyi/t/software-engineer/title/ai-engineer
+- 备注：今天高薪板块可以与“企业和资本都在买AI基础设施、工业AI和算力金融化”对应，但中国岗位必须继续按招聘平台薪资口径写。
