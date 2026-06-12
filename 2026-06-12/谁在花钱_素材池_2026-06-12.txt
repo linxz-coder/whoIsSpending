@@ -1,0 +1,71 @@
+谁在花钱｜素材池
+日期：2026-06-12
+
+1. 政府 / 区域协作 / 产业转移
+- 标题：我国将优化完善东西部协作，实现结对帮扶全覆盖；过渡期引导企业到西部地区投资7500多亿元
+- 主体：农业农村部、东西部协作省份、东部企业、西部协作地区
+- 金额：过渡期引导企业到西部地区投资7500多亿元；共建产业园区近800个；东部协作省份采购、帮助销售西部地区农产品近5700亿元；帮助西部地区500余万农村劳动力就业
+- 领域：乡村振兴、产业转移、农产品消费、区域协调
+- 主来源：新华网，2026-06-11，https://www.news.cn/20260611/7f44b1068d6840598a91dd2625cbd3a2/c.html
+- 交叉来源：人民网-人民日报，2026-06-12，https://cpc.people.com.cn/n1/2026/0612/c64387-40738913.html
+- 备注：不是单个新增项目，而是国新办发布会披露的阶段性资金流向；6月12日人民日报刊发，适合做政府侧“钱往西部产业链走”的主线。
+
+2. 国际政府与开发资金 / ADB
+- 标题：ADB批准5亿美元等值政策性贷款，支持哈萨克斯坦财政与金融部门改革
+- 主体：Asian Development Bank、Kazakhstan
+- 金额：500 million USD equivalent policy-based loan
+- 领域：财政可持续性、金融部门韧性、银行监管、资本市场
+- 主来源：ADB，2026-06-11，https://www.adb.org/news/adb-loan-support-kazakhstan-fiscal-and-financial-sector-reforms
+- 备注：与6月10日土耳其铁路7.5亿美元贷款、6月11日AIIB巴西SAF 5800万美元贷款不重复，主体、国家、用途均不同。
+
+3. 投资机构 / AI基础设施
+- 标题：KKR、Kuwait Investment Authority、NVIDIA、Vistra共同推出Helix Digital Infrastructure
+- 主体：KKR、Kuwait Investment Authority、NVIDIA、Vistra、Helix Digital Infrastructure
+- 金额：over $10 billion of committed capital
+- 领域：AI数据中心、电力、连接网络、hyperscaler基础设施
+- 主来源：KKR / Business Wire，2026-06-11，https://www.businesswire.com/news/home/20260610500794/en/KKR-Launches-Helix-Digital-Infrastructure-a-New-Company-to-Finance-and-Deliver-the-Next-Generation-of-AI-Infrastructure
+- 交叉来源：KKR短链页面，https://go.kkr.com/4fFpVdR
+- 备注：与6月10日Broadcom/Apollo/Blackstone 350亿美元AI XPV平台不同；今日是KKR牵头、KIA/NVIDIA/Vistra参与、Adam Selipsky管理的独立基础设施平台。
+
+4. 企业 / 云和AI资本开支
+- 标题：Oracle披露FY2026云基础设施强劲增长，并在财报电话会中给出FY2027约700亿美元资本开支口径
+- 主体：Oracle
+- 金额：FY2026 capital spending约557亿美元（公开报道口径为55.7 billion USD）；FY2027 expected net cash outlay for capital expenditures around 70 billion USD；RPO 638 billion USD
+- 领域：云基础设施、AI数据中心、企业软件、OpenAI等大客户算力需求
+- 主来源：Oracle Investor Relations，2026-06-10，https://investor.oracle.com/investor-news/news-details/2026/Oracle-Announces-Record-Q4-and-FY-2026-Results-Driven-by-Cloud-Infrastructure--Cloud-Applications/default.aspx
+- 交叉来源：Oracle Q4 FY2026 earnings call transcript / Fortune，2026-06-11，https://fortune.com/company/oracle/earnings/q4-2026/
+- 备注：Oracle官方稿确认RPO 6380亿美元、FY2026自由现金流为负237亿美元；70 billion capex来自财报电话会公开转录与财经媒体交叉口径。这里写企业把AI需求转成资产负债表支出。
+
+5. 富豪资本 / IPO / 太空与AI资产
+- 标题：SpaceX IPO定价并筹资750亿美元，估值约1.75万亿至1.77万亿美元
+- 主体：SpaceX、Elon Musk、IPO投资者
+- 金额：raised $75 billion；约555.56 million shares at $135；valuation about $1.75-$1.77 trillion；Musk retains a very large stake
+- 领域：商业航天、Starlink、AI算力、公开市场融资
+- 主来源：Axios，2026-06-11，https://www.axios.com/2026/06/11/spacex-ipo-prices-75-billion
+- 交叉来源：Business Insider live updates，2026-06-12，https://www.businessinsider.com/spacex-ipo-live-updates-pricing-spcx-stock-2026-6
+- 备注：6月8日曾写“计划通过IPO拟融资约750亿美元”，今日按IPO定价/筹资落地作为更新，需正文明确“更新点”。
+
+6. 平民消费 / 儿童与亲子消费
+- 标题：儿童消费市场扩容，亲子服务、智能玩具、国潮童装和儿童文创在618与六一后继续升温
+- 主体：亲子家庭、京东、快手电商、淘宝天猫、美团、抖音生活服务、同程旅行、Babycare等
+- 金额/增速：2025年亲子消费市场规模预计突破5.5万亿元；快手618早教益智GMV同比增长3倍、儿童营养健康4倍、儿童文创9倍；淘宝天猫六一前一周相关商品成交同比增长超50%，儿童餐具和画板类商品同比均超260%；美团“亲子”相关搜索热度较节前一周增长98%；儿童剧交易额同比上涨893%；亲子DIY交易额同比增长超10倍；2025年玩具国内市场零售总额1035.3亿元、潮流与收藏玩具676.9亿元
+- 主来源：人民网-人民日报，2026-06-10，https://finance.people.com.cn/n1/2026/0610/c1004-40737094.html
+- 备注：与6月11日“国补+AI硬件+手机数码+清凉设备”不同，今日按“儿童/亲子/体验服务/AI玩具”入选。
+
+7. 高薪职位 / AI Infra、分布式系统、量化、AI工程
+- 国内扫描来源：BOSS直聘、猎聘
+- 中国岗位：
+  - 分布式系统架构师：BOSS直聘，北京朝阳，3-5年，本科，100-150K/月
+  - AI Infra架构师：BOSS直聘，深圳南山，5-10年，硕士，40-70K/月、15薪
+  - AI基础设施/IDC架构师：BOSS直聘样本，25-50K/月、14薪或25-35K/月
+  - 量化研究员：猎聘，北京/上海样本，60-83K/月、15薪；部分策略研究员80-100K/月、30薪
+- 国际岗位：
+  - ML / AI Software Engineer：Levels.fyi美国平均总包约243,000 USD/year
+  - AI Engineer：KORE1 2026指南显示美国base salary约145,000-310,000 USD/year，高级ML工程师总包可到400,000 USD+
+- 来源：
+  - BOSS直聘分布式系统架构师：https://www.zhipin.com/zhaopin/70b8af23bcb140ca1nZy3dW6/
+  - BOSS直聘AI Infra架构师：https://www.zhipin.com/zhaopin/5704e1da30c6a3e21XJ-3Nq9/
+  - 猎聘量化研究员：https://www.liepin.com/zplianghuayanjiuyuan03/
+  - Levels.fyi ML/AI：https://www.levels.fyi/t/software-engineer/focus/ml-ai
+  - KORE1 AI Engineer Salary Guide：https://www.kore1.com/ai-engineer-salary-guide/
+- 备注：与6月11日高薪扫描部分延续，但本期要把“AI Infra数据中心资本开支 + 工业AI + 儿童AI产品”串起来，强调GPU集群、MLOps、分布式系统、AI产品工程和量化工程仍是高薪岗位。
