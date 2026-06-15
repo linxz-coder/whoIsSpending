@@ -1,0 +1,84 @@
+谁在花钱｜素材池
+日期：2026-06-15
+
+1. 政府 / 货币流动性 / 跨季资金
+- 标题：中国人民银行6月15日开展6000亿元6个月期买断式逆回购操作
+- 主体：中国人民银行、银行体系、债券和股票市场资金面
+- 金额：6000亿元，期限6个月（183天），到期日2026年12月15日；6月份同期限买断式逆回购到期规模同为6000亿元，因此本次是等量续做
+- 领域：货币政策、银行体系流动性、跨季资金、债市和股市预期
+- 主来源：36氪快讯，2026-06-12，https://www.36kr.com/newsflashes/3849961976452099
+- 交叉来源：新浪财经转经济日报，2026-06-13，https://finance.sina.com.cn/jjxw/2026-06-13/doc-inicfret2944571.shtml
+- 备注：与6月11日写的915亿元设备更新、6月12日写的东西部协作投资不同，今日政府侧改写“钱的价格和期限”，不是项目拨款。可结合国家发展改革委6月15日发布的重点行业节能降碳改造攻坚三年行动，说明流动性和产业改造会共同影响融资需求。
+
+2. 国际政府与开发资金 / 农产品供应链 / 可持续贸易
+- 标题：ADB与ETG签署5000万美元可持续挂钩贷款，支持印度和越南咖啡、腰果供应链
+- 主体：Asian Development Bank、Export Trading Group / ETC Group、印度和越南小农户
+- 金额：5000万美元贷款；另有85万美元技术援助；目标覆盖约5700名农户，特别关注女性农户
+- 领域：咖啡、腰果、农业供应链、可持续采购、出口贸易、再生农林业
+- 主来源：ADB新闻稿，https://www.adb.org/news/adb-etg-sign-sustainability-linked-loan-support-coffee-cashew-farmers-india-and-viet-nam
+- 交叉来源：TFO Canada转载摘要，2026-06-10，https://tfocanada.ca/adb-etg-sign-sustainability-linked-loan-to-support-coffee-cashew-farmers-in-india-and-viet-nam/
+- 备注：与6月10日ADB土耳其铁路7.5亿美元、6月12日ADB哈萨克斯坦5亿美元政策贷款不重复。今日侧重“开发金融进入农产品供应链和女性小农户”。
+
+3. 投资机构 / VC基金 / 实体经济AI
+- 标题：Base10 Partners完成8.5亿美元新资本募集，投向Real Economy AI
+- 主体：Base10 Partners、LP投资者、Seed至Series B创业公司
+- 金额：2025年完成8.5亿美元新资本募集；资产管理规模达到26亿美元；资金已开始部署
+- 领域：实体经济AI、自动化、物流、金融服务、建筑、医疗、餐饮、制造智能
+- 主来源：PR Newswire / Base10 Partners，2026-06-11，https://www.prnewswire.com/news-releases/base10-partners-hits-2-6b-aum-closes-850m-to-back-the-next-wave-of-real-economy-ai-302797885.html
+- 交叉来源：Crunchbase News，2026-06-11，https://news.crunchbase.com/venture/base10-partners-invests-real-economy-automation-ajao/
+- 备注：与6月12日KKR/Helix 100亿美元AI基础设施平台不同，今日是早期/成长期VC押注“AI进入传统行业工作流”。
+
+4. 企业 / AI服务器 / 融资买零部件
+- 标题：Supermicro为AI订单定价股权和可转优先股融资，潜在总融资70亿美元
+- 主体：Super Micro Computer, Inc.、J.P. Morgan、Goldman Sachs、Citigroup、AI服务器客户
+- 金额：潜在股权融资总额70亿美元；普通股发行约12.2亿美元净额；存托股发行约36.8亿美元净额；ATM计划最高12.5亿美元；近期收到约390亿美元高级AI服务器订单
+- 领域：AI服务器、数据中心Building Block Solutions、GPU服务器供应链、零部件采购
+- 主来源：Business Wire / Supermicro，2026-06-11，https://www.businesswire.com/news/home/20260611831736/en/Supermicro-Announces-Pricing-of-Equity-and-Equity-Linked-Financing-Transactions-To-Fund-AI-Orders
+- 交叉来源：同页披露SEC注册文件、承销商和用途说明
+- 备注：与6月12日Oracle资本开支不同，今日是硬件供应商为已经收到的AI服务器订单筹钱买组件，显示AI订单转化为营运资本压力。
+
+5. 富豪资本 / 工业AI / 超大融资
+- 标题：Jeff Bezos和Vik Bajaj共同创办的Prometheus完成120亿美元Series B，估值410亿美元
+- 主体：Prometheus、Jeff Bezos、JPMorgan Chase、Goldman Sachs、BlackRock、DST Global、Arch Venture Partners
+- 金额：120亿美元Series B；估值410亿美元；此前启动时已融资62亿美元，累计融资超过180亿美元
+- 领域：工业AI、artificial general engineer、复杂实体产品设计、制造工程、航空航天、医疗设备、药物和硬件设计
+- 主来源：TechCrunch，2026-06-11，https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/
+- 交叉来源：Axios，2026-06-11，https://www.axios.com/2026/06/11/prometheus-bezos-industrial-ai
+- 备注：与SpaceX IPO不同，今日是富豪本人和华尔街大机构把钱投向“物理世界工程AI”，不是纯聊天机器人。
+
+6. 平民消费 / 618第二波 / AI硬件、酒水、即时零售和跨境消费
+- 热门品类：AI智能硬件、AI眼镜、AIPC、大屏AI手机、AI家电、酒水、即时零售、海外618的电子产品和家居美妆母婴
+- 代表产品：AI眼镜、AIPC、AI智能洗衣机、AI互联冰箱、AI智能巡航油烟机、茅台/五粮液/剑南春等高端白酒、电视机、音响设备、Apple/Nintendo/Pampers等跨境大促商品
+- 品类金额或增速：天猫618第一阶段超40000个品牌成交额翻倍，破亿品牌数同比增长40%；AI智能硬件成交额同比增长80%，AI眼镜同比增长9倍；京东618新商家数量同比增长超62%，首次参加京东618的51个新商家成交额破千万、1516个新商家成交额破百万；天猫酒水133个品牌翻倍增长，189个品牌增长超50%；京东酒品类开门红1小时157个品牌成交额翻倍；抖音商城第一阶段成交额破亿元的美妆品牌数同比增长75%、服饰品牌数同比增长100%
+- 昨日最火消费品牌（国内）：追觅、Ulike、华为、小米、茅台、五粮液、泡泡玛特
+- 昨日最火消费品牌（国外）：Apple、Nintendo、Pampers、LEGO、Nike、adidas、Crocs
+- 价格带变化：6月15日20点进入618第二波冲刺，国补、平台满减、分期免息和大额券叠加，高客单价数码家电、AI硬件和酒水承担冲量任务
+- 主来源：腾讯新闻转极目新闻，2026-06-02，https://news.qq.com/rain/a/20260602A05J7B00
+- 交叉来源：每日经济新闻/证券时报，2026-06-11，https://www.stcn.com/article/detail/3954852.html；搜狐转劳动报，2026-06-03，https://www.sohu.com/a/1031545898_122014422；欧时大参，2026-06-12，https://www.oushinet.com/static/content/wechat/europeantimes/2026-06-12/1514925384742500436.html
+- 备注：与6月12日亲子消费不同，今日按618第二波冲刺、AI硬件、酒水线上化、即时零售和海外618入选。
+
+7. 高薪职位 / AI Infra、分布式系统、量化、硬件和数据中心
+- 岗位方向：AI基础设施、分布式系统、分布式存储、量化研究、AI工程、机器学习工程、数据中心供应链/服务器工程
+- 国内扫描来源：BOSS直聘、猎聘、职友集、Morgan McKinley中国薪酬指南
+- 中国岗位：
+  - 大模型infra架构师：BOSS直聘，北京朝阳，1-3年本科，70-100K/月、14薪
+  - 分布式系统架构师：BOSS直聘样本，30-40K/月至100-150K/月，北京/嘉兴等地，3-5年本科
+  - 分布式表格系统架构师--ByteTable/HBase：BOSS直聘样本，45-75K/月、15薪，杭州/北京，5-10年本科
+  - AI Infra架构师：BOSS直聘样本，40-70K/月、15薪，深圳南山，5-10年硕士
+  - 高级分布式存储系统研发工程师：BOSS直聘样本，40-70K/月、13薪，深圳，5-10年本科
+  - 资深量化策略研究员：猎聘样本，80-100K/月、30薪，上海，3-10年本科；量化研究员全国样本73.1%岗位在10-50K/月
+  - Morgan McKinley中国大陆量化研究员平均年收入约650000元，含奖金
+- 国际岗位：
+  - AI Engineer：Levels.fyi美国中位数约151000美元/年，更新时间2026-06-13
+  - ML / AI Software Engineer：Levels.fyi美国平均总包约243333美元/年，更新时间2026-06-14
+  - Machine Learning Engineer：Levels.fyi美国平均总包约270000美元/年
+- 标准参考来源：
+  - BOSS直聘大模型infra/分布式岗位：https://www.zhipin.com/zhaopin/70b8af23bcb140ca1nZy3dW6/
+  - BOSS直聘分布式系统架构师：https://www.zhipin.com/zhaopin/a05ff2bef1ce7eca0nd-3du-/
+  - 猎聘量化策略研究员：https://www.liepin.com/zplianghuacelueyanjiuyuan03/
+  - 职友集量化研究员：https://m.jobui.com/salary/quanguo-lianghuayanjiuyuan/
+  - Morgan McKinley量化研究员薪酬：https://www.morganmckinley.com.cn/zh-hans/salary-guide/data/%E9%87%8F%E5%8C%96%E7%A0%94%E7%A9%B6%E5%91%98/%E4%B8%8A%E6%B5%B7
+  - Levels.fyi AI Engineer：https://www.levels.fyi/t/software-engineer/title/ai-engineer
+  - Levels.fyi ML/AI：https://www.levels.fyi/t/software-engineer/focus/ml-ai
+- 对普通人的切入要求：云原生、Kubernetes、GPU集群、RDMA/InfiniBand、分布式存储、低延迟系统、统计学习、量化策略、服务器供应链、数据中心交付、AI产品工程
+- 风险提示：岗位样本来自公开招聘和薪资平台，薪资受城市、年限、公司级别、奖金和股权影响，不能直接等同于稳定到手收入。
