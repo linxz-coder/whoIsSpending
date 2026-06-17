@@ -226,3 +226,46 @@
 
 70) 高薪职位扫描更新：BOSS直聘、猎聘、职友集、Morgan McKinley和Levels.fyi样本显示中国大模型infra架构师、分布式系统/存储架构师、AI Infra架构师、量化研究员，以及美国AI Engineer、ML/AI Software Engineer和Machine Learning Engineer维持高薪区间
 - 已出现日期：2026-06-15
+
+71) 财政部在香港发行2026年第三期150亿元人民币国债，认购倍数3.86倍，覆盖2年期、3年期、5年期和10年期离岸人民币资产
+- 已出现日期：2026-06-16
+
+72) World Bank Group和African Development Bank Group宣布Mission 300已让40个国家超过5000万人获得电力服务，长期目标为2030年覆盖3亿人
+- 已出现日期：2026-06-16
+
+73) Pegasus Tech Ventures与CYBERDYNE设立100亿日元企业创投基金，约6000万美元，投向Physical AI、机器人、医疗健康、自动化和智能系统
+- 已出现日期：2026-06-16
+
+74) Nvidia与Coherent推进约20亿美元AI基础设施合作，并叠加5000万美元政府支持，用于Texas Sherman工厂光互连材料和AI工厂供应链扩建
+- 已出现日期：2026-06-16
+
+75) SpaceX宣布以600亿美元全股票交易收购AI代码工具Cursor / Anysphere，预计2026年第三季度完成
+- 已出现日期：2026-06-16
+
+76) 国家统计局发布1至5月社会消费品零售总额206031亿元、5月单月41090亿元和网上商品及服务零售额83177亿元等消费结构数据
+- 已出现日期：2026-06-16
+
+77) 高薪职位扫描更新：BOSS直聘、职友集、Levels.fyi和Glassdoor样本显示中国AI Infra开发/专家/架构师、腾讯AI Infra训练与推理优化、Agent算法应用架构师，以及美国AI Engineer、Machine Learning Engineer和AI Infrastructure Engineer维持高薪区间
+- 已出现日期：2026-06-16
+
+78) 中国人民银行开展4203亿元7天期逆回购操作，全额满足一级交易商需求，稳定银行体系短端流动性
+- 已出现日期：2026-06-17
+
+79) World Bank Group在6月全球经济展望中表示现有工具可立即提供约600亿美元支持，并可在15个月内扩展至最高1000亿美元以缓冲冲击
+- 已出现日期：2026-06-17
+
+80) Ent完成1亿美元seed financing，由Decibel领投，Sequoia、Crosspoint、Craft、Shield、Felicis和In-Q-Tel等参与，押注intent-aware Workspace Security
+- 已出现日期：2026-06-17
+
+81) Hydra Host完成1亿美元Series A融资，由Kindred Ventures领投，NVIDIA、ARK Invest、Founders Fund和Comcast Ventures等参与，用于扩张GPU-as-a-Service和AI factory operating system
+- 已出现日期：2026-06-17
+
+82) Ratmir Timashev通过OH.io投入超过1亿美元，计划五年引入100家B2B软件和AI公司到Columbus并形成约2000个科技岗位
+- 已出现日期：2026-06-17
+
+83) 2026年618冲刺期消费更新：京东AI家电家居新品成交额环比增长200%，AI眼镜/AIPC/大屏AI手机/AI学习机等3C数码AI趋势品类成交额同比增长200%，天猫AI智能硬件同比增长80%、AI眼镜同比增长9倍
+- 已出现日期：2026-06-17
+- 更新点：区别于2026-06-15按618第二波、酒水、即时零售和海外618入选，今日按AI硬件具体品类和线下/跨境冲刺结构入选
+
+84) 高薪职位扫描更新：BOSS直聘、职友集、Levels.fyi和Glassdoor样本显示中国AI Infra、AI Agent、AI安全/数据安全大模型技术专家、高性能计算研发，以及美国AI Engineer、Machine Learning Engineer和AI Infrastructure Engineer维持高薪区间
+- 已出现日期：2026-06-17

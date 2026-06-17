@@ -1,0 +1,61 @@
+谁在花钱｜素材池
+日期：2026-06-17
+
+一、已入选线索
+
+1. 央行开展4203亿元7天期逆回购
+- 主体：中国人民银行、一级交易商、银行体系。
+- 金额：4203亿元人民币，7天期逆回购，全额满足一级交易商需求。
+- 事件：6月17日，央行以固定利率、数量招标方式开展短端流动性操作。
+- 来源：https://www.chinanews.com.cn/cj/2026/06-17/10641954.shtml
+
+2. 世界银行准备在冲击期提供最高1000亿美元支持
+- 主体：World Bank Group、受中东冲突和能源/粮食价格冲击影响的发展中经济体。
+- 金额：现有工具可立即提供约600亿美元，并可在15个月内扩展至最高1000亿美元。
+- 事件：世界银行在6月全球经济展望中提示全球增长放缓，并准备通过融资、担保和私营部门方案提供流动性支持。
+- 来源：https://www.worldbank.org/en/news/press-release/2026/06/11/global-economic-prospects-june-2026-press-release
+
+3. Ent完成1亿美元seed融资
+- 主体：Ent、Decibel、Sequoia、Crosspoint Capital Partners、Craft Ventures、Shield Capital、Felicis、In-Q-Tel。
+- 金额：1亿美元seed financing。
+- 事件：Ent从stealth状态公开，定位intent-aware Workspace Security，主打在人和AI agent发生高风险操作时实时干预。
+- 来源：https://www.businesswire.com/news/home/20260616680280/en/Ent-Emerges-from-Stealth-to-Bring-Prevention-Back-to-Cybersecurity
+
+4. Hydra Host完成1亿美元Series A，扩张AI factory容量
+- 主体：Hydra Host、Kindred Ventures、NVIDIA、ARK Invest、Founders Fund、Comcast Ventures等。
+- 金额：1亿美元Series A。
+- 事件：资金用于扩张GPU-as-a-Service和AI factory运营系统，Hydra称其网络覆盖50多个数据中心，服务AI builders、frontier labs和inference platforms。
+- 来源：https://hydrahost.com/blog/news/hydra-host-raises-100m-series-a/
+
+5. TDK Ventures投资Aston Power，押注AI数据中心私有电力网络
+- 主体：TDK Ventures、Aston Power。
+- 金额：未披露；Aston Power披露开发管线代表2GW电力，初始园区在Arizona、Texas和New Mexico。
+- 事件：Aston Power希望把传统5至10年的grid interconnection周期压缩到2至3年，为AI/HPC租户提供可保证服务水平的私有电力网络。
+- 来源：https://www.businesswire.com/news/home/20260616926487/en/TDK-Ventures-Announces-Strategic-Investment-in-Aston-Power-to-Accelerate-Reliable-Power-for-AI-Data-Centers
+
+6. Ratmir Timashev用1亿美元押注Columbus AI商业化引擎
+- 主体：Ratmir Timashev、OH.io、B2B software/AI startups、Columbus。
+- 金额：超过1亿美元，目标五年引入100家B2B软件和AI公司、约2000个科技岗位。
+- 事件：OH.io以Revenue-as-a-Service方式为初创公司在Columbus搭建销售和GTM团队，创业公司不出让股权，而是按收入分成。
+- 来源：https://www.ohiotechnews.com/the-100-million-bet-that-columbus-can-become-americas-startup-capital/
+
+7. 618消费继续向AI硬件、线下门店和跨境增长倾斜
+- 主体：京东、天猫、抖音、国内外消费者。
+- 金额/增速：京东AI家电家居新品成交额环比增长200%，AI眼镜/AIPC/大屏AI手机/AI学习机等3C数码AI趋势品类成交额同比增长200%；天猫AI智能硬件同比增长80%，AI眼镜同比增长9倍。
+- 事件：618进入最后冲刺，AI硬件、线下门店、医美、酒水、跨境和即时零售继续成为结构性增量。
+- 来源：
+  - https://www.tmtpost.com/8027890.html
+  - https://www.cinn.cn/yc/2026/06-09/71eBVQgr.html
+  - https://www.cls.cn/detail/2388700
+
+8. 高薪岗位扫描
+- 国内：BOSS直聘样本显示，深圳AI Infra开发/专家/架构师60K至90K、16薪；腾讯AI Infra大模型训练与推理优化50K至80K、15薪；AI Agent/应用架构师40K至70K、15薪。职友集深信服AI infra专家/架构师50K至80K。
+- 国际：Levels.fyi显示AI Engineer中位数151000美元/年，Machine Learning Engineer中位数270000美元/年；Glassdoor AI Infrastructure Engineer美国平均约169738美元/年。
+- 来源：
+  - https://www.zhipin.com/zhaopin/4c10a9367efd2f551H163d66EA~~/
+  - https://www.zhipin.com/zhaopin/1dc83b82a9a0d0b81nx52d6-GA~~/
+  - https://www.zhipin.com/zhaopin/251b08a1d9713fa41HZ43du6FQ~~/
+  - https://m.jobui.com/company/13531000/salary/
+  - https://www.levels.fyi/t/software-engineer/title/ai-engineer
+  - https://www.levels.fyi/t/software-engineer/title/machine-learning-engineer
+  - https://www.glassdoor.com/Salaries/kuala-lumpur-ai-infrastructure-engineer-salary-SRCH_IL.0%2C12_KO13%2C39.htm
