@@ -1,0 +1,68 @@
+谁在花钱｜素材池
+日期：2026-06-18
+
+一、已入选线索
+
+1. 央行开展2480亿元7天期逆回购，并优化临时隔夜正、逆回购工具
+- 主体：中国人民银行、公开市场业务一级交易商、银行体系。
+- 金额：2480亿元7天期逆回购，操作利率1.40%；当日1885亿元到期，净投放595亿元。
+- 事件：6月18日央行以固定利率、数量招标方式开展7天期逆回购；6月17日央行同步优化临时隔夜正、逆回购操作机制，操作时间调整为工作日15:00-15:30，利率走廊调整为7天逆回购利率上下25bp。
+- 来源：
+  - https://www.stcn.com/article/detail/3967911.html
+  - https://www.chinanews.com.cn/cj/2026/06-17/10642108.shtml
+  - https://finance.sina.com.cn/jjxw/2026-06-17/doc-inictaet3810232.shtml
+
+2. EIB Group获欧盟财长背书，维持2026年约1000亿欧元融资节奏
+- 主体：European Investment Bank Group、EU Finance Ministers、European Investment Fund、欧盟成员国、乌克兰和Global Gateway伙伴国。
+- 金额：2026年计划维持约1000亿欧元总体融资；安全与防务融资目标达到年度EU业务的5%；ETCI扩容目标为动员150亿欧元；2025年TechEU项目承诺超过220亿欧元。
+- 事件：EIB Group董事会/欧盟财长背书其更高风险偏好和战略方向，重点投向能源自主、技术领导力、安全防务、TechEU、乌克兰和Global Gateway。
+- 来源：https://www.eib.org/en/press/all/2026-204-eu-finance-ministers-back-eib-group-strategy-for-a-stronger-more-secure-europe-in-a-more-stable-world
+
+3. Twenty完成1亿美元Series B，估值10亿美元，资本转向进攻型网络安全
+- 主体：Twenty、Accel、Friends & Family Capital、Point72 Ventures、Caffeinated Capital。
+- 金额：1亿美元Series B；估值10亿美元；累计融资1.38亿美元。
+- 事件：Twenty宣布B轮融资，用于强化R&D和产品路线图。公司强调面向网络攻防能力，背后是美国军方、情报和关键基础设施安全需求上升。
+- 来源：https://www.axios.com/2026/06/17/twenty-cybersecurity-hacks-accel-venture
+
+4. Sharon AI完成16亿美元战略融资，扩大澳大利亚和亚太AI工厂
+- 主体：SharonAI Holdings、Situational Awareness、Oaktree Capital Management、NVIDIA、机构和战略投资者。
+- 金额：16亿美元私募融资，包括约9亿美元普通股/预融资权证和7亿美元4.75%可转债。
+- 事件：资金用于支持其与NVIDIA的六年战略算力合作，计划部署最多4万块Grace Blackwell GB300 GPU。公司称总AI Factory容量扩至132MW，其中102MW已签约给终端客户，预计到2027年中部署超过5.5万块NVIDIA GPU。
+- 来源：https://www.businesswire.com/news/home/20260617057283/en/Sharon-AI-Announces-Oversubscribed-US%241.6-Billion-Strategic-Financing-to-Accelerate-Expansion-of-AI-Factories-Across-Australia-and-the-Asia-Pacific
+
+5. 2026新财富500创富榜发布，AI、芯片、新能源汽车供应链继续造富
+- 主体：张一鸣、张波家族、陈涛家族、AI/芯片/新能源车产业链企业家、资本市场。
+- 金额：张一鸣以5439亿元继续位列榜首；百亿级企业家464位，比去年增加123位；中国宏桥张波家族持股市值约1888亿元；胜宏科技陈涛家族持股市值从106亿元升至652亿元。
+- 事件：6月17日新财富500创富榜发布，财富增长继续从平台经济扩散到AI算力、芯片、光模块、PCB、新能源汽车等供应链节点。
+- 来源：
+  - https://www.stcn.com/article/detail/3966098.html
+  - https://www.21jingji.com/article/20260617/herald/5debd6210501d1984db29f451e1d906c.html
+
+6. 618消费继续向AI硬件、极简玩法和跨境出海集中
+- 主体：京东、天猫、抖音、国内外消费者、AI硬件品牌、跨境商家。
+- 金额/增速：京东首轮数据显示，AIPC、AI眼镜、大屏AI手机、智能学习机等消费级AI产品成交额同比增幅200%，AI迷你工作站、工业感知设备等B端智能硬件成交同比增长10倍以上；天猫AI智能硬件整体销售额同比上涨80%，AI眼镜成交同比增长9倍；京东618新商家数量同比增长超过62%，开门红4小时51个新商家成交额破千万元。
+- 事件：2026年618继续从“算优惠”转向“AI导购、AI终端、官方直降、跨境出海和即时履约”，消费品类重点集中在AI硬件、3C数码、智能家居、运动户外、美妆、酒水和跨境电子/家居/母婴。
+- 来源：
+  - https://www.cinn.cn/yc/2026/06-09/71eBVQgr.html
+  - https://www.stcn.com/article/detail/3940279.html
+  - https://www.cls.cn/detail/2388700
+  - https://news.qq.com/rain/a/20260602A09MID00
+
+7. 高薪岗位扫描
+- 国内：BOSS直聘、职友集、猎聘、智联招聘、看准网样本显示，AI Infra、GPU/HPC运维、网络安全、数据中心电力、AI产品/GTM和量化研究仍维持高薪区间。
+- 国际：Levels.fyi、Glassdoor样本显示，AI Engineer、Machine Learning Engineer、AI Infrastructure Engineer和Cybersecurity Engineer仍处在美元高薪区间。
+- 典型岗位：
+  - 中国AI Infra/大模型基础设施架构师：人民币60000至90000元/月、15-16薪，北京/上海/深圳/杭州，BOSS直聘与猎聘样本。
+  - GPU集群/HPC运维与SRE：人民币45000至80000元/月、14-16薪，深圳/上海/北京，BOSS直聘与职友集样本。
+  - AI安全/数据安全大模型专家：人民币35000至70000元/月，深圳/北京/上海，职友集、看准网与招聘平台样本。
+  - 量化研究员/策略研究员：人民币50000至100000元/月，上海/北京/深圳，猎聘和BOSS直聘样本。
+  - AI产品/GTM解决方案架构师：人民币35000至70000元/月，北京/上海/深圳/杭州，BOSS直聘、猎聘和智联招聘样本。
+- 来源：
+  - https://www.zhipin.com/
+  - https://www.jobui.com/
+  - https://www.liepin.com/
+  - https://www.zhaopin.com/
+  - https://www.kanzhun.com/
+  - https://www.levels.fyi/t/software-engineer/title/ai-engineer
+  - https://www.levels.fyi/t/software-engineer/title/machine-learning-engineer
+  - https://www.glassdoor.com/Salaries/ai-infrastructure-engineer-salary-SRCH_KO0,26.htm
