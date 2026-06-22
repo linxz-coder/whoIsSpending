@@ -1,0 +1,66 @@
+谁在花钱｜素材池
+日期：2026-06-22
+
+一、已入选线索
+
+1. 人民银行在香港招标发行400亿元6个月期央票
+- 主体：中国人民银行、香港金管局CMU系统、离岸人民币债券投资人。
+- 金额：400亿元人民币；期限6个月（182天）；6月22日投标、6月24日交收、12月23日到期。
+- 事件：央行通过香港CMU债券投标平台招标发行2026年第六期中央银行票据，补充香港人民币高信用等级资产，完善离岸人民币收益率曲线。
+- 更新点：区别于6月19日写“公告和工具组合”，今日按投标日、交收安排和离岸人民币资产供给入选。
+- 来源：
+  - https://finance.sina.com.cn/jryx/bank/2026-06-17/doc-inicsmhz3968705.shtml
+  - https://wap.eastmoney.com/a/202606173773978964.html
+  - https://www.bochk.com/dam/bochk/desktop/top/aboutus/notice/2026/20260617_Notice_TC.pdf
+
+2. EBRD拟向亚美尼亚水库项目提供6300万欧元主权贷款
+- 主体：EBRD、亚美尼亚政府、亚美尼亚水务委员会。
+- 金额：最高6300万欧元主权贷款；项目总成本约9000万欧元；第一批约4210万欧元，配套约1200万欧元赠款和1500万欧元本地贡献。
+- 事件：资金用于建设Kassakh、Lichk、Yelpin、Artik、Astghadzor等水库，提高灌溉和抗旱能力。
+- 来源：https://www.ebrd.com/home/work-with-us/projects/psd/54673.html
+
+3. Baseten据报接近完成15亿美元融资，估值130亿美元
+- 主体：Baseten、潜在新老投资人、AI推理客户。
+- 金额：据报接近完成15亿美元融资；估值约130亿美元。此前公司曾完成3亿美元Series E，估值约50亿美元。
+- 事件：AI推理平台融资规模继续拉大，资金主要押注企业把模型部署、低延迟推理和成本优化外包给专业基础设施平台。
+- 来源：https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/
+
+4. CoreWeave发行美元和欧元高息票据，并进入Nasdaq-100
+- 主体：CoreWeave、AI云客户、债券投资人、Nasdaq-100指数资金。
+- 金额：12.5亿美元2032年到期高级票据，票息9.625%；20亿欧元2032年到期高级票据，票息8.500%；Q1收入约21亿美元，全年收入指引约120亿至130亿美元，季度净亏损约7.4亿美元，期末总债务接近250亿美元。
+- 事件：CoreWeave一边通过债券市场补充AI云扩张资金，一边在6月22日前进入Nasdaq-100。AI云不再只是股权融资故事，正在大量使用债务市场。
+- 来源：
+  - https://www.businesswire.com/news/home/20260507558197/en/CoreWeave-Reports-Strong-First-Quarter-2026-Results
+  - https://letsdatascience.com/news/coreweave-joins-nasdaq-100-after-rapid-ipo-83453bbe
+
+5. 中国中铁完成约8亿元股份回购并拟注销
+- 主体：中国中铁、A股投资人、股票回购专项贷款/自有资金安排。
+- 金额：2025年6月20日至2026年6月19日累计回购1.55亿股，占总股本0.6275%；使用资金8亿元（不含交易费用）；原方案为8亿元至16亿元。
+- 事件：央企用现金回购并注销股份，是把企业自由现金流、融资工具和市值管理连接起来的一种方式。
+- 来源：https://www.stcn.com/article/wx/egs.html
+
+6. 618后半段消费主题从AI硬件扩散到服务、悦己和风险保障
+- 主体：京东、天猫、服务消费商家、电玩/宠物/健康品牌、消费者。
+- 金额/增速：京东家政日常保洁成交额同比增长超200%，家电清洗成交额同比增长超300%；天猫男士叶酸成交额增长672%，PS5等电玩主机成交额增长490%，宠物保险成交额增长56倍；京东AI趋势产品成交额同比增长100%，AI迷你工作站和AI感知设备成交额增长超20倍。
+- 事件：618收官后的结构性数据说明，钱从单纯低价流向“AI设备+服务履约+悦己健康+风险保障”。
+- 来源：
+  - https://m.sohu.com/a/1038923416_115362
+  - https://finance.sina.com.cn/roll/2026-06-19/doc-inicxusv9574454.shtml?froms=ggmp
+
+7. 高薪岗位扫描
+- 国内：BOSS直聘、职友集、猎聘、智联招聘、看准网样本显示，AI推理平台、AI云融资、债券/资金、城市水利、数据中心运维和服务消费数字化岗位仍维持高薪。
+- 国际：Levels.fyi、Glassdoor样本显示，AI Infrastructure Engineer、Cloud FinOps Lead、MLOps Engineer、Data Center Power Engineer、Water Infrastructure Project Manager仍处高薪区间。
+- 典型岗位：
+  - 中国AI推理/MLOps平台工程师：50000至90000元/月，北京/上海/深圳/杭州，BOSS直聘、猎聘、职友集样本。
+  - AI云成本/FinOps解决方案专家：35000至70000元/月，北京/上海/深圳，BOSS直聘、智联招聘、看准网样本。
+  - 数据中心电力/网络/SRE工程师：40000至80000元/月，华东/华南/华北，猎聘、职友集、BOSS直聘样本。
+  - 固收/资金交易/债券托管清算岗位：35000至80000元/月，北京/上海/深圳/香港，猎聘、智联招聘、看准网样本。
+  - 水利工程/城市韧性项目经理：30000至60000元/月，国内一线/区域中心城市，猎聘、职友集、智联招聘样本。
+- 来源：
+  - https://www.zhipin.com/
+  - https://www.jobui.com/
+  - https://www.liepin.com/
+  - https://www.zhaopin.com/
+  - https://www.kanzhun.com/
+  - https://www.levels.fyi/
+  - https://www.glassdoor.com/

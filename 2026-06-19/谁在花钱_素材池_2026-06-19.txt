@@ -1,0 +1,66 @@
+谁在花钱｜素材池
+日期：2026-06-19
+
+一、已入选线索
+
+1. 央行把人民币流动性工具继续推向离岸市场
+- 主体：中国人民银行、境外央行类机构、香港人民币债券投资人、香港金管局CMU系统。
+- 金额/工具：境外央行类机构回购工具用于提供人民币流动性；6月17日公告显示，央行还将在6月22日通过香港CMU招标发行2026年第六期中央银行票据，发行量400亿元，期限6个月。
+- 事件：陆家嘴论坛前后，央行继续把离岸人民币市场的“资产供给”和“流动性后盾”放到更重要的位置。回购工具服务境外央行类机构，央票则补充香港高信用等级人民币资产和收益率曲线。
+- 来源：
+  - https://www.stcn.com/article/detail/3965754.html
+  - https://finance.sina.com.cn/jryx/bank/2026-06-17/doc-inicsmhz3968705.shtml
+  - https://wap.eastmoney.com/a/202606173773978964.html
+
+2. ADB批准1.15亿美元贷款，支持尼泊尔市政供水、卫生和韧性
+- 主体：Asian Development Bank、尼泊尔市政部门、供水和卫生服务运营方。
+- 金额：1.15亿美元贷款。
+- 事件：ADB在6月19日发布贷款批准信息，资金用于加强尼泊尔市政供水、卫生和气候/灾害韧性服务。
+- 来源：
+  - https://www.adb.org/news
+  - https://www.adb.org/news/adb-approves-115-million-loan-strengthen-water-supply-sanitation-and-resilience-nepal-municipalities
+
+3. Gradial完成6500万美元Series C，AI营销工作流继续吸金
+- 主体：Gradial、Insight Partners、VMG Partners、Madrona、Pruven。
+- 金额：6500万美元Series C；估值约6.75亿美元。
+- 事件：Gradial为企业营销团队提供AI代理和工作流自动化系统，接入Adobe、Salesforce、ServiceNow、Databricks等企业工具，用于减少活动执行时间和人工协调成本。
+- 来源：https://www.axios.com/2026/06/18/gradial-ai-agents-marketing
+
+4. Smartbird出售Allbirds鞋履业务并筹资转向AI基础设施
+- 主体：Smartbird、原Allbirds鞋履业务、公开市场投资人。
+- 金额：鞋履业务出售金额4300万美元；公司从股市再筹资约1亿美元。
+- 事件：Allbirds完成鞋履业务出售后更名/转向Smartbird，计划把资本和组织重心转到AI基础设施业务。
+- 来源：https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/
+
+5. Mukesh Ambani继续把Reliance推向印度AI基础设施
+- 主体：Mukesh Ambani、Reliance、Google、Meta、NVIDIA及印度AI生态。
+- 金额：Reliance此前宣布约1100亿美元AI基础设施投入计划。
+- 事件：Ambani提出让AI进入印度的通话、应用和家庭场景，背后是Reliance把电信、云、模型、设备和家庭入口打包成AI基础设施的长期下注。
+- 来源：https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/
+
+6. 618收官，消费从低价转向AI硬件、服务和悦己消费
+- 主体：京东、天猫、抖音、AI硬件品牌、服务消费商家、线上娱乐与宠物消费商家。
+- 金额/增速：京东618全周期战报显示，高端手机成交额同比增长300%，AI硬件成交额增长超20倍，以旧换新订单量增长130%，线下门店订单量翻倍；另有报道显示，京东AI眼镜、AIPC、大屏AI手机等AI趋势产品成交额同比增长100%，AI迷你工作站和AI感知设备等成交额增长超20倍，家政保洁成交额同比增长超200%，家电清洗成交额同比增长超300%。
+- 事件：平台战报不再只强调GMV，而是强调AI硬件、服务消费、悦己消费和本地履约。
+- 来源：
+  - https://view.inews.qq.com/a/20260619A06NSG00
+  - https://finance.sina.com.cn/roll/2026-06-19/doc-inicxusv9574454.shtml?froms=ggmp
+  - https://m.sohu.com/a/1038923416_115362
+
+7. 高薪岗位扫描
+- 国内：BOSS直聘、职友集、猎聘、智联招聘、看准网样本显示，AI基础设施、AI营销/增长、数据中心能源、网络安全、机器人和量化研究仍维持高薪。
+- 国际：Levels.fyi、Glassdoor样本显示，AI Infrastructure Engineer、Machine Learning Engineer、AI Security Engineer、Robotics Software Engineer仍处在美元高薪区间。
+- 典型岗位：
+  - 中国AI Infra/大模型基础设施架构师：60000至90000元/月，北京/上海/深圳/杭州，BOSS直聘、猎聘、职友集样本。
+  - 企业AI营销/增长解决方案架构师：35000至70000元/月，北京/上海/深圳/杭州，BOSS直聘、智联招聘、猎聘样本。
+  - 数据中心电力/液冷/能源解决方案工程师：35000至75000元/月，华东/华南/华北，猎聘、职友集、看准网样本。
+  - 网络安全攻防/安全研究员：35000至80000元/月，北京/上海/深圳，BOSS直聘、猎聘、看准网样本。
+  - 机器人软件/运动控制工程师：35000至70000元/月，上海/深圳/苏州/杭州，BOSS直聘、猎聘、智联招聘样本。
+- 来源：
+  - https://www.zhipin.com/
+  - https://www.jobui.com/
+  - https://www.liepin.com/
+  - https://www.zhaopin.com/
+  - https://www.kanzhun.com/
+  - https://www.levels.fyi/
+  - https://www.glassdoor.com/
