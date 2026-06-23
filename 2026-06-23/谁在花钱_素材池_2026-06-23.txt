@@ -1,0 +1,92 @@
+谁在花钱｜素材池
+日期：2026-06-23
+
+一、政府
+
+- 标题：中国人民银行开展5245亿元7天期逆回购操作
+- 主体：中国人民银行、一级交易商、银行间流动性市场
+- 金额：5245亿元人民币；期限7天；操作利率1.40%；投标量与中标量均为5245亿元
+- 领域：公开市场操作、短端流动性、银行间资金
+- 主来源：中国人民银行公开市场业务交易公告[2026]第119号
+- 链接：https://camlmac.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/2026062308514075610/index.html
+- 备注：区别于6月18日的2480亿元逆回购，也区别于6月22日的400亿元离岸央票；今天按新的逆回购规模和资金面维护入选。
+
+二、国际政府与开发资金
+
+- 标题：EBRD向波黑输电公司提供最高4600万欧元贷款
+- 主体：欧洲复兴开发银行、Elektroprenos-Elektroprijenos BiH Banja Luka（TransCo）、波黑电力系统
+- 金额：最高4600万欧元
+- 领域：输电网、无功补偿、可再生能源并网、跨境电力交换
+- 主来源：EBRD官方新闻稿
+- 链接：https://www.ebrd.com/home/news-and-events/news/2026/ebrd-provides--46-million-to-strengthen-bosnia-and-herzegovina-s.html
+- 备注：资金用于采购和安装4台可变并联电抗器，改善电压稳定、降低网损，并为更多可再生能源接入留出空间。
+
+三、投资机构
+
+- 标题：Groq完成6.5亿美元增长资本融资
+- 主体：Groq、Disruptive、Infinitum、再投资股东
+- 金额：6.5亿美元
+- 领域：AI推理云、数据中心、LPX/推理硬件、企业AI基础设施
+- 主来源：Groq官方新闻稿
+- 链接：https://groq.com/newsroom/groq-raises-usd650m-to-scale-its-ai-inference-cloud-business
+- 交叉来源：TechCrunch
+- 链接：https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/
+- 备注：Groq称资金将用于扩张全球AI推理云，目标到2027年底向200MW规模扩展，当前运营13个数据中心，服务超过500万开发者。
+
+四、企业
+
+- 标题：Chevron与Microsoft签署20年西德州数据中心供电协议
+- 主体：Chevron子公司Energy Forge One、Microsoft、Engine No. 1、GE Vernova、Solar Turbines/Caterpillar
+- 金额/规模：20年购电协议；Project Kilby预计约2.67GW容量；预计2028年首次供电；官方称地区税收贡献可能超过100亿美元、支持约2000个岗位
+- 领域：AI数据中心、电力、天然气、云计算基础设施
+- 主来源：Chevron/Business Wire新闻稿
+- 链接：https://www.businesswire.com/news/home/20260622017964/en/Chevron-Signs-20-Year-Power-Agreement-with-Microsoft-for-West-Texas-Data-Center
+- 交叉来源：TechCrunch
+- 链接：https://techcrunch.com/2026/06/22/microsoft-and-chevron-plan-one-of-the-largest-gas-powered-data-center-projects-in-us/
+- 备注：AI云扩张不再只是GPU采购问题，长期稳定电力本身成为企业资本开支和供应链锁定的一部分。
+
+五、富豪资本
+
+- 标题：Ray-Ban/Luxottica继承人推动100亿欧元级Delfin股权收购
+- 主体：Leonardo Maria Del Vecchio、Delfin、Luca Del Vecchio、Paola Del Vecchio、UniCredit、BNP Paribas、Credit Agricole
+- 金额：约100亿欧元，约115亿美元；拟收购兄妹合计25%的Delfin股权，使持股升至37.5%
+- 领域：家族控股、继承治理、奢侈品/眼镜产业、金融股权
+- 来源：Bloomberg，经Moneyweb转载
+- 链接：https://www.moneyweb.co.za/news/international/ray-ban-heir-escalates-fight-for-control-of-family-fortune/
+- 备注：Delfin持有EssilorLuxottica重要权益，并持有意大利金融机构投资。该交易仍涉及融资、股东会和治理分歧，不按已完成交易写。
+
+六、平民消费
+
+- 标题：618后段消费从低价促销转向线下体验、健康服务和智能硬件
+- 主体：消费者、京东线下业态、荣耀、华为、影石创新、白塔寺药店、美团、地方商超与购物中心
+- 热门品类：智能数码、全屋智能家电、线下3C体验、养生产品、肩颈推拿、夏日理疗、即时服务、体验式零售
+- 代表产品/品牌：荣耀、华为、影石创新、小羊玩偶/新疆文创、“馕来了”文创、白塔寺药店自研饮品与养生产品、京东MALL、京东养车、京东七鲜
+- 品类金额/增速：人民日报报道，“馕来了”6月以来团队自营网店销售额较上月增长超70%；荣耀线下单店销售额较上周增长18%；美团数据显示“肩颈推拿”搜索热度同比增长超135%、“夏日理疗”搜索热度同比增长近65%；京东健康品类开门红52小时内多个品类销售额同比增长超10倍。21世纪经济报道援引京东数据称，超5600家京东3C数码门店52小时客流同比增长138%，27家京东MALL销售额同比增长53%，京东养车服务订单量同比增长超110%，京东医美订单量环比增长226%。
+- 主来源：人民日报
+- 链接：https://paper.people.com.cn/rmrb/pc/content/202606/19/content_30163850.html
+- 交叉来源：21世纪经济报道
+- 链接：https://www.21jingji.com/article/20260616/herald/981ff824652207d20b428819cafed29f.html
+- 昨日较热消费品牌（国内）：华为、荣耀、影石创新、小米、海尔、京东服务、白塔寺药店
+- 昨日较热消费品牌（国外）：Apple、Sony PlayStation、Dyson、Nintendo、LEGO、Nespresso、高仪/GROHE
+- 备注：区别于6月22日按家政、男士叶酸、电玩和宠物保险入选；今天按线下体验、健康服务、智能硬件和即时履约入选。
+
+七、高薪职位
+
+- 岗位方向：AI推理云、MLOps/机器学习平台、AI芯片/CPU验证、数据中心电力、跨境并购和家族办公室治理、线下零售服务数字化
+- 国内扫描来源：
+  - BOSS直聘：大模型推理研发工程师、AI推理优化工程师、机器学习平台研发工程师样本；机器学习平台研发可见25-50K、30-60K等区间
+  - 职友集：CPU验证工程师薪酬样本显示30-50K以上岗位占比较高，统计截至2026-06-23
+  - 猎聘：数据中心电气工程师、电力系统工程师、电力电子总工程师等岗位样本覆盖15-30K、30-50K、50-80K等区间
+  - Levels.fyi：AI Engineer中位总薪酬约153750美元，Machine Learning Engineer中位总薪酬约270000美元，更新时间在2026年6月下旬
+- 中国高薪岗位候选：
+  1. AI推理/MLOps平台工程师：人民币50000至90000元/月，北京/上海/深圳/杭州，BOSS直聘、职友集、猎聘样本。
+  2. 机器学习平台/LLMOps后端工程师：人民币30000至60000元/月，北京/上海/武汉/深圳，BOSS直聘、职友集、智联/猎聘样本。
+  3. AI芯片/CPU验证工程师：人民币30000至50000元以上/月，上海/北京/深圳，职友集、BOSS直聘、猎聘样本。
+  4. 数据中心电力/电气/电力系统工程师：人民币30000至80000元/月，一线城市和数据中心集群城市，猎聘、BOSS直聘、职友集样本。
+  5. 跨境并购融资/家族办公室投资经理：人民币40000至90000元/月，北京/上海/香港/新加坡，猎聘、脉脉高聘、金融机构招聘样本。
+- 国际高薪岗位候选：
+  1. AI Infrastructure Engineer：美国常见年薪约160000至250000美元，高阶岗位总包更高。
+  2. Machine Learning Engineer：Levels.fyi中位总薪酬约270000美元。
+  3. AI Engineer：Levels.fyi中位总薪酬约153750美元。
+  4. Data Center Power/Electrical Engineer：美国常见年薪约130000至220000美元，云厂商和能源项目岗位溢价更明显。
+- 备注：今天高薪方向跟资金流向一致：央行短端资金需要资金交易和系统人才，EBRD电网贷款与Microsoft/Chevron项目需要电力和数据中心人才，Groq融资继续抬高推理云人才价格，Del Vecchio交易对应家族办公室和并购融资人才。
