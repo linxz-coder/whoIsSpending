@@ -1,0 +1,109 @@
+谁在花钱｜素材池
+日期：2026-06-24
+
+一、政府
+
+- 标题：中国人民银行开展6625亿元7天期逆回购操作
+- 主体：中国人民银行、一级交易商、银行间流动性市场
+- 金额：6625亿元人民币；期限7天；操作利率1.40%；当日4203亿元逆回购到期；单日净投放2422亿元
+- 领域：公开市场操作、短端流动性、银行间资金、跨季资金面
+- 主来源：中国基金报
+- 链接：https://www.chnfund.com/article/b1c6f380-3027-9092-ba97-3a2209647e24
+- 交叉来源：证券时报/搜狐、澎湃新闻/搜狐
+- 链接：https://m.sohu.com/a/1040765337_115433
+- 链接：https://m.sohu.com/a/1040764465_260616
+- 备注：区别于6月23日的5245亿元逆回购；今天按新的操作规模和净投放2422亿元入选。
+
+二、国际政府与开发资金
+
+- 标题：EBRD向哈萨克斯坦道路升级提供最高2.3亿欧元贷款
+- 主体：欧洲复兴开发银行、QazAvtoZhol、哈萨克斯坦交通基础设施、AIIB共同融资方
+- 金额：最高2.3亿欧元，以日元等值发放
+- 领域：跨里海走廊、中亚交通、道路升级、欧洲-中国西部走廊、CAREC Corridor 1
+- 主来源：EBRD官方新闻稿
+- 链接：https://www.ebrd.com/home/news-and-events/news/2026/ebrd-boosts-trans-caspian-corridor--eu-s-global-gateway-flagship.html
+- 交叉来源：Astana Times
+- 链接：https://astanatimes.com/2026/06/ebrd-backs-key-road-upgrade-to-strengthen-middle-corridor/
+- 备注：资金用于Aktobe至Ulgaisyn之间234公里道路现代化，把现有二级单车道升级为一级双车道。区别于6月23日EBRD波黑输电网贷款；今日按中亚交通走廊和道路工程入选。
+
+三、投资机构
+
+- 标题：Dream完成2.6亿美元融资，估值达到30亿美元
+- 主体：Dream / Dream Security、Bicycle Capital、Group 11、Bain Capital Ventures、Antler、Tru Arrow Partners等投资方
+- 金额：2.6亿美元；估值约30亿美元
+- 领域：主权AI、政府网络安全、关键基础设施防护、国家级AI基础设施
+- 主来源：PR Newswire，经Yahoo Finance转载
+- 链接：https://finance.yahoo.com/technology/ai/articles/dream-raises-260m-reveals-sovereign-101700202.html
+- 交叉来源：PYMNTS、Coverager、TNW
+- 链接：https://www.pymnts.com/startups/2026/dream-raises-260-million-dollars-government-focused-ai-cybersecurity/
+- 链接：https://coverager.com/dream-security-raises-260m-at-3b-valuation/
+- 备注：区别于6月17日Ent的workspace security和6月18日Twenty的网络攻防；今天按政府/国家级主权AI与关键基础设施网络防护入选。
+
+四、企业
+
+- 标题：Argentum AI签下78亿美元AI基础设施长期合同
+- 主体：Argentum AI、Super Micro Computer、Nvidia、欧洲AI算力客户、波兰数据中心项目
+- 金额/规模：合计78亿美元长期协议；部署4.7万块Nvidia GB300芯片；约300MW波兰数据中心；其中两项协议分别约41亿美元和37亿美元；Super Micro以1亿美元可转债支持Argentum
+- 领域：AI基础设施、GPU云、欧洲数据中心、主权算力、Nvidia GB300供应链
+- 主来源：Barron's
+- 链接：https://www.barrons.com/articles/super-micro-ai-argentum-nvidia-chips-895c7460
+- 交叉来源：Moomoo转载、Foreign Policy Journal、CryptoBriefing
+- 链接：https://www.moomoo.com/news/post/71894665/super-micro-backed-ai-firm-bags-7-8-billion-deals
+- 链接：https://www.foreignpolicyjournal.com/2026/06/23/super-micro-nasdaq-smci-backed-argentum-ai-secures-7-8-billion-in-contracts-powered-by-nvidia-nasdaq-nvda-gb300-chips/
+- 备注：区别于6月22日CoreWeave债券和6月23日Chevron/Microsoft供电协议；今日按欧洲GPU offtake和AI云合同入选。
+
+五、富豪资本
+
+- 标题：SpaceX完成首次投资级债券发行，募资250亿美元
+- 主体：SpaceX、Elon Musk、美国投资级债券市场、Bank of America、Citi、JPMorgan、Goldman Sachs、Morgan Stanley等承销方
+- 金额：250亿美元；五档优先无担保票据，期限覆盖5年、7年、10年、20年、30年；认购订单约850亿至890亿美元
+- 领域：富豪控制企业融资、AI扩张、数据中心、计算硬件、电力基础设施、债务再融资
+- 主来源：Reuters，经IT之家/金融界转载；Bloomberg Law；MarketWatch
+- 链接：https://www.ithome.com/0/967/716.htm
+- 链接：https://news.bloomberglaw.com/capital-markets/spacex-finds-both-demand-questions-for-its-debut-bond-offering
+- 链接：https://www.marketwatch.com/story/spacex-reveals-pricing-details-for-what-could-be-one-of-the-years-biggest-debt-deals-8c027a85
+- 备注：区别于6月12日SpaceX IPO和6月16日SpaceX收购Cursor；今日按投资级债券融资和AI/算力资本开支资金来源入选。
+
+六、平民消费
+
+- 标题：618后消费钱从低价促销继续转向AI购物、反向海淘和暑期文旅
+- 主体：消费者、京东、阿里巴巴/速卖通、Joybuy、飞猪、去哪儿、旅游平台、国内出海品牌
+- 热门品类：AI智能导购和数字人直播、跨境电商/反向海淘、暑期亲子游和毕业旅行、世界杯应援定制、国潮数码与运动装备
+- 代表产品/品牌：大疆、小米、荣耀、TCL、珀莱雅、朱炳仁·铜、李宁、THINKRIDER、Accio Work、京东数字人、速卖通海外618、Joybuy夏季黑五
+- 品类金额/增速：
+  - 新华社/人民日报报道，今年618平台营销从卷价格转向AI赋能，AI首次全场景、全产业融入618。
+  - 京东数字人已免费服务超过8万商家，618日均开播商家数量同比增长5倍。
+  - 速卖通6月1日启动2026年海外618大促，京东Joybuy开启夏季黑五，把618带到欧洲；大疆、小米、荣耀、TCL等中国数码电子品牌增长势头强。
+  - 飞猪数据显示暑期旅行预订量同比增长超过80%；平台数据显示7月至8月亲子游占国内旅游订单约四成。
+  - 去哪儿数据显示，截至6月21日，近一周暑期机票预订量环比上周增长65%，家庭旅客占比超过六成。
+- 主来源：新华社/新华网、人民日报/人民网、中国科技网
+- 链接：https://app.xinhuanet.com/news/article.html?articleId=202606192125a14b91aa464293ba3196e53b03cd
+- 链接：https://finance.people.com.cn/n1/2026/0620/c1004-40743746.html
+- 链接：https://www.stdaily.com/web/gdxw/2026-06/20/content_534939.html
+- 交叉来源：金融界、东方财富
+- 链接：https://m.jrj.com.cn/madapter/stock/2026/06/24081057561359.shtml
+- 链接：https://wap.eastmoney.com/a/202606213777002314.html
+- 昨日较热消费品牌（国内）：大疆、小米、荣耀、TCL、珀莱雅、李宁、朱炳仁·铜、THINKRIDER
+- 昨日较热消费品牌（国外）：Apple、Nike、Adidas、Disney、Nintendo、LEGO、Booking、Airbnb
+- 备注：区别于6月23日按线下体验、健康服务和智能硬件入选；今天按AI商家工具、反向海淘、国货出海和暑期文旅预订入选。
+
+七、高薪职位
+
+- 岗位方向：资金交易/固定收益、主权AI与安全、GPU数据中心、跨境电商AI运营、AI算法/应用工程、债务资本市场
+- 国内扫描来源：
+  - BOSS直聘：北京AI创新产品iOS资深工程师样本50-65K·15薪；大语言模型算法专家样本70-100K·16薪。
+  - 职友集：北京网络安全工程师多数岗位10-30K/月，上海数据中心运维工程师75.1%岗位10-50K/月，CPU验证工程师90.2%岗位30-50K以上/月，上海交易员83.3%岗位10-50K/月，高级电商运营经理72.5%岗位20-50K/月。
+  - 猎聘：数据中心项目经理、IDC电气质量工程师、海外跨境电商运营负责人、固收/自营交易相关岗位样本。
+  - 智联招聘、看准网、脉脉高聘：用于交叉确认一线城市AI、金融、跨境运营和数据中心岗位仍维持高薪区间。
+- 中国高薪岗位候选：
+  1. 大语言模型算法/AI应用专家：人民币70000至100000元/月，北京/上海/杭州/深圳，BOSS直聘、猎聘、脉脉高聘样本。
+  2. 主权AI/AI安全解决方案架构师：人民币40000至80000元/月，北京/上海/深圳，BOSS直聘、职友集、猎聘样本。
+  3. GPU数据中心运维/电气/集群SRE：人民币30000至60000元/月，上海/北京/华东和华北数据中心集群城市，职友集、猎聘、BOSS直聘样本。
+  4. 固收交易/资金交易/债务资本市场分析师：人民币30000至70000元/月，上海/北京/香港，职友集、猎聘、金融机构招聘页样本。
+  5. 跨境电商AI运营/高级电商运营经理：人民币20000至50000元/月，杭州/深圳/广州/上海，职友集、猎聘、BOSS直聘样本。
+- 国际高薪岗位候选：
+  1. AI Infrastructure Engineer：美国常见年薪约160000至250000美元，Levels.fyi/Glassdoor样本。
+  2. AI Security / Cybersecurity Architect：美国常见年薪约140000至220000美元，Glassdoor/Indeed/企业招聘页样本。
+  3. Data Center Electrical / Power Engineer：美国常见年薪约130000至220000美元，Glassdoor/Indeed样本。
+  4. Debt Capital Markets / Corporate Finance VP：美国常见总薪酬约180000至300000美元，Indeed/Glassdoor/金融机构招聘页样本。
+- 备注：今天高薪方向跟资金流向一致：央行净投放抬高资金与债券系统重要性，EBRD道路贷款对应国际基建项目，Dream融资对应政府AI安全，Argentum和SpaceX融资对应GPU数据中心、电力与债务资本市场，平民消费则对应AI电商和跨境运营。
