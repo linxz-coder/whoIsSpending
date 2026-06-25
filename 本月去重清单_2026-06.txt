@@ -384,3 +384,26 @@
 
 119) 高薪职位扫描更新：BOSS直聘、职友集、猎聘、智联招聘、看准网、脉脉高聘、Levels.fyi和Glassdoor样本显示中国大语言模型算法/AI应用、主权AI/AI安全、GPU数据中心运维/电气/集群SRE、固收交易/债务资本市场、跨境电商AI运营，以及美国AI Infrastructure Engineer、AI Security / Cybersecurity Architect、Data Center Electrical / Power Engineer和Debt Capital Markets / Corporate Finance VP维持高薪区间
 - 已出现日期：2026-06-24
+
+120) 中国人民银行开展5000亿元1年期MLF操作并开展3705亿元7天期逆回购操作，逆回购利率1.40%，用于维护半年末银行体系流动性
+- 已出现日期：2026-06-25
+- 更新点：区别于2026-06-24只写6625亿元7天期逆回购，今日按MLF加量续作和新的逆回购规模入选
+
+121) World Bank批准4.5亿美元融资支持孟加拉国Financial Sector Support Project II，加强存款保护、央行监管能力、紧急流动性援助、银行重组和国有银行改革
+- 已出现日期：2026-06-25
+
+122) JustAI完成超过1700万美元Series A融资，由Base10领投，Y Combinator和Peak XV Partners继续参与，用于AI营销Agent、工程团队和Go-to-market扩张
+- 已出现日期：2026-06-25
+
+123) Micron FY2026 Q3收入414.6亿美元、GAAP净利润282.4亿美元、经营现金流253.9亿美元、资本开支71亿美元，AI内存需求推动长期客户协议和产能扩张
+- 已出现日期：2026-06-25
+
+124) Sajjan Jindal旗下JSW Motor通过约200亿印度卢比/约2.09亿美元前付款加版税获得奇瑞多个平台的使用和改造权，用于印度混动和电动车本地化
+- 已出现日期：2026-06-25
+
+125) 2026年618后消费更新：AI硬件、爱己消费、服务体验和反向海淘继续升温，Rokid智能眼镜电商销售额同比增长5倍，京东3C数码AI趋势产品成交额同比增长100%，家电家居智能化新品成交额同比增长20倍，MARD马尔德网店销售环比增长100%，京东家政保洁成交额同比增长超200%
+- 已出现日期：2026-06-25
+- 更新点：区别于2026-06-24按AI购物、数字人直播、反向海淘和暑期文旅入选，今日补充AI硬件、爱己消费和服务体验
+
+126) 高薪职位扫描更新：BOSS直聘、职友集、猎聘、智联招聘、看准网、脉脉高聘、Levels.fyi和Glassdoor样本显示中国大模型算法/AI应用、AI营销增长、HBM/半导体供应链、数据中心电气/SRE、银行监管科技/流动性管理、EV平台本地化，以及美国AI Engineer、AI Infrastructure Engineer、Data Center Electrical Engineer、Semiconductor Equipment Engineer和Banking Risk Specialist维持高薪区间
+- 已出现日期：2026-06-25
