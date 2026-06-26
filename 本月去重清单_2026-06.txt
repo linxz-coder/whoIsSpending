@@ -407,3 +407,25 @@
 
 126) 高薪职位扫描更新：BOSS直聘、职友集、猎聘、智联招聘、看准网、脉脉高聘、Levels.fyi和Glassdoor样本显示中国大模型算法/AI应用、AI营销增长、HBM/半导体供应链、数据中心电气/SRE、银行监管科技/流动性管理、EV平台本地化，以及美国AI Engineer、AI Infrastructure Engineer、Data Center Electrical Engineer、Semiconductor Equipment Engineer和Banking Risk Specialist维持高薪区间
 - 已出现日期：2026-06-25
+
+127) 国家发改委解读“十五五”109项重大工程，2026年“六张网”和重点领域建设投资规模合计超过7万亿元，叠加7550亿元中央预算内投资、1万亿元超长期特别国债和8000亿元新型政策性金融工具
+- 已出现日期：2026-06-26
+
+128) EIB Group推出超过4.7亿欧元乌克兰支持包，覆盖住房、道路桥梁、边境基础设施和私营部门投资，并包含8000万欧元拟投向乌克兰重建旗舰基金
+- 已出现日期：2026-06-26
+
+129) Hang Ten Systems完成3200万美元种子轮融资，Mayfield领投、Aramco Ventures参投，用于企业AI落地和AI投资回报转化
+- 已出现日期：2026-06-26
+
+130) Amazon宣布到2030年在印度新增130亿美元AI和云基础设施投资，使2026-2030年印度总投资计划升至480亿美元，并扩充Mumbai和Hyderabad AWS数据中心
+- 已出现日期：2026-06-26
+
+131) Robert Friedland共同创办的I-Pulse与美国商务部CHIPS R&D Office签署2.5亿美元奖励协议，开发极端环境下的碳化硅功率半导体，并由美国政府获得少数非控制性股权
+- 已出现日期：2026-06-26
+
+132) 2026年618消费金融更新：淘宝天猫过亿款商品支持花呗分期免息、同比提升26%，超过200万商家在国家贴息1%基础上补贴到免息，二轮车分期成交额同比增长15%，健康品类分期交易额同比增长超13%
+- 已出现日期：2026-06-26
+- 更新点：区别于2026-06-25按AI硬件、爱己消费和服务体验入选，今日按财政贴息、商家免息和分期工具撬动大件与升级消费入选
+
+133) 高薪职位扫描更新：BOSS直聘、职友集、猎聘、智联招聘、51job、看准网、脉脉高聘和Levels.fyi样本显示中国大模型算法、企业AI转型、云数据中心基础设施、碳化硅功率半导体、基础设施项目融资、消费金融风控，以及美国Nvidia Machine Learning Engineer、AI Infrastructure Engineer、Cloud/Data Center Infrastructure Engineer和SiC Device Engineer维持高薪区间
+- 已出现日期：2026-06-26

@@ -1,0 +1,93 @@
+谁在花钱｜每日花钱新闻日报
+日期：2026-06-26
+
+一、今日要点
+- 国内政府资金继续押注“硬基础设施+新基础设施”：109项重大工程背后，2026年“六张网”和重点领域建设投资规模合计超过7万亿元。
+- 国际开发资金投向乌克兰重建，EIB Group拿出超过4.7亿欧元组合包，把住房、道路、边境基础设施和私营部门投资放在一起。
+- 投资机构继续买“企业AI落地”：Hang Ten Systems用3200万美元种子轮瞄准大型企业AI投资回报。
+- 企业资本继续堆云和AI基础设施：Amazon新增130亿美元投向印度AI和云，印度成为全球云厂商争夺AI基础设施增量的关键市场。
+- 富豪资本与国家产业政策交叉：Robert Friedland共同创办的I-Pulse拿到2.5亿美元CHIPS R&D award，做极端环境下的碳化硅功率半导体。
+- 普通消费的钱不只在打折，也在“融资”：618期间过亿款商品支持花呗分期免息，分期免息商品数同比提升26%。
+- 今天的高薪机会集中在AI落地、云数据中心、SiC功率半导体、基础设施项目融资、消费金融风控和跨境项目管理。
+
+二、分项日报
+
+【政府】
+- 花钱主体：国家发展改革委牵头的重大工程体系、中央预算内投资、超长期特别国债、新型政策性金融工具、地方与社会资本。
+- 金额：2026年“六张网”和重点领域建设投资规模合计超过7万亿元；7550亿元中央预算内投资、1万亿元超长期特别国债预计6月底前基本下达完毕；8000亿元新型政策性金融工具资金加快投放；一季度新开工重大水利工程15项、总投资1475亿元。
+- 领域：水网、新型电网、算力网、新一代通信网、城市地下管网、物流网，叠加人工智能、低空、教育医疗、公共服务设施。
+- 事件：国家发改委系统解读“十五五”109项重大工程，强调这些项目既是稳增长工具，也是未来产业、民生保障和安全韧性的载体。
+- 主来源：国家发展改革委《透视109项重大工程① | 为何选它们？》https://www.ndrc.gov.cn/wsdwhfz/202606/t20260601_1405598.html
+- 对普通人的提示：这类钱不是直接发到个人手里，而是通过项目、设备、工程、运维、软件系统和地方配套资金扩散。机会在重大项目申报、工程咨询、EPC、智能电网、算力中心、低空基础设施、地下管网改造、水利工程、充电设施、医疗教育数字化和政府项目合规。
+
+【国际政府与开发资金】
+- 花钱主体：European Investment Bank Group、European Commission、Ukraine、European Flagship Fund for the Reconstruction of Ukraine。
+- 金额：超过4.7亿欧元新融资；8000万欧元拟投向乌克兰重建旗舰基金并预计撬动超过10亿欧元公共和私人股本；9600万欧元用于道路、桥梁和边境基础设施；5000万欧元EIB贷款配合EU赠款支持社会住房。
+- 领域：战后重建、住房、交通连通性、边境基础设施、私营部门投资、EU担保。
+- 事件：EIB Group在乌克兰恢复会议上宣布新的组合融资包，多数融资由欧盟担保支持。
+- 主来源：EEAS / EIB Group《EIB Group steps up support for Ukraine with over €470 million for housing, connectivity and private sector growth》https://www.eeas.europa.eu/delegations/ukraine/eib-group-steps-support-ukraine-over-%E2%82%AC470-million-housing-connectivity-and-private-sector-growth_en
+- 交叉来源：EIB官网相关页面摘要 https://www.eib.org/en/press/all/2026-147-ec-and-eib-group-announce-new-financing-package-of-over-eur600-million-to-support-ukraine-s-recovery
+- 对普通人的提示：重建资金会先进入政府、银行、基金、承包商和担保体系，再传导到住房建设、道路桥梁、边境物流、工程设计、保险、审计和项目管理。会英语、懂工程、懂EU资金规则、懂战争风险和合规的人，比单纯找“援助项目”的人更接近机会。
+
+【投资机构】
+- 花钱主体：Mayfield、Aramco Ventures、Hang Ten Systems、企业AI客户。
+- 金额：3200万美元种子轮融资。
+- 领域：企业AI、AI投资回报、行业工作流、AI transformation。
+- 事件：前Infosys CEO Vishal Sikka创办的Hang Ten Systems完成3200万美元融资，Mayfield领投，Aramco Ventures参投，Jerry Yang加入董事会。公司定位不是再造一个通用大模型，而是帮助大企业把AI投资转成可衡量业务结果。
+- 主来源：The Economic Times《Vishal Sikka’s AI startup Hang Ten Systems raises $32 million led by Mayfield》https://economictimes.indiatimes.com/tech/funding/vishal-sikkas-ai-startup-hang-ten-systems-raises-32-million-led-by-mayfield/articleshow/131971910.cms
+- 对普通人的提示：AI的钱正在从“买模型”转向“证明ROI”。机会在企业流程梳理、数据治理、AI产品经理、解决方案架构、行业顾问、售前、变革管理、AI安全、评估指标和企业培训。
+
+【企业】
+- 花钱主体：Amazon、AWS、印度云和电商基础设施、印度小微企业和开发者。
+- 金额：新增130亿美元投向印度AI和云基础设施；2026-2030年印度总投资计划升至480亿美元；2010-2030年累计投资超过880亿美元；今年新增20多个履约中心和100多个末端配送站。
+- 领域：AI云基础设施、AWS数据中心、AI芯片、托管AI服务、电商履约、印度数字经济。
+- 事件：Amazon宣布到2030年在印度新增130亿美元AI和云基础设施投资，重点扩充Mumbai和Hyderabad的AWS数据中心能力，同时继续加码电商履约网络。
+- 主来源：Amazon News《Amazon announces it will invest $48 billion in India by 2030》https://www.aboutamazon.com/news/company-news/amazon-india-investment
+- 交叉来源：TechCrunch《Amazon ups India bet with fresh $13B AI infrastructure investment》https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/
+- 对普通人的提示：AI基础设施不是抽象概念，它会落到数据中心建设、供电、制冷、光纤、芯片采购、云迁移、DevOps、安全合规、区域销售和本地化生态。懂印度、懂云、懂跨境客户和懂数据中心运营的人，会更靠近这笔钱。
+
+【富豪资本】
+- 花钱主体：U.S. Department of Commerce、NIST CHIPS R&D Office、I-Pulse、Robert Friedland、Laurent Frescaline。
+- 金额：2.5亿美元CHIPS R&D award；美国政府获得I-Pulse少数、非控制性股权。
+- 领域：碳化硅功率半导体、脉冲功率系统、地热钻探、关键矿产、国防、先进制造。
+- 事件：Robert Friedland共同创办的I-Pulse与美国商务部签署2.5亿美元CHIPS研发奖励协议，用于开发能在高温、高频、高功率和极端环境下运行的下一代碳化硅半导体。应用包括脉冲功率钻探、地热、关键矿产、先进制造、医疗和聚变能源。
+- 主来源：NIST《Department of Commerce Announces Definitive Agreement with I-Pulse for a $250 Million CHIPS R&D Award》https://www.nist.gov/news-events/news/2026/06/department-commerce-announces-definitive-agreement-i-pulse-250-million
+- 交叉来源：Business Wire《I-Pulse Signs Definitive Agreement with the U.S. Department of Commerce for $250 Million CHIPS R&D Award》https://www.businesswire.com/news/home/20260625994248/en/I-Pulse-Signs-Definitive-Agreement-with-the-U.S.-Department-of-Commerce-for-%24250-Million-CHIPS-RD-Award
+- 对普通人的提示：富豪资本不只买股票和地产，也会和国家产业政策共同进入“硬科技瓶颈”。机会在SiC器件、功率封装、脉冲电源、地热工程、矿业设备、国防供应链、政府科研项目管理和技术商业化。
+
+【平民消费】
+- 花钱主体：消费者、花呗、淘宝天猫、超过200万商家、5000多名首次提供分期免息的天猫新商家、华硕、凯越、蓝氏、极萌。
+- 热门品类：二轮车、电脑和数码、小家电、宠物食品、健康品类、服饰、家用美容仪。
+- 代表产品：12期免息数码产品、凯越摩托车、蓝氏中高端猫狗主粮、极萌家用美容仪、保健品和医疗保健器材。
+- 品类金额/增速：淘宝天猫支持花呗分期免息商品过亿款，同比提升26%；超过200万商家在国家贴息1%基础上补贴到免息；凯越每10位购车用户中6位选择免息，12期免息对应交易金额占免息总额97.8%；二轮车品类分期成交额同比增长15%；健康品类分期交易额同比增长超13%。
+- 主来源：新华网《618国家和商家共同贴息，花呗分期免息商品数提升26%》https://www.news.cn/tech/20260622/4224f063bbf54bcb80c2ed9be671fd15/c.html
+- 昨日较热消费品牌（国内）：蓝氏、凯越、极萌、Rokid、MARD马尔德、荣耀。
+- 昨日较热消费品牌（国外/国际）：Apple、Nike、Adidas、LEGO、Booking、Airbnb、ASUS。
+- 事件：消费的钱今天不只体现为“买了什么”，还体现为“怎么付款”。财政贴息、平台补贴和商家免息一起降低大件和升级消费门槛，把宠物、二轮车、健康、小家电、美容仪等品类的潜在需求提前释放。
+- 对普通人的提示：机会在消费金融产品、分期运营、商家增长、品类投放、风控模型、宠物和健康品牌运营、二轮车门店销售、家用美容仪内容营销和售后服务。
+
+【高薪职位】
+- 岗位方向：大模型算法/多模态算法、企业AI转型/AI解决方案架构、AWS/云数据中心基础设施、碳化硅功率半导体/电力电子、基础设施项目融资/欧盟资助项目管理、消费金融/增长风控。
+- 国内扫描来源：BOSS直聘、职友集、猎聘、智联招聘、51job、看准网、脉脉高聘。
+- 中国高薪岗位：
+  1. 大模型算法专家/预训练数据算法专家：人民币50000至110000元/月，北京/上海/杭州/深圳；职友集、猎聘、BOSS直聘样本显示头部岗位继续集中在30K以上。
+  2. 企业AI转型顾问/AI解决方案架构师：人民币35000至80000元/月，北京/上海/深圳/杭州/广州；适合懂行业流程、数据治理和AI Agent落地的人。
+  3. 云数据中心基础设施/电力/网络架构师：人民币35000至90000元/月，北京/上海/深圳/杭州/海外项目地；Amazon India和国内算力网投资共同拉动需求。
+  4. 碳化硅功率半导体/电力电子/封装测试工程师：人民币30000至80000元/月，上海/深圳/苏州/无锡/西安/合肥；对应I-Pulse和功率半导体产业链。
+  5. 基础设施项目融资/政府资金申报/PPP项目经理：人民币30000至70000元/月，北京/上海/深圳/成都/武汉；对应109项重大工程和开发性金融项目。
+  6. 消费金融风控/分期增长运营/商家金融产品经理：人民币30000至70000元/月，杭州/上海/深圳/北京；对应618贴息与免息分期。
+- 国际高薪岗位：
+  1. Nvidia Machine Learning Engineer：美国总包约205000至331000美元/年，Levels.fyi样本更新至2026-06-25。
+  2. Nvidia Software Engineer / AI Infrastructure Engineer：美国总包约176000至653000美元/年，IC3/IC4/IC5/IC6区间明显高于普通软件岗位。
+  3. Cloud/Data Center Infrastructure Engineer：美国、新加坡、印度和中东数据中心岗位常见年薪约130000至250000美元，高级岗位叠加股票。
+  4. Power Semiconductor / SiC Device Engineer：美国、欧洲、日本、新加坡岗位常见年薪约120000至220000美元，头部公司另有股权激励。
+  5. Infrastructure Finance / Reconstruction Project Manager：欧盟、开发银行、咨询公司和承包商常见年薪约100000至220000美元或欧元等值。
+- 薪资区间与口径：国内为人民币月薪，主要参考招聘/薪资平台公开样本；国际为美元年总包或年薪，主要参考Levels.fyi、招聘平台和企业岗位样本。
+- 门槛：大模型岗位偏硕士和工程经验；云数据中心岗位要懂电力、网络、Linux/Kubernetes、容量规划和安全；SiC岗位偏材料、器件、封装、电力电子；项目融资岗位要懂资金规则、财务模型、合同和合规；消费金融岗位要懂风控、用户增长和商家经营。
+- 为什么现在高薪：今天的钱同时流向国家级重大工程、AI云基础设施、企业AI落地、功率半导体、重建基金和消费金融，都是“钱已经到位但人才不足”的方向。
+- 普通人如何切入：技术线优先做可展示项目和证书，非技术线优先补行业知识、财务模型、项目管理和英语；不要泛泛写“会AI”，要能证明自己能让AI、资金或基础设施落到真实业务指标。
+
+三、今日结论
+- 今天的钱，集中在“国家重大工程、AI云基建、硬科技瓶颈和消费金融”。
+- 国内政府用7万亿元级别的“六张网”和重点领域投资稳增长、补短板、增后劲；EIB用4.7亿欧元组合资金支持乌克兰住房、道路、边境和私营部门；Mayfield等机构用3200万美元押注企业AI落地；Amazon用新增130亿美元把印度AI和云基础设施继续做大；I-Pulse用2.5亿美元CHIPS奖励切入碳化硅功率半导体；普通消费者则在财政贴息和商家免息下，把钱投向二轮车、宠物、健康、数码和美容仪。
+- 普通人的机会不在“听到大词就追热点”，而在能连接真实资金和真实交付：会做项目、会懂云、会把AI落地、会做硬科技供应链、会做消费金融和商家增长的人，更靠近今天的钱。
