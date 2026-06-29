@@ -429,3 +429,25 @@
 
 133) 高薪职位扫描更新：BOSS直聘、职友集、猎聘、智联招聘、51job、看准网、脉脉高聘和Levels.fyi样本显示中国大模型算法、企业AI转型、云数据中心基础设施、碳化硅功率半导体、基础设施项目融资、消费金融风控，以及美国Nvidia Machine Learning Engineer、AI Infrastructure Engineer、Cloud/Data Center Infrastructure Engineer和SiC Device Engineer维持高薪区间
 - 已出现日期：2026-06-26
+
+134) 350个川渝共建重点项目前5月累计完成投资2276.3亿元，投资完成率45.6%，其中科创和现代产业类重点项目完成投资1047.1亿元
+- 已出现日期：2026-06-29
+
+135) ADB批准5700多万美元融资包，支持斯里兰卡屋顶光伏和虚拟净计量，提升分布式清洁能源接入
+- 已出现日期：2026-06-29
+
+136) Patronus AI完成5000万美元Series B融资并发布Digital World Models，用于AI agent训练、评估和仿真测试，总融资额达到7000万美元
+- 已出现日期：2026-06-29
+
+137) Qualcomm公布数据中心AI路线图，目标2029财年数据中心收入超过150亿美元，并宣布收购Modular补齐AI软件栈，Barron's报道交易估值约39.2亿美元
+- 已出现日期：2026-06-29
+
+138) Kevin O'Leary继续推动AI数据中心资产组合，Alberta Wonder Valley公开项目库口径约700亿美元，Utah Stratos原拟40000英亩后因社区和政治压力大幅缩小范围
+- 已出现日期：2026-06-29
+
+139) 2026年暑期旅游专列消费更新：同程旅行数据显示暑期开行旅游列车预订热度同比增长超70%，55岁以上银发群体占比超60%，部分高端线路境外游客占比达80%至90%
+- 已出现日期：2026-06-29
+- 更新点：区别于2026-06-24按暑期机票、亲子游和毕业旅行入选，今日按旅游专列、银发客群、高端专列和入境深度游入选
+
+140) 高薪职位扫描更新：BOSS直聘、猎聘、Levels.fyi和Glassdoor样本显示中国AI基础设施架构师、AI Infra架构师、AI Agent平台架构师、数据中心电气设计，以及美国Meta/Nvidia Machine Learning Engineer、AI Infrastructure Engineer、Data Center Electrical Engineer和Senior HPC Engineer维持高薪区间
+- 已出现日期：2026-06-29

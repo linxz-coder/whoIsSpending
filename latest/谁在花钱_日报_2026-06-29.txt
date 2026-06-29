@@ -1,0 +1,90 @@
+谁在花钱｜每日花钱新闻日报
+日期：2026-06-29
+
+一、今日要点
+- 国内政府资金继续落在区域协同、科创平台、先进制造和基础设施。川渝350个共建重点项目前5月完成投资2276.3亿元。
+- 国际开发资金继续往分布式清洁能源走。ADB批准5700多万美元支持斯里兰卡屋顶光伏和虚拟净计量。
+- 投资机构把钱投向AI agent上生产前的训练和压力测试。Patronus AI完成5000万美元Series B。
+- 企业资本继续押注AI数据中心的全栈能力。Qualcomm给出2029财年数据中心收入超过150亿美元目标，并收购Modular补软件栈。
+- 富豪资本进入AI数据中心后，争议集中在能源、水、土地和社区治理。Kevin O'Leary的Wonder Valley和Stratos是今天的典型样本。
+- 平民消费从618大促转向暑期文旅。旅游专列、银发游、亲子三代游和入境深度游成为新增消费流向。
+- 高薪岗位继续集中在AI Infra、AI Agent、HPC、数据中心电气、AI仿真评测和新能源项目交付。
+
+二、分项日报
+
+【政府】
+- 花钱主体：重庆市发展改革委 / 成渝地区双城经济圈重点项目
+- 金额：350个川渝共建重点项目1至5月累计完成投资2276.3亿元，投资完成率45.6%；科创和现代产业类重点项目完成投资1047.1亿元。
+- 领域：科创平台、现代产业、基础设施、生态、民生。
+- 事件：重庆市政府披露，川渝共建重点项目建设提速，精密位移测量全国重点实验室、荣昌生猪区域性种业创新基地、高竹新区产业园、璧山动力电池研究总院等项目进入封顶、完工或投建节点。重庆2026年市级重点项目通知也给出总投资约2.9万亿元、年度计划投资约5012亿元的项目盘子。
+- 来源：重庆市人民政府，https://www.cq.gov.cn/ywdt/jrcq/202606/t20260625_15775286.html；重庆市人民政府办公厅，https://www.cq.gov.cn/zwgk/zfxxgkml/szfwj/qtgw/202604/t20260403_15590154.html
+- 对普通人的提示：机会不只在土建施工，也在科创平台运维、产业园招商、检测认证、动力电池测试、先进制造设备、物流配套、项目申报、工程咨询和区域协同项目管理。
+
+【国际政府与开发资金】
+- 花钱主体：Asian Development Bank / Sri Lanka
+- 金额：5700多万美元融资包，ADB公告口径为57.4 million dollars。
+- 领域：屋顶光伏、虚拟净计量、清洁能源接入。
+- 事件：ADB批准融资支持斯里兰卡扩大屋顶太阳能和虚拟净计量。这个方向不是大型集中式电站，而是把公共机构、商业楼宇和分散用户接入更灵活的清洁电力系统。
+- 来源：ADB，https://www.adb.org/news/adb-approves-financing-rooftop-solar-and-virtual-net-metering-boost-clean-energy-access-sri-lanka
+- 对普通人的提示：开发资金正在从大工程延伸到分布式能源、用电侧管理和电费结算机制。机会在光伏EPC、逆变器、储能、屋顶资源评估、用电数据、净计量系统、开发银行项目合规和本地化运维。
+
+【投资机构】
+- 花钱主体：Patronus AI / Greenfield Partners / Lightspeed / Notable Capital / Datadog / Samsung
+- 金额：5000万美元Series B，总融资额达到7000万美元。
+- 领域：AI agent训练、评估、仿真环境、Digital World Models。
+- 事件：Patronus AI宣布完成B轮融资，并发布用于AI agent训练和仿真的Digital World Models。它解决的问题不是“再做一个聊天机器人”，而是让企业和模型团队在真实系统上线前，用仿真工作流提前测试智能体是否会失败、越权、拖垮流程或做错决策。
+- 来源：Patronus AI，https://www.patronus.ai/blog/announcing-our-50m-series-b；TechCrunch，https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/
+- 对普通人的提示：AI岗位的新增价值正在从“会调用模型”转向“会评估模型在业务系统里的行为”。机会在Agent评测、仿真环境、QA自动化、企业工作流建模、AI安全、可观测性和RL环境构建。
+
+【企业】
+- 花钱主体：Qualcomm / Meta / Modular
+- 金额：Qualcomm目标到2029财年数据中心收入超过150亿美元；Barron's报道Qualcomm收购Modular交易估值约39.2亿美元。
+- 领域：数据中心CPU、AI推理加速器、高带宽计算、AI软件栈、Meta服务器CPU合作。
+- 事件：Qualcomm在Investor Day披露数据中心AI路线图，推出Dragonfly C1000 CPU、High Bandwidth Compute、Dragonfly AI300推理加速器，并宣布与Meta的多代数据中心CPU合作。公司同时宣布收购Modular，补齐跨硬件AI软件、编译器和部署工具。
+- 来源：Qualcomm，https://www.qualcomm.com/news/releases/2026/06/qualcomm-unveils-comprehensive-data-center-roadmap-for-the-agent；Qualcomm，https://www.qualcomm.com/news/releases/2026/06/qualcomm-accelerates-diversification-with-comprehensive-strategy；Qualcomm，https://www.qualcomm.com/news/releases/2026/06/qualcomm-to-acquire-modular；Barron's，https://www.barrons.com/articles/qualcomm-buys-modular-stock-price-247a2464
+- 对普通人的提示：AI基础设施不是只有GPU，CPU、内存带宽、网络、软件栈、编译器、推理服务和客户迁移都会产生岗位。机会在AI推理优化、系统软件、编译器、数据中心平台、芯片生态、Meta/云厂商供应链和企业迁移咨询。
+
+【富豪资本】
+- 花钱主体：Kevin O'Leary / O'Leary Ventures / O'Leary Digital
+- 金额：Alberta Wonder Valley项目报道口径约700亿美元；Utah Stratos原拟40000英亩，后因社区和政治压力同意大幅缩小范围。
+- 领域：AI数据中心、能源、水资源、土地开发、算力基础设施。
+- 事件：Business Insider把Kevin O'Leary作为AI数据中心争议中的高曝光个人资本样本。他一边推动Alberta Wonder Valley和Utah Stratos这类超大数据中心项目，一边面对居民、环保、用水、用电、土地治理和透明度质疑。Alberta Major Projects项目库也把Wonder Valley列为700亿美元投资口径的AI数据中心项目。
+- 来源：Business Insider，https://www.businessinsider.com/kevin-oleary-data-centers-2026-6；Alberta Major Projects，https://majorprojects.alberta.ca/details/Wonder-Valley-AI-Data-Centre-Park-Phase-1/11477；Utah News Dispatch，https://utahnewsdispatch.com/2026/06/04/oleary-agrees-to-reduce-stratos-data-center-size/
+- 对普通人的提示：富豪资本进入AI基建，不等于本地居民自动受益。真正的机会在能源规划、环评、水资源、社区沟通、土地合规、电力市场、数据中心工程和公共政策；风险在项目口径大、落地周期长、社区冲突高。
+
+【平民消费】
+- 花钱主体：家庭游客、银发游客、入境游客、旅游专列运营方、OTA平台。
+- 热门品类：旅游专列、慢旅行、长线避暑、亲子三代游、银发游、入境深度游。
+- 代表产品：熊猫专列·锦绣天府号、丝路梦享号、新东方快车、天山号、武铁假日·遇见美好号。
+- 品类金额/增速：同程旅行数据显示，暑期开行的各类旅游列车预订热度同比增长超70%；55岁以上银发群体占比超60%；部分高端线路境外游客占比达80%至90%。湖北日报/新华网报道中还提到，部分高端旅游专列人均价格达到20999元、76000元等区间。
+- 昨日最火消费品牌（国内）：同程旅行、携程、飞猪、熊猫专列·锦绣天府、丝路梦享号、新东方快车、天山号。
+- 昨日最火消费品牌（国外）：Booking、Airbnb、Trip.com、Expedia、Klook、Agoda。
+- 事件：这次不是继续写618的AI硬件或分期免息，而是暑期消费接力。旅游专列把交通、住宿、观景、餐饮、导游和医疗陪护打包，精准击中银发族、家庭客群和入境深度游客。
+- 来源：中国消费者报，https://www.ccn.com.cn/Content/2026/06-02/1637227112.html；新华网转载，https://www.news.cn/fortune/20260622/7d868915469b498ebde6fb4e88bb1f67/c.html；兵团广播电视台/石榴云新疆日报，https://www.btzx.com.cn/web/2026/6/10/ARTI1781064668248633.html
+- 更新点：区别于6月24日按暑期机票、亲子游和毕业旅行入选，今天按旅游专列、银发客群、高端专列和入境深度游入选。
+- 对普通人的提示：机会在旅游产品经理、专列运营、银发服务、随车医疗、目的地接待、小城文旅、跨语种导游、OTA投放、铁路文创、适老化服务和高客单线路销售。
+
+【高薪职位】
+- 岗位方向：AI基础设施、AI Agent架构、HPC/仿真环境、数据中心电气、AI软件栈、清洁能源项目交付。
+- 国内扫描来源：BOSS直聘、猎聘、职友集/聚合页、智联/前程无忧公开招聘汇总、脉脉公开报告线索。
+- 中国高薪岗位：
+  1. 资深AI基础设施架构师：人民币90000至120000元/月，14薪，北京，10年以上，本科，来源为猎聘岗位样本。
+  2. AI Infra架构师：人民币50000至80000元/月，16薪，上海/深圳，5至10年，本科或硕士，来源为BOSS直聘MiniMax等岗位样本。
+  3. AI Agent平台/系统架构师：人民币50000至110000元/月，15至18薪，北京/上海/深圳，5至10年，来源为BOSS直聘道通科技、小米、上海语生等岗位样本。
+  4. 大模型工程架构师/推理平台工程师：人民币50000至80000元/月，16薪，北京/上海/深圳，来源为BOSS直聘岗位页和深圳6月招聘汇总。
+  5. 数据中心电气设计/海外项目工程师：人民币30000至60000元/月，15至16薪，杭州/北京/上海/海外项目地，来源为猎聘数据中心电气岗位样本。
+  6. AI仿真评测/Agent QA/企业工作流测试工程师：人民币30000至70000元/月，北京/上海/深圳/杭州，参考Patronus融资方向和国内AI测试、Agent架构岗位。
+- 国际高薪岗位：
+  1. Meta Machine Learning Engineer：美国总包约187000至637000美元/年，中位数约476000美元/年，Levels.fyi更新至2026-06-28。
+  2. Nvidia Machine Learning Engineer：美国总包约205000至331000美元/年，Levels.fyi样本。
+  3. AI Infrastructure Engineer / Platform Engineer：美国常见总包约180000至320000美元/年，Levels.fyi招聘样本。
+  4. Data Center Electrical Engineer：美国典型约98172至166392美元/年，90分位约210579美元/年，Glassdoor样本。
+  5. Senior HPC Engineer：美国平均约171000美元/年，典型区间约132000至224000美元/年，Glassdoor样本。
+- 来源：BOSS直聘，https://www.zhipin.com/zhaopin/5704e1da30c6a3e21XJ-3Nq9/；BOSS直聘，https://m.zhipin.com/zhaopin/5c4460f707386fb51nd63du6/；BOSS直聘，https://www.zhipin.com/zhaopin/4c10a9367efd2f551H163d66EA~~/；猎聘，https://www.liepin.com/job/1961171717.shtml；猎聘，https://m.liepin.com/a/76570333.shtml；Levels.fyi，https://www.levels.fyi/companies/meta/salaries/software-engineer/title/machine-learning-engineer；Levels.fyi，https://www.levels.fyi/companies/nvidia/salaries/software-engineer/title/machine-learning-engineer；Glassdoor，https://www.glassdoor.com/Salary/Meta-Data-Center-Electrical-Engineer-Salaries-E40772_D_KO5%2C36.htm；Glassdoor，https://www.glassdoor.com/Salaries/senior-hpc-engineer-salary-SRCH_KO0%2C19.htm
+- 为什么现在高薪：今天的资金流向同时拉动AI agent可靠性、AI推理芯片、数据中心电力、分布式能源和高客单文旅运营。能把模型、硬件、电力、系统软件和真实业务交付接起来的人，议价能力继续强。
+- 普通人如何切入：技术岗优先补Linux、网络、Kubernetes、GPU/推理、Agent框架、评测和可观测性；工程岗优先补数据中心电气、暖通、能耗、环评和项目管理；运营岗优先补银发服务、线路设计、跨语种接待和高客单销售。
+
+三、今日结论
+- 今天的钱集中在“区域重点项目、分布式能源、AI agent可靠性、AI数据中心全栈、富豪基建资本和暑期文旅消费”。
+- 国内政府资金用2276.3亿元级别的川渝共建项目继续托住科创、制造和基础设施；ADB用5700多万美元把清洁能源钱投到斯里兰卡屋顶光伏；Patronus AI用5000万美元融资说明AI agent需要先在仿真世界里练习和受压；Qualcomm用150亿美元数据中心收入目标和Modular收购切入AI推理基础设施；Kevin O'Leary的数据中心项目提醒我们，富豪资本也会被能源、水、土地和社区治理约束；普通消费者则开始把暑期预算投向旅游专列、银发游、亲子三代游和入境深度游。
+- 普通人的机会仍然在交付层：会做重点项目、会做能源和数据中心、会让AI agent可靠上线、会服务银发和家庭高客单消费的人，更靠近今天的钱。
