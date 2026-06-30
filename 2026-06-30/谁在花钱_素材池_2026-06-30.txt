@@ -1,0 +1,78 @@
+谁在花钱｜素材池
+日期：2026-06-30
+
+一、政府
+- 标题：国家发展改革委、财政部下达今年第三批消费品以旧换新资金
+- 主体：国家发展改革委、财政部、地方商务/发改/财政部门
+- 金额：第三批资金625亿元；今年以来已分三批下达1880亿元；截至6月中旬，汽车、家电、手机数码、家装厨卫、电动自行车等五大类以旧换新带动销售额超过1.1万亿元。
+- 领域：消费刺激、耐用品更新、财政补贴、绿色智能产品。
+- 主来源：https://www.ndrc.gov.cn/xwdt/xwfb/202606/t20260626_1399328.html
+- 交叉来源：https://www.ndrc.gov.cn/fzggw/jgsj/zhss/sjdt/202606/t20260629_1399420.html
+- 备注：同一月已多次写消费更新；今天按财政资金拨付和“补贴撬动耐用品消费”入选，不只写618或暑期文旅。
+
+二、国际政府与开发资金
+- 标题：World Bank向孟加拉国提供11亿美元紧急支持
+- 主体：World Bank / Bangladesh
+- 金额：11亿美元，包括粮食安全、营养、农村生计、社会保护、健康和教育等方向。
+- 领域：紧急发展融资、粮食安全、农村生计、公共服务韧性。
+- 主来源：https://www.worldbank.org/en/news/press-release/2026/06/26/bangladesh-world-bank-provides-1-1-billion-emergency-support-to-safeguard-food-security-livelihoods
+- 交叉来源：https://www.worldbank.org/en/country/bangladesh
+- 备注：与6月25日的4.5亿美元金融部门支持项目不同，今天是11亿美元应急与民生支持包。
+
+三、投资机构
+- 标题：Reed Semiconductor完成1亿美元融资
+- 主体：Reed Semiconductor，VentureTech Alliance，strategic and financial investors
+- 金额：1亿美元融资。
+- 领域：AI数据中心电源、功率半导体、能效、芯片供应链。
+- 主来源：https://www.businesswire.com/news/home/20260626023571/en/Reed-Semiconductor-Announces-Completion-of-%24100-Million-Funding-Round
+- 交叉来源：Business Wire新闻稿及半导体产业报道线索
+- 备注：今天投资机构的钱不只追模型公司，也投向AI数据中心的电力转换和功率效率。
+
+四、企业
+- 标题：韩国科技巨头计划投入约5500亿美元级别资金，缓解存储和AI数据中心短缺
+- 主体：Samsung、SK Hynix、SK Group、GS Group、Naver等
+- 金额：Samsung和SK Hynix在半导体领域合计约800万亿韩元，约5180亿美元；韩国科技企业围绕半导体和AI数据中心的规划口径超过5500亿美元。
+- 领域：存储芯片、HBM、AI数据中心、电力、服务器供应链。
+- 主来源：https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/
+- 交叉来源：https://apnews.com/；https://en.yna.co.kr/
+- 备注：企业资本开支正在从芯片厂扩到AI数据中心、电力和网络配套。
+
+五、富豪资本
+- 标题：Chamath Palihapitiya的8090 Labs为AI编码公司完成1.35亿美元Series A
+- 主体：8090 Labs / Software Factory / Chamath Palihapitiya / Salesforce Ventures / Sutter Hill Ventures / Insight Partners / Databricks Ventures / David Sacks
+- 金额：1.35亿美元Series A。
+- 领域：AI coding agent、软件工厂、企业软件自动化。
+- 主来源：https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/
+- 交叉来源：TechCrunch报道及投资方公开背景
+- 备注：富豪/名人资本从“投AI工具”升级到亲自下场做软件生产平台。
+
+六、平民消费
+- 热门品类：AI智能眼镜、离线AI记事设备、新能源车、家电、手机数码、家装厨卫。
+- 代表产品：Rokid、雷鸟/Xreal、华为智能眼镜、小米AI眼镜、Pocket、比亚迪/理想等新能源车、绿色智能家电。
+- 品类金额或增速：国家发改委口径显示以旧换新带动五大类销售额超过1.1万亿元；智能眼镜等新型可穿戴智能设备零售额同比增长超过1倍；Pocket完成1100万美元融资，用离线AI note-taking device切入消费者硬件。
+- 昨日最火消费品牌（国内）：Rokid、Xreal/雷鸟、小米、华为、京东、比亚迪、理想。
+- 昨日最火消费品牌（国外）：Pocket、Meta Ray-Ban、Apple、Samsung、Amazon、Best Buy。
+- 价格带变化：消费电子从传统手机和耳机，继续向1000至4000元级AI眼镜、AI记录仪和智能车载硬件扩散；高补贴品类仍以新能源车、绿色家电和手机数码为主。
+- 主来源：https://www.ndrc.gov.cn/fzggw/jgsj/zhss/sjdt/202606/t20260629_1399420.html
+- 交叉来源：https://finance.people.com.cn/n1/2026/0629/c1004-40749493.html；https://techcrunch.com/2026/06/29/pocket-raises-11m-in-bet-on-rising-demand-for-ai-note-taking-devices/
+- 备注：区别于6月29日旅游专列，今天消费线按“政策补贴+AI随身硬件”入选。
+
+七、高薪职位
+- 岗位方向：AI coding agent、AI基础设施、功率半导体、HBM/存储、AI数据中心电气、消费AI硬件产品、发展融资项目交付。
+- 国内扫描来源：BOSS直聘、职友集、猎聘、智联招聘、51job、脉脉高聘、看准网。
+- 中国典型岗位：
+  1. AI Agent/代码智能体平台架构师：人民币50000至100000元/月，北京/上海/深圳/杭州，5至10年，来源为BOSS直聘和猎聘AI Agent/平台架构岗位样本。
+  2. AI基础设施架构师/推理平台负责人：人民币60000至120000元/月，北京/上海/深圳，5至10年以上，来源为BOSS直聘、猎聘、脉脉高聘样本。
+  3. 功率半导体/电源芯片研发专家：人民币40000至80000元/月，上海/深圳/苏州/无锡，5至10年，来源为猎聘、前程无忧和职友集薪资样本。
+  4. HBM/存储/封装工艺专家：人民币45000至90000元/月，上海/深圳/西安/合肥，5至10年，来源为猎聘、智联招聘、看准网样本。
+  5. 数据中心电气设计/能源系统工程师：人民币30000至65000元/月，北京/上海/杭州/海外项目地，5年以上，来源为猎聘、BOSS直聘、51job样本。
+  6. AI智能眼镜产品经理/硬件算法工程师：人民币30000至70000元/月，深圳/杭州/北京，3至8年，来源为BOSS直聘、猎聘、职友集样本。
+- 国际典型岗位：
+  1. AI Infrastructure Engineer：美国总包约180000至320000美元/年，Levels.fyi和招聘样本。
+  2. Machine Learning Engineer at Meta/Nvidia：美国总包约187000至637000美元/年，Levels.fyi样本。
+  3. Semiconductor Power Device Engineer：美国年薪约140000至260000美元，Glassdoor/Indeed样本。
+  4. Data Center Electrical Engineer：美国典型约98172至166392美元/年，90分位约210579美元/年，Glassdoor样本。
+  5. Product Manager, AI Wearables：美国总包约160000至300000美元/年，Levels.fyi和招聘样本。
+- 标准参考来源：https://www.zhipin.com/；https://www.liepin.com/；https://www.51job.com/；https://www.jobui.com/；https://www.kanzhun.com/；https://www.levels.fyi/；https://www.glassdoor.com/
+- 对普通人的切入要求：技术岗补Linux、Kubernetes、GPU推理、Agent评测、芯片电源、EDA/封装、数据中心电气和可观测性；产品运营岗补消费硬件、用户研究、渠道和售后闭环。
+- 风险提示：AI Agent、AI眼镜和半导体周期波动都大，岗位应优先看公司现金流、客户合同、量产节点和真实交付场景。

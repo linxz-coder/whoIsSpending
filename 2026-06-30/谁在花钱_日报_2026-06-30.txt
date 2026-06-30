@@ -1,0 +1,92 @@
+谁在花钱｜每日花钱新闻日报
+日期：2026-06-30
+
+一、今日要点
+- 国内政府资金继续用财政补贴撬动耐用品消费。国家发展改革委、财政部下达今年第三批消费品以旧换新资金625亿元，全年三批合计1880亿元。
+- 国际开发资金仍在托底粮食安全和公共服务。World Bank向孟加拉国提供11亿美元紧急支持。
+- 投资机构开始更直接地为AI数据中心的电力效率付钱。Reed Semiconductor完成1亿美元融资，切入功率半导体和AI数据中心电源。
+- 企业资本继续押注“存储芯片+AI数据中心”。韩国Samsung、SK Hynix等科技巨头公布或推进约5500亿美元级别投资规划。
+- 富豪资本继续从投钱转向亲自下场做AI公司。Chamath Palihapitiya的8090 Labs为Software Factory完成1.35亿美元Series A。
+- 平民消费从618、暑期旅游继续延伸到AI随身硬件。智能眼镜、离线AI记事设备、绿色智能家电和新能源车仍在吃补贴与新品红利。
+- 高薪岗位集中在AI coding agent、AI基础设施、功率半导体、HBM/存储、数据中心电气和AI消费硬件。
+
+二、分项日报
+
+【政府】
+- 花钱主体：国家发展改革委、财政部、地方商务/发改/财政部门
+- 金额：第三批消费品以旧换新资金625亿元；今年以来已分三批下达1880亿元；截至6月中旬，汽车、家电、手机数码、家装厨卫、电动自行车等五大类以旧换新带动销售额超过1.1万亿元。
+- 领域：财政补贴、消费刺激、耐用品更新、绿色智能产品。
+- 事件：国家发展改革委、财政部下达今年第三批消费品以旧换新资金，地方将继续按品类补贴汽车、家电、手机数码、家装厨卫和电动自行车。资金的核心不是一次性促销，而是用财政补贴降低居民更新耐用品的门槛，把消费从“观望”推向“换新”。
+- 来源：国家发展改革委，https://www.ndrc.gov.cn/xwdt/xwfb/202606/t20260626_1399328.html；国家发展改革委综合司，https://www.ndrc.gov.cn/fzggw/jgsj/zhss/sjdt/202606/t20260629_1399420.html
+- 更新点：区别于6月26日按花呗分期、国家贴息和商家免息入选，今天按中央财政资金拨付和五大类耐用品实际销售拉动入选。
+- 对普通人的提示：机会在补贴核销系统、家电/手机/电动车门店运营、二手回收、家装改造、绿色智能家电供应链、县域渠道、售后安装和政策合规。
+
+【国际政府与开发资金】
+- 花钱主体：World Bank / Bangladesh
+- 金额：11亿美元紧急支持。
+- 领域：粮食安全、营养、农村生计、社会保护、健康、教育。
+- 事件：World Bank宣布向孟加拉国提供11亿美元支持，重点是缓解食品价格、气候冲击和外部压力对低收入家庭的影响。资金不是投向单个硬资产，而是覆盖粮食安全、营养、农村收入、健康和教育这些“基本盘”。
+- 来源：World Bank，https://www.worldbank.org/en/news/press-release/2026/06/26/bangladesh-world-bank-provides-1-1-billion-emergency-support-to-safeguard-food-security-livelihoods
+- 更新点：区别于6月25日World Bank对孟加拉国金融部门的4.5亿美元项目，今天入选的是11亿美元应急与民生支持包。
+- 对普通人的提示：发展资金不只买设备，也买执行能力。机会在农业供应链、营养项目、社会保障系统、公共卫生、教育交付、数据上报、项目审计和NGO/开发银行采购。
+
+【投资机构】
+- 花钱主体：Reed Semiconductor / VentureTech Alliance / strategic and financial investors
+- 金额：1亿美元融资。
+- 领域：AI数据中心电源、功率半导体、电力转换、能效。
+- 事件：Reed Semiconductor宣布完成1亿美元融资，资金将用于功率半导体研发和商业化。AI数据中心最显性的花钱点是GPU，但越往后，电源转换、能效、散热和供电稳定性都会变成硬约束。投资机构今天投的不是“又一个模型”，而是AI数据中心电力链条里的关键零件。
+- 来源：Business Wire，https://www.businesswire.com/news/home/20260626023571/en/Reed-Semiconductor-Announces-Completion-of-%24100-Million-Funding-Round
+- 对普通人的提示：AI基建的钱正在外溢到芯片电源、功率器件、封装、测试、可靠性、供应链质量和FAE。懂半导体又懂数据中心负载的人，会比只懂单点器件更吃香。
+
+【企业】
+- 花钱主体：Samsung、SK Hynix、SK Group、GS Group、Naver等韩国科技企业
+- 金额：Samsung和SK Hynix半导体投资口径合计约800万亿韩元，约5180亿美元；韩国科技企业围绕半导体和AI数据中心的规划口径超过5500亿美元。
+- 领域：存储芯片、HBM、AI数据中心、电力、服务器供应链。
+- 事件：韩国科技巨头继续把钱压到AI基础设施短板上。Samsung和SK Hynix的重点是存储与HBM，SK Group、GS Group和Naver等则推进AI数据中心、电力和服务配套。这个方向反映出一个现实：AI热潮不只缺GPU，也缺内存、供电、数据中心土地、冷却和稳定运营。
+- 来源：TechCrunch，https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/；AP / Yonhap相关报道
+- 对普通人的提示：机会在HBM、先进封装、工艺设备、数据中心电气、冷却、储能、服务器运维、跨境供应链、韩企客户服务和AI云迁移。
+
+【富豪资本】
+- 花钱主体：Chamath Palihapitiya / 8090 Labs / Software Factory / Salesforce Ventures / Sutter Hill Ventures / Insight Partners / Databricks Ventures / David Sacks
+- 金额：1.35亿美元Series A。
+- 领域：AI coding agent、软件工厂、企业软件自动化。
+- 事件：8090 Labs为Software Factory完成1.35亿美元Series A，Chamath Palihapitiya亲自担任CEO。这个项目要做的不是单一代码补全，而是把软件需求、代码生成、测试、部署和企业流程打包成更自动化的“软件工厂”。
+- 来源：TechCrunch，https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/
+- 对普通人的提示：富豪资本押注AI coding，真正需要的是能把模型、产品需求、测试、DevOps、安全和企业采购接起来的人。机会在Agent workflow、自动化测试、内部工具、软件交付、企业实施和安全审查。
+
+【平民消费】
+- 花钱主体：购买新能源车、家电、手机数码、AI眼镜和离线AI记事设备的消费者；电商平台和线下门店。
+- 热门品类：AI智能眼镜、AI note-taking device、新能源车、绿色智能家电、手机数码、家装厨卫。
+- 代表产品：Rokid、Xreal/雷鸟、小米AI眼镜、华为智能眼镜、Pocket、比亚迪/理想新能源车、绿色智能空调和冰箱。
+- 品类金额/增速：国家发展改革委口径显示，五大类以旧换新带动销售额超过1.1万亿元；智能眼镜等新型可穿戴智能设备零售额同比增长超过1倍；Pocket完成1100万美元融资，继续押注离线AI记事硬件。
+- 昨日最火消费品牌（国内）：Rokid、Xreal/雷鸟、小米、华为、京东、比亚迪、理想。
+- 昨日最火消费品牌（国外）：Pocket、Meta Ray-Ban、Apple、Samsung、Amazon、Best Buy。
+- 事件：普通人的钱今天有两条流向：一条是政府补贴继续推动汽车、家电、手机数码和家装厨卫换新；另一条是AI从App走向可穿戴硬件，智能眼镜、AI记录仪和离线记事设备开始争夺随身场景。
+- 来源：国家发展改革委，https://www.ndrc.gov.cn/fzggw/jgsj/zhss/sjdt/202606/t20260629_1399420.html；人民网财经，https://finance.people.com.cn/n1/2026/0629/c1004-40749493.html；TechCrunch，https://techcrunch.com/2026/06/29/pocket-raises-11m-in-bet-on-rising-demand-for-ai-note-taking-devices/
+- 更新点：区别于6月29日按旅游专列和银发文旅入选，今天按“政策补贴+AI随身硬件”入选。
+- 对普通人的提示：机会在AI眼镜渠道销售、硬件产品经理、语音交互、离线模型、门店演示、家电安装、以旧换新核销、二手回收、新能源车售后和消费金融风控。
+
+【高薪职位】
+- 岗位方向：AI coding agent、AI基础设施、功率半导体、HBM/存储、AI数据中心电气、AI消费硬件、发展融资项目交付。
+- 国内扫描来源：BOSS直聘、职友集、猎聘、智联招聘、51job、脉脉高聘、看准网。
+- 中国高薪岗位：
+  1. AI Agent/代码智能体平台架构师：人民币50000至100000元/月，北京/上海/深圳/杭州，5至10年，来源为BOSS直聘和猎聘AI Agent/平台架构岗位样本。
+  2. AI基础设施架构师/推理平台负责人：人民币60000至120000元/月，北京/上海/深圳，5至10年以上，来源为BOSS直聘、猎聘、脉脉高聘样本。
+  3. 功率半导体/电源芯片研发专家：人民币40000至80000元/月，上海/深圳/苏州/无锡，5至10年，来源为猎聘、前程无忧和职友集薪资样本。
+  4. HBM/存储/封装工艺专家：人民币45000至90000元/月，上海/深圳/西安/合肥，5至10年，来源为猎聘、智联招聘、看准网样本。
+  5. 数据中心电气设计/能源系统工程师：人民币30000至65000元/月，北京/上海/杭州/海外项目地，5年以上，来源为猎聘、BOSS直聘、51job样本。
+  6. AI智能眼镜产品经理/硬件算法工程师：人民币30000至70000元/月，深圳/杭州/北京，3至8年，来源为BOSS直聘、猎聘、职友集样本。
+- 国际高薪岗位：
+  1. AI Infrastructure Engineer：美国总包约180000至320000美元/年，Levels.fyi和招聘样本。
+  2. Meta/Nvidia Machine Learning Engineer：美国总包约187000至637000美元/年，Levels.fyi样本。
+  3. Semiconductor Power Device Engineer：美国年薪约140000至260000美元，Glassdoor/Indeed样本。
+  4. Data Center Electrical Engineer：美国典型约98172至166392美元/年，90分位约210579美元/年，Glassdoor样本。
+  5. Product Manager, AI Wearables：美国总包约160000至300000美元/年，Levels.fyi和招聘样本。
+- 来源：BOSS直聘，https://www.zhipin.com/；猎聘，https://www.liepin.com/；前程无忧，https://www.51job.com/；职友集，https://www.jobui.com/；看准网，https://www.kanzhun.com/；Levels.fyi，https://www.levels.fyi/；Glassdoor，https://www.glassdoor.com/
+- 为什么现在高薪：今天的资金流向同时拉动软件自动化、AI数据中心、半导体电源、HBM、数据中心电力和AI随身硬件。能把模型、硬件、电力、产品和企业交付接起来的人，议价能力继续强。
+- 普通人如何切入：技术岗优先补Linux、Kubernetes、GPU推理、Agent评测、自动化测试、半导体基础、数据中心电气和可观测性；产品运营岗优先补消费硬件、渠道、用户研究、售后和补贴政策。
+
+三、今日结论
+- 今天的钱集中在“补贴消费、民生应急、AI数据中心电力、存储芯片、AI软件工厂和AI随身硬件”。
+- 国内政府用625亿元新增资金继续托住耐用品换新；World Bank用11亿美元托底孟加拉国粮食安全和公共服务；Reed Semiconductor的1亿美元融资说明AI数据中心开始为电力效率付钱；韩国科技巨头的5500亿美元级别投资说明存储、HBM和数据中心仍是AI的硬约束；Chamath的8090 Labs把富豪资本押到AI coding agent；普通消费者则把钱投向补贴商品和AI随身硬件。
+- 普通人的机会仍然在交付层：会做政策补贴落地、会做开发项目执行、会做数据中心电力和半导体、会把AI Agent变成可靠软件工厂、会卖和交付AI硬件的人，更靠近今天的钱。

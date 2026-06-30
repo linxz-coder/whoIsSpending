@@ -451,3 +451,27 @@
 
 140) 高薪职位扫描更新：BOSS直聘、猎聘、Levels.fyi和Glassdoor样本显示中国AI基础设施架构师、AI Infra架构师、AI Agent平台架构师、数据中心电气设计，以及美国Meta/Nvidia Machine Learning Engineer、AI Infrastructure Engineer、Data Center Electrical Engineer和Senior HPC Engineer维持高薪区间
 - 已出现日期：2026-06-29
+
+141) 国家发展改革委、财政部下达今年第三批消费品以旧换新资金625亿元，全年三批合计1880亿元，截至6月中旬带动汽车、家电、手机数码、家装厨卫、电动自行车等五大类销售额超过1.1万亿元
+- 已出现日期：2026-06-30
+- 更新点：区别于2026-06-26按花呗分期、国家贴息和商家免息入选，今日按中央财政资金拨付和五大类耐用品实际销售拉动入选
+
+142) World Bank向孟加拉国提供11亿美元紧急支持，覆盖粮食安全、营养、农村生计、社会保护、健康和教育等方向
+- 已出现日期：2026-06-30
+- 更新点：区别于2026-06-25的孟加拉国金融部门4.5亿美元支持项目，今日按应急与民生支持包入选
+
+143) Reed Semiconductor完成1亿美元融资，用于AI数据中心电源、功率半导体、电力转换和能效相关研发及商业化
+- 已出现日期：2026-06-30
+
+144) 韩国Samsung、SK Hynix、SK Group、GS Group、Naver等科技企业围绕存储芯片、HBM、半导体和AI数据中心推进约5500亿美元级别投资规划，其中Samsung和SK Hynix半导体投资口径合计约800万亿韩元/约5180亿美元
+- 已出现日期：2026-06-30
+
+145) Chamath Palihapitiya旗下8090 Labs为AI coding company Software Factory完成1.35亿美元Series A，Salesforce Ventures、Sutter Hill Ventures、Insight Partners、Databricks Ventures和David Sacks等参与
+- 已出现日期：2026-06-30
+
+146) 平民消费更新：以旧换新五大类带动销售额超过1.1万亿元，智能眼镜等新型可穿戴智能设备零售额同比增长超过1倍，Pocket完成1100万美元融资押注离线AI记事硬件，消费流向从暑期文旅切到政策补贴与AI随身硬件
+- 已出现日期：2026-06-30
+- 更新点：区别于2026-06-29按旅游专列和银发文旅入选，今日按政策补贴与AI随身硬件入选
+
+147) 高薪职位扫描更新：BOSS直聘、职友集、猎聘、智联招聘、51job、脉脉高聘、看准网、Levels.fyi和Glassdoor样本显示中国AI Agent/代码智能体平台架构师、AI基础设施架构师、功率半导体/电源芯片研发专家、HBM/存储/封装工艺专家、数据中心电气设计/能源系统工程师、AI智能眼镜产品经理，以及美国AI Infrastructure Engineer、Meta/Nvidia Machine Learning Engineer、Semiconductor Power Device Engineer、Data Center Electrical Engineer和Product Manager, AI Wearables维持高薪区间
+- 已出现日期：2026-06-30
