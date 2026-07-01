@@ -1,0 +1,27 @@
+谁在花钱｜本月去重清单
+月份：2026-07
+
+使用规则：
+- 同一自然月内，已发布且“主体+事件+金额”相同的新闻不得重复入选。
+- 只有出现明确更新（金额变化、交易正式落地、官方新增公告）才允许再次入选，并需在正文点明更新点。
+
+1) 中国人民银行7月1日开展1000亿元7天期逆回购，操作利率1.40%；6月30日隔夜逆回购工具落地后继续维护短端流动性
+- 已出现日期：2026-07-01
+
+2) World Bank向肯尼亚提供7.5亿美元Development Policy Operation，其中IBRD 3.4亿美元、IDA 4.1亿美元，用于治理、公共财政管理、电子采购和社会保护
+- 已出现日期：2026-07-01
+
+3) Etched披露累计融资8亿美元，投资方包括Jane Street和TSMC相关VentureTech Alliance，并称已有超过10亿美元客户合同
+- 已出现日期：2026-07-01
+
+4) AWS投入10亿美元建立Forward Deployed Engineering组织，把AI工程师和agent嵌入客户团队以加速企业AI落地
+- 已出现日期：2026-07-01
+
+5) General Intuition完成3.2亿美元Series A，投后估值约23亿美元，Bezos Expeditions、Hillspire和Nico Rosberg等参与，押注基于游戏数据的Physical AI
+- 已出现日期：2026-07-01
+
+6) 618后消费信号显示AI智能硬件、AI眼镜、智能家居、兴趣手作和本地服务消费继续增长：Rokid智能眼镜同比5倍、京东3C AI趋势品类同比100%、家电家居智能化新品同比20倍、MARD环比100%、京东家政同比超200%
+- 已出现日期：2026-07-01
+
+7) 高薪职位扫描更新：BOSS直聘、猎聘、中新经纬、Levels.fyi和KORE1样本显示中国AI FDE、大模型工程架构师、AI Infra架构师、AI芯片架构师、Physical AI/机器人算法，以及美国FDE、ML/AI Software Engineer和AI Infrastructure Engineer维持高薪区间
+- 已出现日期：2026-07-01

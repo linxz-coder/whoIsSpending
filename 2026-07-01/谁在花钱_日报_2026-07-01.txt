@@ -1,0 +1,90 @@
+谁在花钱｜每日花钱新闻日报
+日期：2026-07-01
+
+一、今日要点
+- 国内政府资金今天主要体现为短端流动性维护。央行7月1日开展1000亿元7天期逆回购，利率1.40%；6月30日刚完成695亿元7天期逆回购和6000亿元隔夜逆回购。
+- 国际开发资金继续流向公共财政和社会保护。World Bank向肯尼亚提供7.5亿美元发展政策融资，用于治理、公共财政管理、电子采购和社会救助。
+- 投资机构的钱继续追AI推理芯片。Etched披露累计融资8亿美元，投资方包括Jane Street和TSMC相关VentureTech Alliance，并称已有超10亿美元客户合同。
+- 企业资本今天押注AI落地服务，而不只是模型和算力。AWS投入10亿美元建立Forward Deployed Engineering组织，把AI工程师嵌入客户团队。
+- 富豪资本继续转向Physical AI。General Intuition完成3.2亿美元Series A，Bezos Expeditions、Eric Schmidt/Hillspire、Nico Rosberg等参与。
+- 平民消费从618后继续指向AI硬件、智能家居、兴趣消费和服务消费，Rokid、雷鸟/Xreal、小米、华为、MARD、Meta Ray-Ban和Pocket等品牌热度更高。
+- 高薪岗位集中在AI FDE、AI基础设施、大模型推理平台、AI芯片、Physical AI、AI智能硬件和公共财政数字化。
+
+二、分项日报
+
+【政府】
+- 花钱主体：中国人民银行
+- 金额：7月1日1000亿元7天期逆回购，操作利率1.40%；6月30日695亿元7天期逆回购和6000亿元隔夜逆回购作为背景。
+- 领域：货币政策、公开市场操作、银行体系流动性。
+- 事件：央行7月1日在公开市场开展1000亿元7天期逆回购操作。结合6月29日、6月30日新增隔夜逆回购品种和6月30日6000亿元隔夜逆回购，政策信号不是大水漫灌，而是用更短期限、更灵活的工具平滑跨季和月初资金波动。
+- 来源：证券时报/人民财讯，https://www.stcn.com/article/detail/3991332.html；每日经济新闻，https://www.nbd.com.cn/articles/2026-06-30/4442436.html
+- 更新点：7月新月首次入选，区别于6月下旬多次逆回购条目，今天按7月1日1000亿元7天期操作和隔夜工具落地后的连续维护入选。
+- 对普通人的提示：机会不在“炒资金面”，而在金融机构资金系统、流动性管理、银行同业业务、债券交易支持、监管报送、风险管理和企业现金管理工具。
+
+【国际政府与开发资金】
+- 花钱主体：World Bank Group / Kenya
+- 金额：7.5亿美元Development Policy Operation，其中IBRD贷款3.4亿美元、IDA优惠融资4.1亿美元。
+- 领域：治理改革、公共财政管理、电子政府采购、社会保护、难民和接收社区生计支持。
+- 事件：World Bank支持肯尼亚推进问责、公共财政和社会保护改革。资金重点不是建单个项目，而是把公共资源管理、反腐、政府采购透明度、国库单一账户和社会救助登记系统连起来，减少泄漏并提高救助触达效率。
+- 来源：World Bank，https://www.worldbank.org/en/news/press-release/2026/06/30/world-bank-supports-kenyas-push-for-stronger-accountability-and-social-protection；Xinhua，https://english.news.cn/africa/20260630/cb2425da998c4f9e8ec8f791e2b96a8d/c.html
+- 对普通人的提示：开发资金正在购买“治理能力”。机会在电子采购系统、公共财政软件、审计、反腐合规、身份和救助登记、项目评估、数据治理、NGO执行和本地化培训。
+
+【投资机构】
+- 花钱主体：Etched / Jane Street / VentureTech Alliance / Stripes / Ribbit Capital / Hudson River Trading / Two Sigma等
+- 金额：累计融资8亿美元；公司披露超10亿美元客户合同；估值口径约50亿美元。
+- 领域：AI推理芯片、Transformer专用芯片、数据中心硬件、AI基础设施。
+- 事件：Etched披露已完成大额融资并走出隐身状态。它的方向不是训练通用GPU，而是针对Transformer推理优化的芯片和整机系统。Jane Street、Hudson River Trading、Two Sigma这类交易公司进入投资名单，说明低延迟、大规模推理已经不只是云厂商的问题，也开始接近高频交易、金融模型和实时决策场景。
+- 来源：TechCrunch，https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/；The Next Web，https://thenextweb.com/news/etched-800-million-jane-street-tsmc-inference-chip
+- 对普通人的提示：AI硬件机会不只在GPU。推理芯片、系统验证、编译器、算子优化、低延迟网络、客户侧部署、芯片销售工程和可靠性测试都会继续吃到钱。
+
+【企业】
+- 花钱主体：Amazon Web Services
+- 金额：10亿美元。
+- 领域：Agentic AI、Forward Deployed Engineering、企业AI交付、云服务、行业解决方案。
+- 事件：AWS宣布投入10亿美元建立Forward Deployed Engineering组织，把AI工程师和专用agent直接嵌入客户团队，目标是把企业AI部署从“几个月咨询项目”压缩到“几天可运行方案”。这笔钱说明企业AI的瓶颈正在从“有没有模型”变成“能不能接入客户真实数据、权限、流程、安全和运维”。
+- 来源：Amazon，https://www.aboutamazon.com/news/aws/aws-1-billion-forward-deployed-ai-engineers；TechCrunch，https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/
+- 对普通人的提示：机会在FDE、售前解决方案、AI项目经理、数据治理、权限系统、企业集成、合规、安全评估、运维和行业知识。会把AI demo变成生产系统的人更值钱。
+
+【富豪资本】
+- 花钱主体：General Intuition / Khosla Ventures / General Catalyst / Bezos Expeditions / Hillspire / Nico Rosberg
+- 金额：3.2亿美元Series A；投后估值约23亿美元；累计披露融资约4.54亿美元。
+- 领域：Physical AI、游戏数据训练、动作模型、机器人、世界模型。
+- 事件：General Intuition用游戏玩家的行为数据训练能“行动”的AI，融资名单里有Jeff Bezos相关的Bezos Expeditions、Eric Schmidt相关的Hillspire和赛车手Nico Rosberg。富豪资本押的不是普通聊天机器人，而是把AI从文字和代码推进到空间、动作、机器人和物理世界。
+- 来源：Axios，https://www.axios.com/2026/06/26/general-intuition-ai-gaming；TechCrunch，https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/
+- 对普通人的提示：机会在机器人数据、仿真环境、游戏引擎、动作捕捉、强化学习、低成本真实世界数据采集、机器人测试和具身智能产品化。
+
+【平民消费】
+- 花钱主体：购买AI硬件、智能家居、兴趣手作和服务消费的消费者；电商平台和线下履约服务商。
+- 热门品类：AI智能硬件、AI眼镜、AIPC、大屏AI手机、智能学习机、家电家居智能化新品、AI迷你工作站、AI感知设备、手作兴趣消费、家政和护理服务。
+- 代表产品：Rokid智能眼镜、雷鸟/RayNeo、Xreal、小米和华为AI眼镜、AIPC、大屏AI手机、智能学习机、AI迷你工作站、MARD拼豆材料和工具、家政保洁、护士到家、Pocket离线AI记事设备。
+- 品类金额/增速：新华社报道显示，Rokid智能眼镜电商平台总销售额同比增长5倍；京东3C数码AI趋势产品成交额同比增长100%；家电家居智能化新品成交额同比增长20倍；AI迷你工作站和AI感知设备成交额同比增长超20倍；MARD马尔德网店销售环比增长100%、日均销售额超过20万元；京东家政日常保洁成交额同比增长超200%，护士到家失能照护服务订单量同比增长超4倍。Pocket则称其AI记事硬件自上市以来销量超过13万台，并完成1100万美元融资。
+- 昨日最火消费品牌（国内）：Rokid、雷鸟/RayNeo、Xreal、小米、华为、MARD马尔德、京东。
+- 昨日最火消费品牌（国外）：Meta Ray-Ban、Apple、Samsung、Pocket、Amazon、Best Buy。
+- 事件：普通人的钱在618后继续流向两类东西：一类是AI硬件，从AI眼镜、AIPC、大屏AI手机到智能学习机；另一类是能直接改善生活体验的服务和兴趣消费，包括家政、护理、手作和户外体验。
+- 来源：新华社，https://www.news.cn/fortune/20260619/436ce168859c4a7c814b19f1477948e5/c.html；TechCrunch，https://techcrunch.com/2026/06/29/pocket-raises-11m-in-bet-on-rising-demand-for-ai-note-taking-devices/
+- 对普通人的提示：机会在AI硬件门店演示、直播销售、硬件售后、语音交互、离线记录、智能家居安装、手作兴趣社群、家政履约、护理服务排班和本地生活运营。
+
+【高薪职位】
+- 岗位方向：AI FDE/前线部署工程师、AI基础设施架构师、大模型推理平台架构师、AI芯片架构师、Physical AI/机器人工程师、AI智能硬件产品和算法、公共财政数字化。
+- 国内扫描来源：BOSS直聘、猎聘、中新经纬、职友集、看准网。
+- 中国高薪岗位：
+  1. AI FDE/行业解决方案工程师：人民币35000至80000元/月，常见15薪，北京/上海/深圳/杭州，3至8年，来源为中新经纬对BOSS直聘、猎聘等平台岗位样本的汇总。
+  2. 大模型工程架构师/推理平台负责人：人民币50000至80000元/月，部分16薪，北京/杭州/深圳，3至8年以上，来源为BOSS直聘大模型工程架构师样本。
+  3. AI Infra架构师：人民币30000至70000元/月，部分15薪，北京/杭州/深圳，3至8年，来源为BOSS直聘AI Infra/基础设施架构师样本。
+  4. AI芯片架构师/NPU/推理芯片架构师：人民币70000至110000元/月，北京/上海/深圳，5年以上，来源为猎聘AI芯片架构师样本。
+  5. Physical AI/机器人算法工程师：人民币40000至90000元/月，上海/深圳/北京/杭州，3至8年，来源为BOSS直聘、猎聘和机器人公司岗位样本。
+  6. AI智能眼镜产品经理/硬件算法工程师：人民币30000至70000元/月，深圳/杭州/北京，3至8年，来源为BOSS直聘、猎聘、职友集样本。
+- 国际高薪岗位：
+  1. Forward Deployed Engineer：美国约162000至300000美元/年，OpenAI和Anthropic招聘口径。
+  2. ML / AI Software Engineer：美国总包中位数约242000美元/年，Levels.fyi样本。
+  3. AI Infrastructure Engineer：美国总包约180000至320000美元/年，Levels.fyi和招聘样本。
+  4. AI Chip / Inference Systems Engineer：美国约160000至300000美元/年，芯片和AI硬件岗位样本。
+  5. Robotics / Physical AI Research Engineer：美国约180000至350000美元/年，机器人和具身智能公司样本。
+- 来源：中新经纬，https://www.jwview.com/jingwei/html/m/06-05/673690.shtml；BOSS直聘，https://www.zhipin.com/；猎聘，https://www.liepin.com/；Levels.fyi，https://www.levels.fyi/t/software-engineer/focus/ml-ai；KORE1，https://www.kore1.com/ai-engineer-salary-guide/
+- 为什么现在高薪：今天的资金流向同时拉动了金融系统、公共财政数字化、AI推理芯片、企业AI落地、Physical AI和AI消费硬件。高薪不是给“会用AI工具的人”，而是给能把模型、芯片、数据、客户业务、权限、安全和真实交付接起来的人。
+- 普通人如何切入：技术岗优先补Linux、Kubernetes、GPU推理、模型服务、编译器、芯片基础、机器人仿真、数据治理和安全；产品/运营岗优先补行业流程、客户调研、售前方案、项目管理、AI硬件渠道、线下履约和合规表达。
+
+三、今日结论
+- 今天的钱集中在“短端流动性、公共财政改革、AI推理芯片、企业AI最后一公里、Physical AI、AI消费硬件和FDE高薪岗位”。
+- 央行用1000亿元7天期逆回购继续维护资金面；World Bank用7.5亿美元支持肯尼亚公共财政和社会保护；Etched的8亿美元融资说明推理芯片成为AI投资机构新焦点；AWS的10亿美元FDE投入说明企业AI真正缺的是落地队伍；General Intuition的3.2亿美元融资说明富豪资本正在押注能行动的AI；普通消费者则继续把钱花在AI硬件、智能家居、兴趣消费和本地服务上。
+- 普通人的机会更靠近交付层：会管资金系统、会做公共财政数字化、会把AI接进企业流程、会做推理芯片和机器人、会卖和服务AI硬件的人，更靠近今天的钱。

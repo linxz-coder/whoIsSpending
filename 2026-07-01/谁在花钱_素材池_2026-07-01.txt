@@ -1,0 +1,77 @@
+谁在花钱｜素材池
+日期：2026-07-01
+
+1) 政府
+- 标题：央行7月1日开展1000亿元7天期逆回购；6月30日还曾开展695亿元7天期逆回购和6000亿元隔夜逆回购。
+- 主体：中国人民银行
+- 金额：7月1日1000亿元7天期逆回购，操作利率1.40%；6月30日695亿元7天期逆回购和6000亿元隔夜逆回购。
+- 领域：货币政策、短端流动性、银行体系资金面。
+- 主来源：证券时报/人民财讯，https://www.stcn.com/article/detail/3991332.html
+- 交叉来源：每日经济新闻，https://www.nbd.com.cn/articles/2026-06-30/4442436.html
+- 备注：今天写7月1日1000亿元操作，6月30日隔夜工具作为背景，不重复写6月22-23已入选的逆回购条目。
+
+2) 国际政府与开发资金
+- 标题：World Bank向肯尼亚提供7.5亿美元DPO，支持治理、公共财政管理和社会保护。
+- 主体：World Bank Group / Kenya
+- 金额：7.5亿美元，其中IBRD 3.4亿美元、IDA 4.1亿美元。
+- 领域：发展政策融资、反腐、电子政府采购、财政账户、社会救助。
+- 主来源：World Bank，https://www.worldbank.org/en/news/press-release/2026/06/30/world-bank-supports-kenyas-push-for-stronger-accountability-and-social-protection
+- 交叉来源：Xinhua，https://english.news.cn/africa/20260630/cb2425da998c4f9e8ec8f791e2b96a8d/c.html
+- 备注：区别于6月30日发布版里的Bangladesh 11亿美元，本期换成Kenya 7.5亿美元。
+
+3) 投资机构
+- 标题：Etched披露累计融资8亿美元，投资方包括Jane Street和TSMC相关VentureTech Alliance，并称已签下超10亿美元客户合同。
+- 主体：Etched / Jane Street / VentureTech Alliance / Stripes / Ribbit Capital等
+- 金额：累计融资8亿美元；公司披露超10亿美元客户合同；估值口径约50亿美元。
+- 领域：AI推理芯片、Transformer专用芯片、AI硬件基础设施。
+- 主来源：TechCrunch，https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/
+- 交叉来源：The Next Web，https://thenextweb.com/news/etched-800-million-jane-street-tsmc-inference-chip
+- 备注：投资机构的钱继续从模型层流向推理芯片和客户订单绑定的硬件。
+
+4) 企业
+- 标题：AWS投入10亿美元建立Forward Deployed Engineering组织，把AI工程师嵌入客户现场。
+- 主体：Amazon Web Services
+- 金额：10亿美元。
+- 领域：Agentic AI、企业AI落地、FDE、云服务、行业解决方案。
+- 主来源：Amazon官方，https://www.aboutamazon.com/news/aws/aws-1-billion-forward-deployed-ai-engineers
+- 交叉来源：TechCrunch，https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/
+- 备注：这不是买GPU，而是企业把钱花在“AI最后一公里交付能力”上。
+
+5) 富豪资本
+- 标题：General Intuition完成3.2亿美元Series A，Bezos Expeditions、Eric Schmidt/Hillspire和Nico Rosberg等参与。
+- 主体：General Intuition / Khosla Ventures / General Catalyst / Bezos Expeditions / Hillspire / Nico Rosberg
+- 金额：3.2亿美元Series A；投后估值约23亿美元；累计披露融资约4.54亿美元。
+- 领域：Physical AI、游戏数据训练、机器人与动作模型。
+- 主来源：Axios，https://www.axios.com/2026/06/26/general-intuition-ai-gaming
+- 交叉来源：TechCrunch，https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/
+- 备注：适合写富豪资本从文本AI继续转向“能行动的AI”。
+
+6) 平民消费
+- 标题：618后消费信号集中在AI硬件、智能家居、服务消费和兴趣消费。
+- 主体：消费者、京东、天猫、Rokid、MARD马尔德、AI硬件品牌和服务履约平台。
+- 热门品类：AI智能硬件、AI眼镜、AIPC、大屏AI手机、智能学习机、家电家居智能化新品、AI迷你工作站、AI感知设备、手作兴趣消费、家政和护理服务。
+- 代表产品：Rokid智能眼镜、雷鸟/Xreal/小米/华为AI眼镜、AIPC、大屏AI手机、智能学习机、AI迷你工作站、MARD拼豆材料和工具、家政保洁、护士到家。
+- 品类金额或增速：Rokid智能眼镜电商平台总销售额同比增长5倍；京东3C数码AI趋势产品成交额同比增长100%；家电家居智能化新品成交额同比增长20倍；AI迷你工作站和AI感知设备成交额同比增长超20倍；MARD马尔德网店销售环比增长100%、日均销售额超过20万元；京东家政日常保洁成交额同比增长超200%，护士到家失能照护服务订单量同比增长超4倍。
+- 昨日最火消费品牌（国内）：Rokid、雷鸟/RayNeo、Xreal、小米、华为、MARD马尔德、京东。
+- 昨日最火消费品牌（国外）：Meta Ray-Ban、Apple、Samsung、Pocket、Amazon、Best Buy。
+- 主来源：新华社，https://www.news.cn/fortune/20260619/436ce168859c4a7c814b19f1477948e5/c.html
+- 交叉来源：TechCrunch Pocket，https://techcrunch.com/2026/06/29/pocket-raises-11m-in-bet-on-rising-demand-for-ai-note-taking-devices/
+- 备注：今日不再只写以旧换新总额，改写消费品类和品牌流向。
+
+7) 高薪职位
+- 岗位方向：AI FDE/前线部署工程师、AI基础设施架构师、大模型推理平台架构师、AI推理芯片架构师、Physical AI/机器人工程师、AI智能硬件产品与算法、公共财政数字化/电子采购系统。
+- 国内扫描来源：BOSS直聘、猎聘、中新经纬、职友集/看准网样本口径。
+- 国际扫描来源：Levels.fyi、KORE1、OpenAI/Anthropic招聘口径、中新经纬汇总。
+- 典型岗位：
+  - FDE/AI行业解决方案工程师：国内核心岗位月薪约35000至80000元，15薪；低职级约20000至30000元/月，高职级年包多在40万元以上。
+  - 大模型工程架构师/推理平台：北京/杭州/深圳样本约50000至80000元/月，部分16薪。
+  - AI Infra架构师：约30000至70000元/月，15薪口径较多。
+  - AI芯片架构师/NPU/推理芯片：猎聘样本约70000至110000元/月，部分15薪或14薪。
+  - 国际FDE：OpenAI约16.2万至28万美元/年，Anthropic约20万至30万美元/年；AI/ML Software Engineer美国总包中位数约24.2万美元。
+- 来源：
+  - 中新经纬，https://www.jwview.com/jingwei/html/m/06-05/673690.shtml
+  - BOSS直聘架构师样本，https://www.zhipin.com/zhaopin/5704e1da30c6a3e21XJ-3Nq9/
+  - BOSS直聘基础设施架构师样本，https://www.zhipin.com/zhaopin/6367cb173474ae4c0XF-3d0~/
+  - 猎聘AI芯片架构师样本，https://www.liepin.com/zpaixpjgs/
+  - Levels.fyi ML/AI，https://www.levels.fyi/t/software-engineer/focus/ml-ai
+- 风险提示：FDE和AI架构岗高薪集中在能现场落地、能处理客户数据/权限/安全/运维的人，不适合只会写demo的人。
