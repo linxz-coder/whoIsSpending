@@ -25,3 +25,24 @@
 
 7) 高薪职位扫描更新：BOSS直聘、猎聘、中新经纬、Levels.fyi和KORE1样本显示中国AI FDE、大模型工程架构师、AI Infra架构师、AI芯片架构师、Physical AI/机器人算法，以及美国FDE、ML/AI Software Engineer和AI Infrastructure Engineer维持高薪区间
 - 已出现日期：2026-07-01
+
+8) 中国人民银行7月2日开展2885亿元7天期逆回购，操作利率1.40%，继续维护银行体系短端流动性
+- 已出现日期：2026-07-02
+
+9) World Bank批准7亿美元Jordan Growth and Competitiveness Development Policy Financing II，支持约旦私人投资、融资可得性、就业、绿色和数字转型
+- 已出现日期：2026-07-02
+
+10) Together AI完成8亿美元Series C，投后估值83亿美元，领投方Aramco Ventures，资金用于开源模型云、推理服务和基础设施扩容
+- 已出现日期：2026-07-02
+
+11) Brookfield和Bloom Energy把AI基础设施电力融资框架从50亿美元扩大至250亿美元，用于燃料电池和AI数据中心快速供电
+- 已出现日期：2026-07-02
+
+12) Kenneth C. Griffin向Breakthrough Miami捐赠200万美元，用于学生领导力、教学助理/教学研究员和教育服务人才管线
+- 已出现日期：2026-07-02
+
+13) 2026暑运启动，铁路预计发送旅客10.1亿人次、民航暑运预计1.42亿人次，亲子、研学、避暑康养和夜间演艺体验消费升温
+- 已出现日期：2026-07-02
+
+14) 高薪职位扫描更新：AI FDE、大模型算法、AI基础设施、机器人/具身智能、数据中心电力/能源工程师，以及美国ML/AI Software Engineer、FDE、Senior AI Engineer维持高薪区间
+- 已出现日期：2026-07-02
