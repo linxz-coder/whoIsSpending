@@ -1,0 +1,64 @@
+谁在花钱｜素材池
+日期：2026-07-03
+
+本日筛选原则：
+- 避开 2026-07 已发布过的 World Bank Kenya/Jordan、Together AI、Bloom/Brookfield、暑运总量、Ken Griffin 教育捐赠等重复主题。
+- 优先选择有明确金额、主体、用途和普通人机会的条目。
+
+1) 国内政府资金
+- 财政部拟于 2026-07-03 第一次续发行 2026 年超长期特别国债（四期）。
+- 金额：竞争性招标面值总额 800 亿元；30 年期固定利率附息债；票面利率 2.23%；2056-06-25 到期。
+- 背景：2026 年拟发行超长期特别国债 1.3 万亿元，持续支持“两重”建设、“两新”工作、消费品以旧换新、设备更新和财政金融协同促内需。
+- 来源：
+  https://finance.eastmoney.com/a/202607013789646940.html
+  https://www.news.cn/money/20260424/423bf7212b594d26a7aef36adf5a5409/c.html
+
+2) 国际政府与开发资金
+- EBRD 向哈萨克斯坦 KMF Bank 提供最高 5000 万美元融资包。
+- 金额：最高 4000 万美元面向私营中小微企业；最高 1000 万美元纳入 Kazakhstan Women in Business Programme II，支持女性拥有或领导的企业。
+- 附加：配套咨询、培训、网络、导师和知识产品；项目得到哈萨克斯坦政府支持。
+- 来源：
+  https://www.ebrd.com/home/news-and-events/news/2026/ebrd-provides-us--50-million-loan-to-kmf-bank.html
+
+3) 投资机构
+- TwelveLabs 完成 1 亿美元 Series B。
+- 投资方：NEA 和 NAVER Ventures 共同领投，Amazon、Radical Ventures、Korea Investment Partners、Index Ventures、Quadrille Capital、Red Bull Ventures 参投。
+- 用途：从视频理解模型扩展到全栈 agentic video intelligence system；继续投研发，并扩展纽约、伦敦办公室。AWS 成为 preferred cloud provider，双方将优化 Trainium 上的视频推理负载。
+- 来源：
+  https://www.globenewswire.com/news-release/2026/07/01/3320545/0/en/twelvelabs-raises-100-million-in-series-b-funding-to-build-video-superintelligence.html
+
+4) 企业
+- SK Inc. 与 KKR 签署协议，启动韩国最大可再生能源平台。
+- 金额：平台估值 KRW 2 万亿，约 13 亿美元。
+- 规模：已运营约 1.7GW，可开发管线使总容量达到 10GW；目标需求来自 AI 数据中心、半导体生产线和大型工业用户。公告称 10GW 可持续供电 100 个 100MW 级大型数据中心。
+- 来源：
+  https://www.businesswire.com/news/home/20260625373798/en/SK-and-KKR-Launch-Koreas-Largest-Renewable-Energy-Platform
+
+5) 富豪资本
+- Ken Griffin/Citadel 通过匿名 LLC 用约 1.25 亿美元买下 Miami Brickell Solaris condominium 全部 138 套公寓和底层零售空间，为拆除并建设 Citadel 新总部扫清障碍。
+- 后续项目：计划包括 25 亿美元、54 层 Citadel 总部塔楼，300 套公寓、1420 个车位停车楼，并可能加入酒店；Griffin 在 Miami 房地产已投入超过 10 亿美元。
+- 来源：
+  https://nypost.com/2026/07/02/real-estate/ken-griffin-bought-a-miami-condo-building-one-by-one-just-to-tear-it-down/
+
+6) 平民消费
+- 暑期文旅从交通出行继续扩展到“消费券 + 平台补贴 + 夜游/研学/演艺/酒店民宿”。
+- 浙江：发放 2645 万元专项文旅消费券；携程、美团、同程三大平台累计投入 2.19 亿元补贴；飞猪和淘宝闪购提供酒店、景区、红包福利；7 家金融机构投入 2400 余万元补贴。
+- 四川：3000 万元“锦绣天府·安逸四川”文旅消费券；昆明：1000 万元彩云美物消费券；横琴：首期 5000 万元“文旅畅游·乐购横琴”消费券。
+- 来源：
+  https://m.thepaper.cn/newsDetail_forward_33491922
+
+7) 高薪职位
+- 国内平台扫描：
+  - 职友集：大模型算法工程师 2026-07-03 近一年 5233 份样本，66.4% 岗位拿 30K-50K 以上/月；职位需求 2810 个；北京、上海、深圳集中。
+  - BOSS 直聘搜索样本：算法/多模态/三维重建/具身操作等岗位在招，应届和校招样本出现 16K-40K 区间；多模态岗位要求图像、视频、文本融合分析与理解。
+  - 猎聘搜索样本：数据中心高级工程师、电源电气工程师等岗位出现 17K-40K 区间，AI 数据中心电气相关岗位保持招聘。
+- 国际平台扫描：
+  - Levels.fyi：美国 Machine Learning Engineer 平均总包约 272000 美元/年。
+  - Google MLE：美国区 199000-743000 美元/年，median 约 290000 美元/年。
+  - Meta MLE：美国区 187000-644000 美元/年，median 约 476000 美元/年。
+- 来源：
+  https://www.jobui.com/salary/quanguo-damoxingsuanfagongchengshi/
+  https://www.zhipin.com/zhaopin/b31fa28319d5cdff1nZ93dq1GA~~/
+  https://www.liepin.com/zpsjzxgjgcs1en8/
+  https://www.levels.fyi/t/software-engineer/title/machine-learning-engineer
+  https://www.levels.fyi/companies/google/salaries/software-engineer/title/machine-learning-engineer
