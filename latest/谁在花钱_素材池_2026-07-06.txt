@@ -1,0 +1,90 @@
+谁在花钱｜素材池
+日期：2026-07-06
+
+本日筛选原则：
+- 目标日期为周一，使用 2026-07-04 至 2026-07-06 期间可核验线索，并补入 2026-07-01 至 2026-07-03 未被 7 月清单使用过的重大资金事件。
+- 避开 2026-07 已发布过的 World Bank Kenya/Jordan、Together AI、Brookfield/Bloom、TwelveLabs、SK/KKR、暑运总量、Ken Griffin 房地产等重复主题。
+- 优先选择有明确金额、主体、用途、产业链流向和普通人机会的条目。
+
+1) 国内政府资金
+- 标题：中国人民银行 7 月 6 日开展 10000 亿元 3 个月期买断式逆回购操作。
+- 主体：中国人民银行。
+- 金额：10000 亿元，期限 3 个月（91 天）；因本月有 8000 亿元同期限买断式逆回购到期，媒体口径测算为净投放 2000 亿元。
+- 领域：货币政策、银行间流动性、金融市场、债券交易。
+- 主来源：
+  https://wap.eastmoney.com/a/202607033793821889.html
+  https://m.21jingji.com/article/20260703/herald/42033e540a54aad427e058f2196417c9.html
+- 备注：这不是财政支出，而是央行对银行体系和债券市场投放中期流动性。普通人机会在债券交易、银行同业、资管、资金运营、利率产品、金融数据与合规支持。
+
+2) 国际政府与开发资金
+- 标题：World Bank 批准 2.65 亿美元支持摩洛哥 Ifahsa 抽水蓄能项目。
+- 主体：World Bank Group、摩洛哥。
+- 金额：2.65 亿美元。
+- 领域：抽水蓄能、可再生能源并网、电网韧性、就业。
+- 主来源：
+  https://www.worldbank.org/en/news/press-release/2026/07/01/world-bank-group-and-morocco-partner-to-unlock-the-power-of-next-generation-hydropower
+- 备注：项目用于摩洛哥北部 Ifahsa Pumped Hydropower Storage Project，目标是提升电力系统可靠性、韧性和可再生能源消纳能力。
+
+3) 投资机构
+- 标题：快手旗下可灵 AI 完成近 30 亿美元外部融资。
+- 主体：快手科技、北京可灵、CPE 源峰、国方创投、BlueFive、腾讯、中信证券、中关村科学城基金等。
+- 金额：投资者同意注入 190.471 亿元，融资总额上限 204.471 亿元，约 30 亿美元；投后估值约 180 亿美元。
+- 领域：AI 视频生成、多模态大模型、内容生产、影视广告、出海 AI 工具。
+- 主来源：
+  https://www.news.cn/digital/20260703/bc3f78f1564842758c0cb82e9e4e8aa5/c.html
+  https://companies.caixin.com/m/2026-07-03/102460181.html
+  https://www.prnewswire.com/apac/news-releases/kuaishou-technology-announces-first-quarter-2026-unaudited-financial-results-302782902.html
+- 备注：快手一季报称 Kling AI 2026 年一季度收入超过 6.5 亿元，同比增长超过 300%。本轮钱买的是视频生成模型独立商业化、算力、海外市场和潜在 IPO 路径。
+
+4) 企业
+- 标题：Ecolab 完成约 47.5 亿美元收购 CoolIT，扩大 AI 数据中心液冷平台。
+- 主体：Ecolab、CoolIT Systems。
+- 金额：约 47.5 亿美元。
+- 领域：AI 数据中心液冷、芯片制造超纯水、数据中心水系统、冷板和 CDU。
+- 主来源：
+  https://www.businesswire.com/news/home/20260701688440/en/Ecolab-Closes-CoolIT-Acquisition-and-Expands-AI-Cooling-Platform-as-Global-High-Tech-Business-Targets-%244-Billion-by-2030
+- 备注：CoolIT 年初至今销售增长超过 100%，Ecolab 称其 Global High-Tech 业务 2026 年年化销售额接近 15 亿美元，2030 年目标为 40 亿美元。
+
+5) 富豪资本
+- 标题：Premier Lacrosse League 完成 1 亿美元 Series E，Ares 和 Joe Tsai 领投。
+- 主体：Premier Lacrosse League、Ares、Joe Tsai、ESPN、Glen Powell、Rob Mac 等。
+- 金额：1 亿美元。
+- 领域：职业体育、女子体育、媒体版权、青少年体育、LA28 奥运周期。
+- 主来源：
+  https://www.prnewswire.com/news-releases/pll-announces-100-million-series-e-financing-led-by-ares-and-joe-tsai-302814791.html
+  https://apnews.com/article/cc470d320c1fcf34fe1f8b2fae96b0ef
+- 备注：资金用于媒体分发、原创内容、商业赞助、Women's Lacrosse League 和降低青少年参与门槛。富豪资本在买“体育项目进入奥运周期后的增长曲线”。
+
+6) 平民消费
+- 标题：暑期消费券从泛文旅转向细分场景，数码开学、电影、低空文旅、汉服和智能产品被定向补贴。
+- 主体：云南、广西、山东、河南洛阳等地方消费活动，以及门店/平台的数码开学季促销。
+- 金额：云南 7000 万元“彩云文旅消费券”；山东 2000 万元电影惠民消费券；广西数字人民币消费红包；洛阳九轮商文旅综合消费券。
+- 热门品类：手机、平板、电脑、智能穿戴、空调、冰箱、洗衣机、电视、电影、文艺演出、文创产品、低空文旅、汉服体验。
+- 昨日较热消费品牌（国内）：小米、华为、荣耀、淘宝闪购、京东、美团。
+- 昨日较热消费品牌（国外）：Apple、Samsung、Dyson、Disney、Universal、Booking。
+- 主来源：
+  https://finance.sina.cn/2026-07-03/detail-inifpyyu0367602.d.html?cid=76675&node_id=76675&vt=4
+  https://finance.people.com.cn/BIG5/n1/2026/0703/c1004-40752787.html
+  https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/state-of-consumer
+- 备注：消费侧从“总额刺激”转向“精确到场景、品类、支付方式、价格带”的补贴。
+
+7) 高薪职位
+- 国内扫描来源：
+  BOSS 直聘同花顺岗位页：https://www.zhipin.com/zhaopin/57b28787f46ae1351nx73d-6/
+  BOSS 直聘视频生成岗位页：https://www.zhipin.com/zhaopin/c46d2d2b431620a00nV-0ti1Fg~~/
+  职友集 AI 算法薪资页：https://m.jobui.com/gangwei/aisuanfa/
+  猎聘数据中心页：https://www.liepin.com/zpsjzx/
+  智联数据中心电气页：https://m.zhaopin.com/zhaopin/6769290db0614bb589fb39eb205a5f05/
+- 典型国内岗位：
+  1. 视频生成 / 图像视频算法工程师：BOSS 样本出现 35K-60K、50K-80K·15薪。
+  2. AI Infra / 大模型算法工程师：BOSS 样本出现 35K-65K·15薪、40K-70K·15薪。
+  3. 量化算法工程师：BOSS 样本出现 30K-60K·15薪。
+  4. 数据中心负责人 / AI 基础设施与运维：猎聘样本出现 80K-110K。
+  5. 数据中心电气 / 电源工程师：智联和猎聘样本多在 15K-35K 区间，高级岗位更高。
+- 国际扫描来源：
+  Levels.fyi Machine Learning Engineer：https://www.levels.fyi/t/software-engineer/title/machine-learning-engineer
+  Levels.fyi Google MLE：https://www.levels.fyi/companies/google/salaries/software-engineer/title/machine-learning-engineer
+  Levels.fyi Meta MLE：https://www.levels.fyi/companies/facebook/salaries/software-engineer/title/machine-learning-engineer
+- 典型国际岗位：
+  Machine Learning Engineer、Video AI / Computer Vision Engineer、AI Infrastructure Engineer、Data Center Power Engineer、Liquid Cooling / Thermal Engineer。
+- 备注：今天的资金线索解释岗位溢价：可灵融资买视频生成和多模态，Ecolab/CoolIT 买液冷，央行和世行项目买金融、电力和项目执行。
