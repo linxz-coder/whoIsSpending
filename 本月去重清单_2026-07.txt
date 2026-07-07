@@ -88,3 +88,24 @@
 
 28) 高薪职位扫描更新：视频生成/图像视频算法、多模态算法、AI Infra/大模型算法、量化算法、数据中心负责人、电气/电源/液冷工程师，以及美国ML Engineer、AI Infrastructure、Data Center Power、Liquid Cooling岗位继续高薪
 - 已出现日期：2026-07-06
+
+29) 国家发展改革委下达2026年第三批“两重”建设项目，共安排超长期特别国债资金1935亿元；全年共安排8000亿元支持1417个重大项目，项目清单已全部下达完毕
+- 已出现日期：2026-07-07
+
+30) World Bank批准2.25亿美元支持马达加斯加Integrated Urban Development and Resilience Project for Jobs（PRODUIRE2），覆盖Antananarivo和Toamasina城市韧性、基础设施与就业
+- 已出现日期：2026-07-07
+
+31) AI agent工具链融资更新：Bespoke Labs跨seed和Series A合计融资4000万美元，Tsuga完成3500万美元Series A，资金流向agent训练、可观测性、治理和云成本控制
+- 已出现日期：2026-07-07
+
+32) Yara International通过Yara North America以13亿美元收购Gulf Coast Ammonia位于Texas City的氨生产设施，目标资产名义产能约130万吨/年，Yara 2026年capex提高至25亿美元
+- 已出现日期：2026-07-07
+
+33) Trump Accounts上线后进入家庭金融入口阶段：Michael Dell和Susan Dell此前承诺62.5亿美元，本周约8亿美元新资本进入儿童账户，约600万儿童家庭已注册、约140万符合1000美元政府seed money
+- 已出现日期：2026-07-07
+
+34) 暑期消费券继续细分到广东文旅、横琴5000万元促消费、云南7000万元彩云文旅券、广西数字人民币红包、洛阳商文旅券，并通过携程、飞猪、同程、美团、抖音等平台满减拉动景区、演出、酒店、低空文旅和开学数码消费
+- 已出现日期：2026-07-07
+
+35) 高薪职位扫描更新：AI Infra/大模型训练推理、AI Agent平台、AI可观测性/SRE、城市韧性/地下管网/水利、化工/氨装置/HSE，以及美国AI Infrastructure、Observability/SRE、Process/Ammonia、Urban Resilience岗位继续高薪
+- 已出现日期：2026-07-07

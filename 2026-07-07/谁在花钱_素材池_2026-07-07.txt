@@ -1,0 +1,82 @@
+谁在花钱｜素材池
+日期：2026-07-07
+
+一、政府
+
+- 标题：今年“两重”建设项目清单全部下达完毕
+- 主体：国家发展改革委会同有关行业主管部门
+- 金额：第三批共安排超长期特别国债资金 1935 亿元；全年共安排 8000 亿元支持 1417 个重大项目
+- 领域：国家重大战略实施、重点领域安全能力、科技创新、长江流域生态保护修复、交通基础设施、城市地下管网、水利工程、西部陆海新通道、高等教育、“三北”工程
+- 主来源：新华社 / 新华网，https://www.news.cn/government/20260707/cb7739ffca5f43569219d973825baa4b/c.html
+- 交叉来源：人民网、新华财经 / 中国金融信息网、东方财富转新华财经
+- 备注：这不是单个项目开工，而是年度项目清单完成下达；应写成“资金池进入执行期”，机会落在项目申报、EPC、地下管网、水利、环保、轨道交通、科研平台和高校建设。
+
+二、国际政府与开发资金
+
+- 标题：World Bank 批准 2.25 亿美元支持马达加斯加城市韧性与就业
+- 主体：World Bank Group
+- 金额：US$225 million
+- 领域：城市韧性、基础设施、就业、Antananarivo / Toamasina 城市治理
+- 主来源：World Bank 官方新闻稿，https://www.worldbank.org/en/news/press-release/2026/07/06/madagascar-to-boost-urban-resilience-and-jobs-in-antananarivo-and-toamasina
+- 交叉来源：World Bank 项目页 / 官方新闻稿页面
+- 备注：项目名 Integrated Urban Development and Resilience Project for Jobs (PRODUIRE2)。这笔钱买的是城市排水、抗灾基础设施、城市服务和就业项目，不是单纯救助。
+
+三、投资机构
+
+- 标题：AI agent 工具链融资继续向“训练世界”和“可观测性”下沉
+- 主体：Bespoke Labs 投资方；Tsuga 投资方
+- 金额：Bespoke Labs 跨 seed 与 Series A 共 4000 万美元；Tsuga Series A 3000 万欧元 / 3500 万美元
+- 领域：AI agent training platform、AI-native observability、企业 AI 基础设施
+- 主来源 1：Axios Pro，https://www.axios.com/pro/enterprise-software-deals/2026/07/06/bespoke-labs-training-ai-agents
+- 主来源 2：Tsuga 官方新闻稿，https://www.tsuga.com/resources/blog/pr/tsuga-raises-35-million-series-a
+- 交叉来源：TNW、The SaaS News、Arab Founders
+- 备注：这类钱不直接买大模型，而是买 agent 上线后的训练、评测、监控、日志、治理和成本控制。
+
+四、企业
+
+- 标题：Yara 13 亿美元收购 Gulf Coast Ammonia 德州氨厂
+- 主体：Yara International ASA / Yara North America
+- 金额：US$1.3 billion；Yara 2026 年总 capex 因此增至 25 亿美元；目标资产名义产能约 130 万吨/年
+- 领域：氨、化肥、工业气体、农业投入品、美国能源成本对冲
+- 主来源：Yara 官方公告，https://www.yara.com/corporate-releases/yara-acquires-gulf-coast-ammonia-plant/
+- 交叉来源：Lotus Infrastructure PRNewswire、WSJ、BIC Magazine
+- 备注：这笔钱买的是低成本美国天然气、氨产能、港口/管线/储运和全球化肥供应韧性。不要写成绿色氢已商业化，重点是基础化工产能与能源敞口。
+
+五、富豪资本
+
+- 标题：Trump Accounts 正式启动，Dell 夫妇 62.5 亿美元承诺进入儿童投资账户叙事
+- 主体：Michael Dell、Susan Dell、Ray Dalio / Barbara Dalio 等高净值捐赠人；美国财政部
+- 金额：Dell 夫妇承诺 62.5 亿美元；官方活动称本周将有约 8 亿美元新资本进入儿童账户；Treasury / TIME 口径显示约 600 万儿童家庭已注册，其中约 140 万符合 1000 美元政府 seed money
+- 领域：儿童投资账户、指数基金、长期储蓄、金融教育、私人财富公共政策化
+- 主来源：TIME，https://time.com/article/2026/07/06/trump-accounts-explained-children-investments-what-parents-should-know/
+- 官方来源：U.S. Treasury，https://home.treasury.gov/news/press-releases/sb0554
+- 交叉来源：White House Dell gift release、AP、The Guardian
+- 备注：富豪资本不是买公司，而是通过捐赠和制度设计影响未来家庭资产配置入口。正文需提示争议：受益可能更多流向有持续缴款能力的家庭。
+
+六、平民消费
+
+- 热门品类：暑期文旅、酒店住宿、景区门票、演出、文创、餐饮零售、低空文旅、汉服体验、开学数码
+- 代表产品：广东文旅消费券、横琴 5000 万元“文旅畅游·乐购横琴”、云南 7000 万元“彩云文旅消费券”、广西数字人民币消费红包、洛阳九轮商文旅综合消费券、携程/飞猪/同程/美团/抖音平台满减
+- 品类金额或增速：横琴 5000 万元；云南 7000 万元；各地暑期消费券与平台补贴分散投放；携程暑期长线避暑、森林康养、水上乐园、演唱会带动城市旅游订单增长
+- 昨日最火消费品牌（国内）：携程、飞猪、美团、抖音、长隆、方特
+- 昨日最火消费品牌（国外）：Trip.com、Disney、Universal、Apple、Samsung、Booking
+- 主来源：中国金融信息网 / 证券日报，https://www.cnfin.com/hg-lb/detail/20260703/4435039_1.html
+- 交叉来源：人民网、证券时报、南方财经、携程暑期旅游趋势报道
+- 备注：今天和 7 月 6 日消费券条目相近，但更新点是广东暑期文旅券、横琴 5000 万元、平台联动和“演出/森林康养/水上乐园”消费场景，不重复写成云南/山东/广西/洛阳本身。
+
+七、高薪职位
+
+- 岗位方向：AI Infra / 大模型训练推理、AI Agent 平台、AI 可观测性 / SRE、城市韧性与地下管网、水利 / 海绵城市、化工 / 氨装置 / HSE、项目融资与基建投后管理
+- 国内扫描来源：BOSS 直聘、猎聘、职友集、智联招聘、51job、看准网
+- 典型岗位与薪资：
+  1. AI Infra / 大模型训练推理工程师：人民币 35000 至 100000 元/月，常见 15 薪，北京、深圳、杭州，BOSS 样本含腾讯 AI Infra 70K-100K·15薪、同花顺 AI infra 35K-65K·15薪。
+  2. AI Agent 平台工程师：人民币 25000 至 60000 元/月，常见 15 薪，广州、深圳、北京、成都，BOSS 样本含腾讯 AI Agent 平台 25K-60K·15薪。
+  3. 城市韧性 / 地下管网 / 水利项目经理：人民币 20000 至 50000 元/月，8 年以上项目经验更高，参考猎聘、智联、51job 市政工程和水利工程岗位。
+  4. 化工工程师 / 氨装置工艺工程师：人民币 12000 至 40000 元/月；化工厂长 / 生产负责人可到 35000 至 50000 元/月，参考猎聘化工工程师、化工中级工程师和工厂厂长样本。
+  5. HSE / PSM / 装置安全经理：人民币 20000 至 50000 元/月，外企或大型化工装置经验溢价明显，参考猎聘、51job、看准网。
+- 国际薪资参考：
+  1. AI Infrastructure Engineer / AI Platform Engineer：美国约 180000 至 400000 美元/年，参考 Levels.fyi、Glassdoor、Indeed。
+  2. Observability / SRE Platform Engineer：美国约 160000 至 320000 美元/年，参考 Levels.fyi、Glassdoor。
+  3. Process / Ammonia / Chemical Engineer：美国约 100000 至 190000 美元/年，资深项目与 Gulf Coast 装置经验更高，参考 BLS、O*NET、Indeed。
+  4. Urban Resilience / Water Infrastructure PM：美国约 110000 至 220000 美元/年，参考 BLS、O*NET、Indeed。
+- 备注：今天的钱解释岗位溢价：政府“两重”项目带来基建和管网执行岗位；世行城市韧性项目带来水务、排水、城市治理；Yara 氨厂带来化工与 HSE；AI agent 融资带来 AI Infra、SRE 和可观测性岗位。
