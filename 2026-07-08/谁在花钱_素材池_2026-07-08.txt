@@ -1,0 +1,87 @@
+谁在花钱｜素材池
+日期：2026-07-08
+
+一、政府
+
+- 标题：财政部 7 月 8 日招标续发 900 亿元 10 年期附息国债，并发行 300 亿元 63 天贴现国债
+- 主体：中华人民共和国财政部
+- 金额：10 年期附息国债第四次续发行竞争性招标面值总额 900 亿元；63 天贴现国债面值总额 300 亿元；合计 1200 亿元国债发行安排
+- 领域：中央财政融资、国债市场、固定收益、财政金融协同、银行间和交易所债券承销
+- 主来源 1：财政部债务管理司，https://zwgls.mof.gov.cn/ywgg/202607/t20260701_3992669.htm
+- 主来源 2：人民财讯 / 东方财富转财政部贴现国债公告，https://finance.eastmoney.com/a/202607073796479362.html
+- 备注：这是政府融资工具，不直接等同于单项支出。写法应强调中央财政在低利率环境下补充中长期和短期资金，机会落在国债承销、固收交易、利率研究、银行资产负债管理、债券系统和财政资金管理。
+
+二、国际政府与开发资金
+
+- 标题：World Bank 支持巴西 Santa Catarina 州洪灾韧性和就业保护
+- 主体：World Bank Group / Santa Catarina State
+- 金额：US$119.2 million；项目所在州另有多年期 US$1 billion 气候韧性计划
+- 领域：洪水治理、早期预警、河道疏浚、堤防加固、闸门、上游拦洪坝、港口和制造业就业保护
+- 主来源：World Bank 官方新闻稿，https://www.worldbank.org/en/news/press-release/2026/07/02/brazil-world-bank-build-flood-resilience-protect-jobs-santa-catarina-state
+- 交叉来源：World Bank 项目新闻页
+- 备注：项目惠及约 42 万人、54 个市镇；Itajai Valley 创造该州约三分之一就业，Itajai 港是巴西第二大集装箱港之一。过去 1991-2023 年洪水和山体滑坡造成超 72 亿美元经济损失。不要写成单纯救灾，应写成“把港口、制造业和就业稳定纳入气候韧性投资”。
+
+三、投资机构
+
+- 标题：资本继续买 AI 与物理世界的接口：智能眼镜、3D 世界模型、金融决策 AI、工厂 Physical AI
+- 主体：Even Realities、Tripo AI、Taktile、CarbonSix 及其投资方
+- 金额：Even Realities 1.5 亿美元 pre-Series B；Tripo AI 1.5 亿美元扩展 Series A；Taktile 1.1 亿美元 Series C；CarbonSix 4000 万美元 Series A；合计约 4.5 亿美元披露融资
+- 领域：AI 硬件、可穿戴、3D foundation models、world models、金融机构 agentic decision platform、工业机器人与制造自动化
+- 主来源 1：TechCrunch，Even Realities 1.5 亿美元融资，https://techcrunch.com/2026/07/06/smart-glasses-maker-even-realities-hits-1b-valuation-with-150m-funding-led-by-meituan-tencent/
+- 主来源 2：Taktile 官方新闻稿，https://taktile.com/articles/taktile-secures-110m-in-goldman-sachs-led-series-c-to-power-ai-transformation-in-financial-institutions
+- 主来源 3：DEVELOP3D，Tripo AI 1.5 亿美元融资，https://develop3d.com/ai/tripo-ai-150-million-funding-for-3d-foundation-models/
+- 主来源 4：Pulse 2.0，CarbonSix 4000 万美元融资，https://pulse2.com/carbonsix-raises-40-million-series-a-to-deploy-physical-ai-across-global-manufacturing/
+- 交叉来源：TechStartups 7 月 6 日融资汇总、The SaaS News、citybiz、Dealroom
+- 备注：本组不要重复 7 月 7 日 Bespoke Labs / Tsuga。今天的重点是“AI 从屏幕和云端走向眼镜、空间模型、金融决策和工厂动作”。岗位机会落在光学显示、边缘 AI、3D 数据、仿真、风控决策、机器人手、工厂部署和客户 ROI。
+
+四、企业
+
+- 标题：Anthropic 与 TeraWulf 签下约 190 亿美元、20 年 AI 数据中心租约
+- 主体：Anthropic / TeraWulf
+- 金额：约 US$19 billion contracted lease revenue over initial 20-year term；约 401 MW critical IT load；TeraWulf 另出售 Abernathy JV 50.1% 权益，释放约 4.5 亿美元投资
+- 领域：AI 数据中心、算力租约、电力容量、Hawesville Kentucky、critical IT load、AI infrastructure campus
+- 主来源：TeraWulf 官方新闻稿，https://investors.terawulf.com/news-events/press-releases/detail/142/terawulf-announces-anthropic-lease-at-justified-data-campus-and-sale-of-majority-interest-in-abernathy-joint-venture-to-fluidstack
+- 交叉来源：WSJ、Data Center Dynamics、Business Insider、MarketWatch
+- 备注：这是企业资本从“买 GPU”升级为“锁电力、锁场地、锁 20 年计算空间”的信号。机会落在电力资源、数据中心开发、关键设施运维、制冷、并网、融资结构、场站改造和客户长约。
+
+五、富豪资本
+
+- 标题：Bernard Arnault 以 5000 万欧元支持 École Polytechnique 建数学与基础科学研究院
+- 主体：Bernard Arnault / École Polytechnique
+- 金额：EUR 50 million
+- 领域：数学、基础科学、AI、量子技术、网络安全、技术主权、顶尖研究人才
+- 主来源：École Polytechnique 官方新闻，https://www.polytechnique.edu/en/news/ecole-polytechnique-establishes-institute-mathematics-and-fundamental-sciences
+- 交叉来源：École Polytechnique press release、Straits Times、WWD / Agache 报道
+- 备注：富豪资本今天不是买公司，而是买基础学科和国家技术主权叙事。研究院未来建筑位于 Palaiseau campus，计划 2030 年前落成，并承载约 400 名教师、博士生和博士后相关生态。
+
+六、平民消费
+
+- 热门品类：暑期文旅、亲子游、研学游、酒店住宿、景区交通、电影暑期档、影院轻食和文创、IP 联名食品、演唱会和商圈联动
+- 代表产品：2026 全国暑期文化和旅游消费季、广东 / 横琴等暑期文旅消费券、香港旅游发展局夏日玩乐包、暑期档电影票、影院 IP 联名餐饮、Trip.com 酒店满额景点交通优惠
+- 品类金额或增速：全国暑期档电影票房已突破 20 亿元；中国电影全产业链产值超 2000 亿元；国家电影局披露电影票房拉动系数 1:15.77；香港夏日玩乐包超 6 万份，Trip.com 酒店订单满港币 1500 元可领景点和交通优惠
+- 昨日最火消费品牌（国内）：携程 / Trip.com、美团、抖音、猫眼、淘票票、万达电影
+- 昨日最火消费品牌（国外）：Disney、Universal、Booking、Airbnb、Apple、Illumination / Minions
+- 主来源 1：中国旅游新闻网，2026 全国暑期文化和旅游消费季主场活动 7 月 8 日在青海海北举办，https://www.ctnews.com.cn/dongtai/content/2026-07/07/content_189376.html
+- 主来源 2：香港旅游发展局夏日盛会，https://www.discoverhongkong.com/tc/events/summer-fun.html
+- 主来源 3：央视财经 / 中国电影报转发，暑期档与影院升级，https://finance.sina.com.cn/wm/2026-07-05/doc-iniftwhw2582792.shtml?froms=ggmp
+- 交叉来源：人民网、证券时报、央视网、香港旅发局、国家电影局 / 市场监管总局相关通知报道
+- 备注：今天消费板块不再重复单纯“各地发券”，而写成“文旅券 + 电影票根 + 影院综合文化空间 + 平台权益”的体验消费组合。
+
+七、高薪职位
+
+- 岗位方向：AI Infra / 大模型训练推理、3D foundation model / world model、Physical AI / 机器人部署、AI 金融风控决策、数据中心电力与关键设施、洪水韧性 / 水利基础设施、文旅和影院复合消费运营
+- 国内扫描来源：BOSS 直聘、猎聘、职友集、智联招聘、51job、看准网
+- 典型岗位与薪资：
+  1. AI Infra / 大模型训练推理工程师：人民币 30000 至 100000 元/月，常见 14-16 薪。猎聘样本含大模型 Infra 40-70k·15薪，BOSS 样本含 Data Infra TL 70-100K·14薪、平头哥 AI Infra 40-70K·16薪。
+  2. 3D / 多模态 / 世界模型算法工程师：人民币 30000 至 80000 元/月，游戏、智能制造、机器人和空间内容平台更集中。
+  3. Physical AI / 机器人软件硬件工程师：人民币 25000 至 70000 元/月，机器人手、视觉、运动控制、工厂部署和售前交付经验有溢价。
+  4. 金融 AI 决策 / 风控策略 / 反欺诈工程师：人民币 25000 至 60000 元/月，银行、保险、互联网金融、合规数据经验有溢价。
+  5. 数据中心电力 / 暖通 / 关键设施工程师：人民币 15000 至 45000 元/月，注册电气、供配电、UPS、柴油发电、液冷和大型园区交付经验有溢价。
+  6. 水利韧性 / 洪水治理 / 港口基础设施项目经理：人民币 18000 至 50000 元/月，水利、市政、EPC、国际开发项目和 GIS / 水文模型经验有溢价。
+- 国际薪资参考：
+  1. ML / AI Software Engineer：美国 Levels.fyi 中位总包约 242000 美元/年。
+  2. AI Infrastructure Engineer：Glassdoor 美国平均约 170000 美元/年，90 分位约 257000 美元/年；加州样本平均约 200000 美元/年。
+  3. Data Center Electrical Engineer：Glassdoor 美国平均约 127000 美元/年，90 分位约 210000 美元/年；Indeed 上 Amazon / Oracle 等数据中心岗位常见 96000 至 184800 美元/年。
+  4. Electrical Engineer：BLS 最近口径电气工程师年薪中位约 111910 美元，高 10% 超 175460 美元。
+- 标准参考来源：BOSS 直聘 AI Infra / 数据中心电力岗位页、猎聘 AI 基础设施岗位页、职友集 AI 工程师薪资页、Levels.fyi ML / AI Software Engineer、Glassdoor AI Infrastructure Engineer / Data Center Electrical Engineer、Indeed 数据中心电气工程师岗位、BLS Electrical and Electronics Engineers
+- 备注：今天的钱解释岗位溢价：1200 亿元国债发行支持固收与财政融资岗位；世行洪水项目带动水利与韧性岗位；约 4.5 亿美元 AI 融资带动端侧、3D、金融决策和工厂 AI；190 亿美元数据中心租约把电力、关键设施和场站开发推到前台；文旅和影院消费把票务、IP、空间运营和本地生活履约继续推热。

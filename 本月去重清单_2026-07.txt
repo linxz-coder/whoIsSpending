@@ -109,3 +109,24 @@
 
 35) 高薪职位扫描更新：AI Infra/大模型训练推理、AI Agent平台、AI可观测性/SRE、城市韧性/地下管网/水利、化工/氨装置/HSE，以及美国AI Infrastructure、Observability/SRE、Process/Ammonia、Urban Resilience岗位继续高薪
 - 已出现日期：2026-07-07
+
+36) 财政部7月8日招标续发2026年记账式附息（十期）国债900亿元，并发行2026年记账式贴现（四十一期）国债300亿元，合计1200亿元中央财政融资安排
+- 已出现日期：2026-07-08
+
+37) World Bank宣布1.192亿美元支持巴西Santa Catarina州洪灾韧性和就业保护，覆盖约42万人、54个市镇，并嵌入该州10亿美元多年期气候韧性计划
+- 已出现日期：2026-07-08
+
+38) AI与物理世界接口融资更新：Even Realities融资1.5亿美元、Tripo AI融资1.5亿美元、Taktile融资1.1亿美元、CarbonSix融资4000万美元，资金流向智能眼镜、3D世界模型、金融AI决策和工厂Physical AI
+- 已出现日期：2026-07-08
+
+39) Anthropic与TeraWulf签署约190亿美元、20年AI数据中心租约，覆盖Kentucky Hawesville Justified Data campus约401MW critical IT load，TeraWulf另出售Abernathy JV 50.1%权益以变现约4.5亿美元投资
+- 已出现日期：2026-07-08
+
+40) Bernard Arnault向École Polytechnique提供5000万欧元捐赠，支持Institute of Mathematics and Fundamental Sciences及Palaiseau campus未来建筑，指向数学、AI、量子和网络安全基础研究
+- 已出现日期：2026-07-08
+
+41) 暑期体验消费更新：2026全国暑期文化和旅游消费季主场活动7月8日在青海海北举办，香港旅发局夏日玩乐包超6万份，暑期档电影票房突破20亿元，影院从票房转向IP联名、餐饮、VR、演唱会和商圈联动
+- 已出现日期：2026-07-08
+
+42) 高薪职位扫描更新：AI Infra/大模型训练推理、3D/世界模型、Physical AI/机器人部署、金融AI决策、数据中心电力/关键设施、洪水韧性/水利基础设施、文旅影院复合消费运营继续高薪
+- 已出现日期：2026-07-08
