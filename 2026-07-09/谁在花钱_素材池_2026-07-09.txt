@@ -1,0 +1,90 @@
+谁在花钱｜素材池
+日期：2026-07-09
+
+一、政府
+
+- 标题：美国财政部安排 220 亿美元 29 年 10 个月期国债再发行，7 月 9 日拍卖
+- 主体：U.S. Department of the Treasury
+- 金额：220 亿美元
+- 领域：政府融资 / 长债 / 利率市场
+- 主来源：https://www.treasurydirect.gov/instit/annceresult/press/preanre/2026/A_20260702_2.pdf
+- 交叉来源：https://www.treasurydirect.gov/auctions/upcoming/
+- 备注：本次为 5% Bonds of May 2056 reopening，auction date 为 2026-07-09，issue date 为 2026-07-15，maturity date 为 2056-05-15。适合写“政府不是项目花钱，而是用超长期债务继续补财政久期和资本市场定价锚”。
+
+二、国际政府与开发资金
+
+- 标题：黑山与 EBRD 签署 3000 万欧元智能交通系统贷款协议
+- 主体：Montenegro Ministry of Finance / EBRD
+- 金额：3000 万欧元
+- 领域：智能交通 / 道路安全 / 欧盟候选国基础设施
+- 主来源：https://www.gov.me/en/article/press-release-from-the-132th-cabinet-session
+- 交叉来源：https://seenews.com/news/ebrd-montenegro-sign-30-mln-euro-intelligent-transport-loan-deal-1297701
+- EBRD 项目页：https://www.ebrd.com/home/work-with-us/projects/psd/56903.html
+- 备注：政府公报口径为 up to EUR 30 million loan agreement；EBRD 项目页描述 sovereign loan envelope up to EUR 37 million。正文按已签署的 3000 万欧元写，说明资金买的是道路智能交通系统、交通数据、道路安全和跨境通行效率。
+
+三、投资机构
+
+- 标题：Paradigm 募集 12 亿美元新基金，投向 crypto、AI、robotics 和 frontier technology
+- 主体：Paradigm
+- 金额：12 亿美元
+- 领域：风险投资 / 前沿技术 / AI / robotics / crypto
+- 主来源：https://techcrunch.com/2026/07/08/crypto-vc-firm-paradigm-raises-1-2b-to-invest-in-technical-frontier-startups/
+- 交叉来源：https://www.coindesk.com/markets/2026/07/08/crypto-vc-paradigm-launches-usd1-2-billion-ai-fund-as-it-broadens-beyond-digital-assets-bbg
+- 备注：Paradigm 从纯 crypto 标签扩展到 technical frontier。可写“资本在 AI、机器人、agentic payments 和可验证计算之间找交叉点”。
+
+- 标题：Serent Capital 募集 13 亿美元 Fund VI
+- 主体：Serent Capital
+- 金额：13 亿美元
+- 领域：私募股权 / B2B software / tech-enabled services / founder-led companies
+- 主来源：https://www.businesswire.com/newsroom?industry=1778653
+- 交叉来源：https://www.morningstar.com/news/business-wire/20260708094037/serent-capital-raises-oversubscribed-13-billion-fund-vi-to-partner-with-founder-led-software-and-technology-enabled-services-companies
+- Serent 官网背景：https://serentcapital.com/
+- 备注：和 Paradigm 放在同一板块，形成“前沿技术 VC + 中小型 B2B 软件 PE”的资金流向对照。
+
+四、企业
+
+- 标题：Meta 在加拿大 Sturgeon County 开建首个加拿大 AI 数据中心
+- 主体：Meta
+- 金额：超过 130 亿加元，约 91 亿美元；另投约 6000 万加元本地道路和水务等基础设施
+- 领域：AI 数据中心 / 电力 / 液冷 / 地方基建
+- 主来源：https://about.fb.com/news/2026/07/breaking-ground-on-metas-first-data-center-in-canada/
+- Meta Data Centers：https://datacenters.atmeta.com/2026/07/hello-sturgeon-county/
+- 交叉来源：https://apnews.com/article/922a7d15ab730ec53b934269fc00a0fa
+- 备注：Meta 官方称约 3000 名 construction workers 在施工高峰期进场，运营期支持 300 多个岗位；AP 口径补充 Greenlight Electricity Center 932MW 天然气电厂供电、闭环冷却不取用周边水源。写作重点是“AI 公司直接买算力、电力、道路和水务配套”。
+
+五、富豪资本
+
+- 标题：SpaceX 总裁 Gwynne Shotwell 夫妇拟向 Trump Accounts 捐赠 SpaceX 股票
+- 主体：Gwynne Shotwell / Robert Shotwell / SpaceX / Trump Accounts
+- 金额：超过 3.2 亿美元，约 200 万股 / 200 多万名儿童每人一股
+- 领域：股权捐赠 / 儿童投资账户 / 金融教育 / 太空公司股权
+- 主来源：https://www.businessinsider.com/spacex-president-donates-stock-to-trump-accounts-2026-7
+- 交叉来源：https://www.thetimes.com/business/companies-markets/article/spacex-donates-shares-2m-children-trump-accounts-programme-ww6dqjp39
+- 政策背景：https://apnews.com/article/c0a6f07548acb9f792be160965fbfbec
+- 备注：7 月 7 日已经写过 Trump Accounts 与 Dell 夫妇 62.5 亿美元承诺；今天只写 Shotwell 新增捐赠，避免把 Dell 旧金额重复成新事件。
+
+六、平民消费
+
+- 标题：2026 年全国暑期文化和旅游消费季启动，超 3 万场活动和超 4.5 亿元消费券补贴
+- 主体：文化和旅游部 / 各地文旅部门 / 银联 / 支付宝 / 大麦 / 滴滴 / 美团等平台
+- 金额：超 4.5 亿元消费券等消费补贴；超 3 万场文旅消费活动
+- 热门品类：消夏避暑、滨海度假、夜间经济、游轮游艇、亲子游乐、研学旅行、非遗美食、博物馆游、观赛旅行
+- 代表产品：景区门票立减、酒店民宿券、暑期自驾季、站点巴士、电影 / 话剧 / Livehouse 折扣场次、夏季酒店民宿和景点特惠、冰雪消费补贴
+- 昨日最火消费品牌（国内）：美团、支付宝、银联、滴滴、大麦、携程 / Trip.com
+- 昨日最火消费品牌（国外）：Disney、Universal、Booking、Airbnb、Apple、Trip.com 国际站
+- 主来源：https://www.news.cn/20260708/b6ca79182f8f4c1bb9ce1e195d4ce344/c.html
+- 交叉来源：https://www.stdaily.com/web/gdxw/2026-07/08/content_544223.html
+- 备注：7 月 8 日已写暑期消费季主场活动和电影票根经济；今天更新点是官方明确超 3 万场活动、超 4.5 亿元消费券及平台权益清单。
+
+七、高薪职位
+
+- 岗位方向：AI Infra / 大模型训练推理、数据中心负责人 / 电气架构、智能交通 ITS、机器人 / Physical AI、B2B SaaS AI 产品化、固定收益与政府债交易
+- 国内扫描来源：
+  - BOSS 直聘：AI Infra 工程师岗位描述覆盖分布式训练、存储、网络架构、TensorRT / ONNX / CANN / vLLM / Megatron 等关键词。
+  - 猎聘：INFRA 工程师页面可见资深 AI Infra 100-120k、AI Infra 70-100k、大模型 Infra 40-70k·15薪等样本；数据中心负责人（AI 基础设施与运维）80-110k；深圳数据中心电气架构师 40-70k。
+  - 智联招聘：AI Infra 高级工程师 4-6.5 万，算法 / 深度学习岗位 1.6-2.6 万至 2-4 万区间。
+  - 职友集：数据中心电气工程师聚合薪资在二三线数据中心城市较普通当地工资有溢价，但一线高端岗位主要由猎聘和 BOSS 样本拉高。
+- 国际扫描来源：
+  - Levels.fyi：Meta Infrastructure 美国 IC4 total compensation median 约 210k 美元/年；Meta Data Center Technician median total compensation 约 204k 美元/年。
+  - Business Insider：Meta 2025 H-1B / visa 数据中 AI research scientist、ML engineer、production engineering、software engineer infrastructure 等 base salary 多在 150k-328k 美元，极端 senior software engineer / research engineer 更高。
+- 对普通人的切入要求：分布式训练系统、GPU / NPU 性能优化、电力与暖通、数据中心施工运维、ITS 集成、交通数据、固定收益定价、SaaS go-to-market 和 AI productization。
