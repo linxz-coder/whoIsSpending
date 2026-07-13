@@ -1,0 +1,113 @@
+谁在花钱｜素材池
+日期：2026-07-13
+
+今日主线：
+- 政府端：财政部 7 月 14 日将招标两只国债，20 年期超长期特别国债 300 亿元、1 年期记账式附息国债 1300 亿元，合计 1600 亿元，资金继续流向中央财政融资、超长期项目资金池、银行券商基金保险等债券配置链条。
+- 国际政府与开发资金：EBRD 7 月 9 日宣布向 Ecobank Senegal 提供最高 1500 万欧元贸易融资便利，7 月 10 日又在 Senegal 启动 SME 支持，开发资金转向西非中小企业、进出口贸易、供应链金融和银行风控。
+- 投资机构：Norm Ai 7 月 7 日完成 1.2 亿美元 Series C、估值 12 亿美元；Prime Intellect 7 月 8 日完成 1.3 亿美元 Series A、估值 10 亿美元。资本继续买“可监管的 AI”与“可自建的 AI 基础设施”。
+- 企业：SK Hynix 7 月 10 日在美国 ADR 上市融资约 265 亿美元，AI HBM 需求把企业融资、晶圆厂、先进封装、美国印第安纳工厂和韩国半导体集群拉到同一条资金链上。
+- 富豪资本：Norm Ai 本轮不只是 VC 钱，Blackstone、Vanguard、New York Life、TIAA、Tony James、Jeff Hammes 等金融/法律界资本参与，说明富豪、资管和法律精英把钱投向“AI 监督 AI、AI 承接高价值法律服务”的制度接口。
+- 平民消费：人民日报/新华网确认 2026 全国暑期文旅消费季发放超 4.5 亿元补贴、超 3 万场活动；人民网 7 月 13 日报道暑期档截至 7 月 12 日 15 时票房 28.31 亿元、同比下滑 8%，说明居民娱乐消费从“便宜票”转向内容供给、IP 和线下体验。
+- 高薪职位：国内重点扫描 AI Agent、AI Infra、半导体 HBM/先进封装、贸易金融/供应链金融、法律 AI/合规、文旅内容运营；国际重点扫描 ML Engineer、AI Infrastructure、legal AI/compliance engineering、semiconductor/HBM、trade finance 和 data center power。
+
+一、政府
+
+- 标题：财政部 7 月 14 日拟招标两只国债，合计 1600 亿元
+- 主体：财政部
+- 金额：20 年期超长期特别国债 300 亿元；1 年期记账式附息国债 1300 亿元；合计 1600 亿元
+- 领域：中央财政融资、超长期特别国债、债券市场、机构配置
+- 事件：两只债券均定于 2026-07-14 上午 10:35 至 11:35 招标，2026-07-15 开始计息。20 年期特别国债到期日为 2046-07-15；1 年期国债到期日为 2027-07-15。
+- 主来源：财政部移动站 / 证券时报 / 新浪财经转载人民财讯
+- 交叉来源：
+  - https://www.stcn.com/article/detail/4001751.html
+  - https://finance.sina.com.cn/jjxw/2026-07-07/doc-inifxxxc1613047.shtml
+- 备注：7 月 3 日已写 800 亿元 30 年期超长期特别国债；本次是 20 年期特别国债 300 亿元和 1 年期普通国债 1300 亿元，主体+期限+金额不同，可写。
+
+二、国际政府与开发资金
+
+- 标题：EBRD 向 Ecobank Senegal 提供最高 1500 万欧元贸易融资便利，并启动 Senegal SME 支持
+- 主体：European Bank for Reconstruction and Development, Ecobank Senegal, Senegal SMEs
+- 金额：最高 1500 万欧元贸易融资便利；另有 SME 支持包，金额未披露
+- 领域：贸易融资、进出口、MSME、供应链金融、西非区域贸易
+- 事件：EBRD 7 月 9 日宣布向 Ecobank Senegal 提供其在 Senegal 的首个 Trade Facilitation Programme 融资便利，帮助银行为进口、出口和 MSME 客户提供担保和贸易融资。7 月 10 日 EBRD 又宣布在 Senegal 正式启动 SME 支持，组合包括信贷额度、风险分担、供应链金融、咨询服务和政策对话。
+- 主来源：EBRD 官方新闻
+- 交叉来源：
+  - https://www.ebrd.com/home/news-and-events/news/2026/ebrd-launches-its-first-trade-facility-in-senegal.html
+  - https://www.ebrd.com/home/news-and-events/news/2026/ebrd-launches-sme-support-in-senegal.html
+- 备注：金额不大，但代表 EBRD 2025 年把 Senegal 纳入运营国后，正式把开发资金和银行网络接到西非 SME。
+
+三、投资机构
+
+- 标题：Norm Ai 完成 1.2 亿美元 Series C、Prime Intellect 完成 1.3 亿美元 Series A
+- 主体：Norm Ai, Prime Intellect, Khosla Ventures, Radical Ventures, NVIDIA Ventures, Intel Capital, Dell Technologies Capital
+- 金额：Norm Ai 1.2 亿美元 Series C，估值 12 亿美元；Prime Intellect 1.3 亿美元 Series A，估值 10 亿美元
+- 领域：Legal AI、监管合规 AI、agentic law、分布式 AI 训练、AI Infra
+- 事件：Norm Ai 把律师和 AI 工程师组合成 AI-native law firm 与合规监督平台，客户 AUM 超 30 万亿美元；Prime Intellect 提供计算力、训练框架和评测工具，帮助企业训练自己的 AI agents。
+- 主来源：
+  - https://www.prnewswire.com/news-releases/norm-ai-raises-120-million-at-a-1-2-billion-valuation-led-by-khosla-ventures-to-deliver-the-full-stack-model-for-legal-ai-302819152.html
+  - https://www.primeintellect.ai/blog/series-a
+- 交叉来源：
+  - https://techcrunch.com/2026/07/07/ai-law-startup-norm-raises-120m-hits-unicorn-valuation/
+  - https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/
+  - https://news.crunchbase.com/ai/biggest-funding-rounds-billion-dollar-cyber-ai-keyfactor-sambanova/
+- 备注：Lyzr 和 Gradium 已在 7 月 10 日去重清单出现，本次不重复。
+
+四、企业
+
+- 标题：SK Hynix 美国 ADR 融资约 265 亿美元，AI 内存把 HBM 扩产变成资本市场事件
+- 主体：SK Hynix
+- 金额：约 265 亿美元融资；TechCrunch 折算约 40 万亿韩元；AP 报道 ADR 定价 149 美元，上市首日上涨
+- 领域：HBM、DRAM、AI 芯片、先进封装、美国 IPO / ADR、半导体供应链
+- 事件：SK Hynix 7 月 10 日在美国市场发行 ADR，成为美国史上最大外企 IPO / ADR 之一。融资将支持 AI 内存扩张，包括高带宽内存、先进封装、韩国扩产和美国印第安纳项目。
+- 主来源：AP / TechCrunch / Reuters 图片说明
+- 交叉来源：
+  - https://apnews.com/article/73f13a85ae00e30bad0540281bbe44f3
+  - https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/
+  - https://www.reutersconnect.com/item/sk-hynix-at-the-nasdaq-market-in-new-york/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1JDMjFCTUFVS1ZVQw
+- 备注：不与 7 月 9 日 Meta 加拿大 AI 数据中心重复；本次企业端写半导体内存融资。
+
+五、富豪资本
+
+- 标题：Norm Ai 融资中的金融、法律和富豪资本把钱投向 AI 法律服务与 AI 监督系统
+- 主体：Tony James, Jeff Hammes, Blackstone, Bain Capital Ventures, Vanguard, New York Life, TIAA, Fenwick LLP, Norm Ai
+- 金额：参与 1.2 亿美元 Series C；Norm Ai 累计融资超过 2.6 亿美元
+- 领域：富豪资本、法律服务、资管合规、AI governance、家族办公室/机构客户服务
+- 事件：Norm Ai 披露本轮除 Khosla 领投外，Blackstone、Bain Capital Ventures、Craft、Coatue、Vanguard、New York Life、TIAA、Tony James、Jeff Hammes、Fenwick LLP 等参与。它服务的机构客户管理资产超过 30 万亿美元。
+- 主来源：Norm Ai PRNewswire
+- 交叉来源：TechCrunch
+- 备注：富豪资本不写 Trump Accounts 和 California billionaire tax，避免 7 月 7 日、7 月 9 日、7 月 10 日已写条目。
+
+六、平民消费
+
+- 标题：暑期文旅补贴超 4.5 亿元叠加电影暑期档 28.31 亿元但同比下滑 8%，居民娱乐消费更挑内容
+- 主体：文化和旅游部、各地政府、平台、影院、居民消费者
+- 金额：超 4.5 亿元文旅消费补贴；超 3 万场文旅活动；暑期档截至 7 月 12 日 15 时票房 28.31 亿元，同比下滑 8%
+- 领域：文旅消费、电影消费、亲子/避暑/研学/夜游/演出/票务平台
+- 事件：全国暑期文旅消费季 7 月初至 8 月底，文化和旅游部协同多部门和平台推出票务、酒店民宿、出行、演出等惠民措施；与此同时，人民网 7 月 13 日报道电影暑期档“赛程近半”，低价票和密集供给未完全拉动票房。
+- 主来源：
+  - 人民日报：https://paper.people.com.cn/rmrb/pc/content/202607/09/content_30167662.html
+  - 新华网：https://www.news.cn/fortune/20260708/08441ca6d3154914882d36da0752c74e/c.html
+  - 人民网电影：https://finance.people.com.cn/n1/2026/0713/c1004-40759079.html
+- 备注：文旅 4.5 亿元已在 7 月 9 日出现，本次重点更新电影消费的 28.31 亿元与同比下滑 8%，并把消费逻辑从“发券”转向“内容/IP/线下体验”。
+
+昨日较热消费品牌：
+- 中国品牌和平台：美团、支付宝、中国银联、大麦、滴滴、携程 / Trip.com、猫眼、淘票票、万达电影、横店影视
+- 国际和跨境相关品牌：Disney、Universal、IMAX、Netflix、Booking、Airbnb、Apple、Sony Pictures
+
+七、高薪职位
+
+- 国内扫描来源：
+  - BOSS 直聘：AI Agent 开发工程师、AI 智能体大模型应用开发工程师样本
+  - 猎聘：AI Infra 工程师 70-100k；高级 AI 基础设施工程师 40-55k·15 薪；AI 基础设施高级通信系统工程师 60-90k·13 薪；AI 平台研发专家 40-70k·16 薪
+  - 职友集 / 看准网：用于观察数据中心、电力工程、法务合规、文旅运营薪资中位
+  - 腾讯招聘 / 字节招聘：Agent 算法、AI Training Systems & RL Infrastructure 岗位方向
+- 国际扫描来源：
+  - Levels.fyi：Meta MLE $187k-$678k，美国 median total compensation $520k；Nvidia Software Engineer $173k-$1.07m，median $345k；Machine Learning Engineer median $272.5k
+  - KORE1：2026 ML Engineer base $128k-$186k，高级岗位总包 $350k+
+- 今日岗位方向：
+  1. AI Agent / 企业 AI 应用工程师
+  2. AI Infra / RL Infrastructure / GPU 通信工程师
+  3. Legal AI / RegTech / 合规产品工程师
+  4. HBM / 先进封装 / 半导体设备与制程工程师
+  5. 贸易金融 / 供应链金融 / 银行风控产品经理
+  6. 文旅 IP / 电影发行 / 票务增长 / 线下体验运营

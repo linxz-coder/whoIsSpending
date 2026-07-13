@@ -172,3 +172,24 @@
 
 56) 高薪职位扫描更新：AI Agent/企业AI应用、AI集群网络、户用光伏金融与安装、数据中心电力许可与公共事务、国债/固收/ALM、文旅IP夜游运营，以及美国AI Agents、ML Engineer、Data Center Power、Renewable Energy Finance岗位继续高薪
 - 已出现日期：2026-07-10
+
+57) 财政部7月14日拟招标两只国债：20年期超长期特别国债300亿元、1年期记账式附息国债1300亿元，合计1600亿元，资金继续流向中央财政融资和债券市场配置体系
+- 已出现日期：2026-07-13
+
+58) EBRD向Ecobank Senegal提供最高1500万欧元贸易融资便利，并在Senegal启动SME支持，开发资金流向西非中小企业、进出口贸易、供应链金融和银行风控
+- 已出现日期：2026-07-13
+
+59) AI法律和企业自训基础设施融资更新：Norm Ai完成1.2亿美元Series C、估值12亿美元，Prime Intellect完成1.3亿美元Series A、估值10亿美元，资金流向legal AI、合规监督、AI agents训练栈和分布式AI基础设施
+- 已出现日期：2026-07-13
+
+60) SK Hynix通过美国ADR融资约265亿美元，资金用于HBM、高速DRAM、先进封装、韩国扩产和美国印第安纳项目，AI内存成为企业融资和资本市场核心资产
+- 已出现日期：2026-07-13
+
+61) Norm Ai融资中的富豪与专业服务资本信号：Blackstone、Vanguard、New York Life、TIAA、Tony James、Jeff Hammes和Fenwick等参与，资金投向AI法律服务、AI治理和资管合规系统
+- 已出现日期：2026-07-13
+
+62) 暑期文娱消费更新：全国暑期文旅消费季超3万场活动、超4.5亿元补贴继续落地，同时暑期档截至7月12日15时票房28.31亿元、同比下滑8%，消费从补贴转向内容/IP/体验竞争
+- 已出现日期：2026-07-13
+
+63) 高薪职位扫描更新：AI Agent/企业AI应用、AI Infra/RL Infrastructure/GPU通信、Legal AI/RegTech、HBM/先进封装、贸易金融/供应链金融、文旅IP/电影发行/票务增长，以及美国ML Engineer、AI Infrastructure、Legal AI、Semiconductor HBM岗位继续高薪
+- 已出现日期：2026-07-13
