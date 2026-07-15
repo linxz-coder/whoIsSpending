@@ -214,3 +214,27 @@
 
 70) 高薪职位扫描更新：AI Infra/AI Agent Infra、数据中心电气/关键设施、先进封装/HBM设备、气候融资/能源项目财务、PE并购/投后运营、线上娱乐和文旅票务增长继续高薪，国内重点样本来自BOSS直聘、职友集、猎聘，国际样本来自ZipRecruiter、Built In、Glassdoor、Indeed
 - 已出现日期：2026-07-14
+
+71) 中国人民银行7月15日将开展14000亿元6个月期买断式逆回购操作，期限184天，到期日为2027年1月15日，补充银行体系中期流动性
+- 已出现日期：2026-07-15
+
+72) World Bank批准泰国2亿美元Low Carbon Cities and Carbon Market Development Project，支持公共建筑节能、屋顶光伏、ESCO融资、碳信用聚合、180MW可再生能源和448GWh年节电
+- 已出现日期：2026-07-15
+
+73) Wafra Constellation Generation V最终关闭，规模20亿美元、超过15亿美元募资目标，资金流向GP stakes和下一代另类资产管理人
+- 已出现日期：2026-07-15
+
+74) TerraFirma完成约1.15亿美元融资，其中1亿美元Series A由Kleiner Perkins领投，资金用于半自动重型施工设备、远程指挥中心和关键基础设施施工机器人
+- 已出现日期：2026-07-15
+
+75) Warburg Pincus牵头投资者集团同意收购PANTHERx Rare控股权，PANTHERx为美国最大独立稀有病药房，资金流向罕见病特药渠道和患者服务平台
+- 已出现日期：2026-07-15
+
+76) Warren Buffett约60亿美元Berkshire股票年度捐赠转向Susan Thompson Buffett Foundation、Sherwood Foundation、Howard G. Buffett Foundation和NoVo Foundation四个家族相关基金会，不再包括Gates Foundation
+- 已出现日期：2026-07-15
+
+77) 暑期电影票根消费更新：2026年暑期档电影总票房已超过30亿元，内容IP继续带动影院餐饮、票根景区/商圈优惠、酒店民宿、亲子研学、夜游演出和本地生活套餐
+- 已出现日期：2026-07-15
+
+78) 高薪职位扫描更新：金融AI/保险AI工作流、施工机器人/自动化重型设备、数据中心commissioning/关键设施、碳市场/ESCO项目融资、稀有病特药渠道、GP stakes/机构募资、电影票务增长和文旅本地生活运营继续高薪，国内样本来自BOSS直聘、猎聘、职友集/看准网和企业招聘页，国际样本来自Built In、iRecruit、Indeed和Sanofi岗位页
+- 已出现日期：2026-07-15
