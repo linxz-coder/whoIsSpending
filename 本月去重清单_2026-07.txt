@@ -238,3 +238,24 @@
 
 78) 高薪职位扫描更新：金融AI/保险AI工作流、施工机器人/自动化重型设备、数据中心commissioning/关键设施、碳市场/ESCO项目融资、稀有病特药渠道、GP stakes/机构募资、电影票务增长和文旅本地生活运营继续高薪，国内样本来自BOSS直聘、猎聘、职友集/看准网和企业招聘页，国际样本来自Built In、iRecruit、Indeed和Sanofi岗位页
 - 已出现日期：2026-07-15
+
+79) 中国人民银行7月16日开展6260亿元7天期逆回购操作，固定利率、数量招标，全额满足一级交易商需求，操作利率1.40%，资金流向银行体系短端流动性、回购市场、债券交易和企业短期融资成本传导
+- 已出现日期：2026-07-16
+
+80) World Bank为布基纳法索Economic Opportunities for Resilience Project提供1.2亿美元融资包，包括1亿美元IDA credit和2000万美元grant，覆盖120000名受益人，资金流向社会保护、脆弱家庭经济机会、技能、粮食安全、女性经济赋权和社会登记系统
+- 已出现日期：2026-07-16
+
+81) Sagard Credit Partners III完成超过10亿美元首关、目标20亿美元，16家institutional LP参与，资金流向北美中型企业private credit、direct lending、senior secured financing和non-sponsored borrowers
+- 已出现日期：2026-07-16
+
+82) Spectro Cloud完成超过1亿美元Series D、累计融资2.6亿美元，Goldman Sachs Alternatives旗下Growth Equity领投，AMD Ventures等参与，资金流向生产AI基础设施管理、GPU集群、AI factories、distributed inference、neocloud和sovereign cloud
+- 已出现日期：2026-07-16
+
+83) Tilman Fertitta / Fertitta Entertainment收购Caesars Entertainment的约176亿美元交易取得内华达监管阶段性进展，交易包括约57亿美元现金对价和约119亿美元债务承担，股东现金对价31美元/股，资金流向博彩酒店、餐饮、体育博彩和线下娱乐资产私有化
+- 已出现日期：2026-07-16
+
+84) 国家统计局披露上半年社会消费品零售总额248722亿元、同比增长1.3%，网上商品和服务零售额100715亿元、增长5.2%，通讯器材类增长14.4%、化妆品类增长6.3%、粮油食品类增长7.4%，汽车、家电和建材承压
+- 已出现日期：2026-07-16
+
+85) 高薪职位扫描更新：AI Agent/AI基础设施平台、生产AI基础设施运维、私募信贷/直接贷款、数据中心commissioning和电气、跨境电商和线上服务增长、社会保护项目数据/M&E、博彩酒店并购整合继续高薪或具备结构性机会，国内样本来自BOSS直聘、猎聘，国际样本来自Built In、iRecruit、Indeed
+- 已出现日期：2026-07-16
