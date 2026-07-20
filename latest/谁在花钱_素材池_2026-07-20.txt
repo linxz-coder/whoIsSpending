@@ -1,0 +1,77 @@
+谁在花钱｜素材池
+日期：2026-07-20
+
+今日候选与定稿素材：
+
+1) 政府
+- 标题：央行7月20日开展3985亿元7天期逆回购操作
+- 主体：中国人民银行
+- 金额：3985亿元
+- 领域：银行体系短端流动性、回购市场、债券交易、LPR定价基础
+- 主来源：https://finance.eastmoney.com/a/202607203812033939.html
+- 备注：人民财讯/证券时报口径称，2026年7月20日央行以固定利率、数量招标方式开展3985亿元7天期逆回购，全额满足一级交易商需求，操作利率1.40%。这是日内最清晰的政府端资金流向，且与本月持续维护资金面的主线一致。
+
+2) 国际政府与开发资金
+- 标题：EBRD首次在塞内加尔投资，支持Yas扩张非洲数字基础设施
+- 主体：EBRD、Yas、AXIAN Telecom、ILX Fund
+- 金额：最高2.7亿欧元长期融资，其中1.7亿欧元承诺融资、1亿欧元未承诺未来融资
+- 领域：塞内加尔和肯尼亚4G/5G、光纤、数字基础设施、女性数字经济参与
+- 主来源：https://www.ebrd.com/home/news-and-events/news/2026/ebrd-s-first-investment-in-senegal-to-boost-connectivity-in-afri.html
+- 备注：EBRD公告称，该交易是其在塞内加尔首个项目，也是其在撒哈拉以南非洲首个本币融资和首个A/B贷款结构，资金流向Yas在塞内加尔和肯尼亚的网络、光纤和未来并购/资本开支。
+
+3) 投资机构
+- 标题：B Capital第三只早期基金Ascent Fund III以5亿美元硬上限关闭
+- 主体：B Capital、Eduardo Saverin、Raj Ganguly、Howard Morgan及LP
+- 金额：5亿美元
+- 领域：早期VC、AI基础设施、机器人、医疗、能源、frontier tech、北美和亚洲创新中心
+- 主来源：https://www.businesswire.com/news/home/20260706945431/en/B-Capital-Closes-Oversubscribed-Ascent-Fund-III-at-%24500-Million-Hard-Cap
+- 备注：基金规模接近2022年Ascent Fund II的两倍，已投Apptronik、Havoc AI、Star Catcher等20多个项目，说明早期资本继续向AI驱动的实体产业和基础技术集中。
+
+4) 企业
+- 标题：Uber宣布对Delivery Hero发起收购要约
+- 主体：Uber、Delivery Hero、SSW Partners、Prosus
+- 金额：每股41.50欧元，按100%股权计算股权价值148亿美元；扣除Uber既有持仓后调整价值137亿美元；SSW另以约16亿美元接收14个重叠市场业务
+- 领域：全球外卖、即时零售、Quick Commerce、本地商户和骑手网络、德国投资
+- 主来源：https://investor.uber.com/news-events/news/press-release-details/2026/Uber-Announces-Acquisition-Offer-for-Delivery-Hero/default.aspx
+- 备注：Uber称交易完成后平台覆盖99个市场，2025年合并备考Gross Bookings为2360亿美元，并承诺未来5年在德国投资20亿欧元。
+
+5) 富豪资本
+- 标题：MacKenzie Scott向Active Minds提供2000万美元无限制捐赠
+- 主体：MacKenzie Scott、Active Minds
+- 金额：2000万美元
+- 领域：美国青少年和大学生心理健康、青年倡导、学校和校园项目、非营利组织长期能力建设
+- 主来源：https://activeminds.org/press-release/mackenzie-scotts-20-million-dollar-gift-accelerates-active-minds-national-leadership-in-youth-mental-health/
+- 备注：Active Minds称这是机构史上最大单笔捐赠，且为unrestricted gift；资金将扩大高中和大学青年心理健康倡导、同伴网络和系统改变项目。
+
+6) 平民消费
+- 标题：暑期档票房破40亿元，动画和亲子观影带动电影+消费
+- 主体：暑期消费者、影院、电影IP、文旅部门、平台和商家
+- 金额：2026暑期档电影总票房含预售突破40亿元；2026年度总票房含预售突破197亿元；全国暑期文旅消费季超4.5亿元消费补贴
+- 热门品类：动画电影、亲子观影、电影IP周边、影院餐饮、文旅消费券、避暑/亲子/研学旅行、酒店民宿
+- 代表产品：《八仙！》、亲子观影厅、动画主题等候区、IP手办/盲盒/挂件/主题卡牌、文旅消费券、酒店/民宿/研学线路
+- 昨日较热消费品牌（国内）：猫眼、淘票票、万达电影、横店影视、博纳影业、携程、美团、同程、飞猪、京东、淘宝/天猫、泡泡玛特、华为、小米、瑞幸、霸王茶姬
+- 昨日较热消费品牌（国际）：Disney、Universal、Apple、Samsung、Nike、Adidas、Lululemon、Sephora、Starbucks、Uniqlo
+- 主来源：https://cn.chinadaily.com.cn/a/202607/18/WS6a5b3f03a310d709c2fbe443.html
+- 交叉来源：https://news.cctv.com/2026/07/08/ARTI4EwT05K4cGnS2m3QTrW3260708.shtml
+- 备注：本月已写暑期文旅和电影票根消费，今日更新点是暑期档票房从30亿元级别升至40亿元级别，且消费落点从旅行总量转向“电影+亲子+IP周边+影院综合空间”。
+
+7) 高薪职位
+- 岗位方向：AI Infra/AI产品架构、数据中心工程/电气/运维、早期VC/私募股权/投后、外卖/即时零售本地商业增长、青少年心理健康项目和临床/咨询产品、网络安全和跨境平台合规
+- 国内扫描来源：BOSS直聘、职友集、猎聘
+- 典型中国岗位：
+  1. AI Infra架构师/AI产品架构师：上海/深圳，5-10年或硕士口径，BOSS直聘样本65K-95K·15薪、35K-60K、40K-70K·15薪、60K-90K·16薪；职友集深圳AI系统架构师62.5%岗位拿20K-50K/月，本科均值约29.6K。
+  2. 数据中心高级运维/电气工程师：BOSS直聘样本乌兰察布15K-30K·14薪，深圳中低压配电20K-30K；猎聘样本数据中心工程师15K-25K·15薪、数据中心电气15K-18K。
+  3. 股权投资/PEVC/投后运营：猎聘公开样本股权业务岗25K-35K·18薪、30K-60K，投后运营总监25K-35K、投后管理/基金运营面议或12K-17K·15薪，强项目经验岗位上限更高。
+- 国际扫描来源：Built In、ZipRecruiter、Glassdoor
+- 国际样本：AI Engineer美国平均base 184757美元/年、总补偿211243美元/年；Data Center Engineer美国平均147461美元/年；Private Equity Associate美国平均约249127美元/年；Cybersecurity Engineer美国平均base 166851美元/年、总补偿200797美元/年。
+- 来源：
+  - https://www.zhipin.com/zhaopin/a1fef781326446b203Ny2928Ew~~/
+  - https://www.zhipin.com/zhaopin/fce1d267015e56ba0nd709k~/
+  - https://m.jobui.com/salary/shenzhen-aixitongjiagoushi/
+  - https://www.liepin.com/zpgqywg/
+  - https://www.liepin.com/zpthyygs5m1/
+  - https://builtin.com/salaries/us/ai-engineer
+  - https://www.ziprecruiter.com/Salaries/Data-Center-Engineer-Salary
+  - https://www.glassdoor.com/Salaries/private-equity-associate-salary-SRCH_KO0%2C24.htm
+  - https://builtin.com/salaries/us/cybersecurity-engineer
+- 备注：岗位不只看AI；今日资金主线还指向数据中心、外卖即时零售、VC/投后、非洲数字基础设施、心理健康非营利和文娱消费运营。
