@@ -1,0 +1,95 @@
+谁在花钱｜素材池
+日期：2026-07-22
+
+一、政府
+
+- 分类：政府
+- 标题：央行公开市场今日净回笼3505亿元
+- 主体：中国人民银行
+- 金额：760亿元7天期逆回购；4265亿元7天期逆回购到期；公开市场净回笼3505亿元
+- 领域：银行体系短端流动性、回购市场、政府债缴款、税期资金、债券交易
+- 主来源：财联社：https://www.cls.cn/detail/2433369
+- 交叉来源：证券时报快讯页当日滚动入口显示“央行今日开展760亿元7天期逆回购操作”；此前7月15日至21日连续大额操作已在本月清单记录
+- 备注：今天不是净投放，而是到期量大于操作量后的净回笼；写作重点应从“继续呵护资金面”改成“税期后流动性从高峰回落，仍维持政策利率锚”。
+
+二、国际政府与开发资金
+
+- 分类：国际政府与开发资金
+- 标题：EBRD拟向摩洛哥ONEE水务绩效改善项目提供最高2.5亿欧元贷款
+- 主体：European Bank for Reconstruction and Development、Office National de l'Electricite et de l'Eau Potable、摩洛哥
+- 金额：最高2.5亿欧元，其中1.2亿欧元承诺 tranche A、1.3亿欧元未承诺 tranche B；总项目成本2.55亿欧元
+- 领域：饮用水生产、输配水资产改造、漏损降低、计量与监测现代化、气候适应
+- 主来源：EBRD项目页：https://www.ebrd.com/home/work-with-us/projects/psd/57587.html
+- 交叉来源：EBRD项目页显示 approval date 为 22 Jul 2026，PSD last updated 为 11 Jul 2026
+- 备注：项目状态是 Passed Final Review, Pending Approval；按“今日审批节点/开发资金方向”写，不夸大为已经签约放款。
+
+三、投资机构
+
+- 分类：投资机构
+- 标题：Humanoid完成1.52亿美元Series A，估值13.5亿美元
+- 主体：Prime Movers Lab、Schaeffler、Bosch、Fubon Financial Holding Venture Capital、Aglae Ventures、Humanoid
+- 金额：1.52亿美元Series A；投后估值13.5亿美元；累计融资2.7亿美元
+- 领域：工业人形机器人、Physical AI、KinetIQ机器人AI软件、制造业/物流/零售自动化
+- 主来源：Humanoid官方新闻：https://thehumanoid.ai/humanoid-raises-152-million-at-1-35-billion-post-money-valuation-becoming-europes-first-pure-play-humanoid-robotics-unicorn/
+- 交叉来源：TechStartups：https://techstartups.com/2026/07/21/humanoid-raises-152m-at-1-35b-valuation-to-build-ai-powered-industrial-humanoid-robots/
+- 备注：资金用途包括下一代机器人平台、Q4 2026客户beta部署、轮式机器人规模化制造、KinetIQ软件。不要把“34,000台预订单、24亿美元管线”写成已确认收入。
+
+四、企业
+
+- 分类：企业
+- 标题：Paramount收购Warner Bros. Discovery的1100亿美元交易被法官临时暂停
+- 主体：Paramount Skydance、Warner Bros. Discovery、California Attorney General及12州检察长联盟
+- 金额：交易企业价值1100亿美元；Paramount原计划以31美元/股现金收购WBD
+- 领域：影视并购、流媒体、院线发行、基础有线频道、内容IP、反垄断诉讼
+- 主来源：Paramount官方交易公告：https://www.paramount.com/press/paramount-to-acquire-warner-bros-discovery-to-form-next-generation-global-media-and-entertainment-company
+- 交叉来源：California DOJ诉讼公告：https://oag.ca.gov/news/press-releases/attorney-general-bonta-files-lawsuit-block-110-billion-warner-brosparamount
+- 交叉来源：TechCrunch关于14天暂停令：https://techcrunch.com/2026/07/20/judge-pauses-110b-paramount-warner-bros-merger/
+- 备注：这是“钱暂时被监管拦住”的企业信号；写作重点是大并购的监管、院线/有线电视竞争、内容供给和整合风险。
+
+五、富豪资本
+
+- 分类：富豪资本
+- 标题：Bernard Arnault相关Aglae Ventures参与Humanoid 1.52亿美元融资
+- 主体：Aglae Ventures、Bernard Arnault/LVMH相关资本、Humanoid
+- 金额：参与1.52亿美元Series A，单家出资未披露
+- 领域：家族/富豪资本、实体AI、工业机器人、制造自动化、欧洲科技资产
+- 主来源：Humanoid官方新闻列示Aglae Ventures为参投方：https://thehumanoid.ai/humanoid-raises-152-million-at-1-35-billion-post-money-valuation-becoming-europes-first-pure-play-humanoid-robotics-unicorn/
+- 交叉来源：TechStartups明确称Aglae Ventures为LVMH chairman Bernard Arnault-backed investment firm：https://techstartups.com/2026/07/21/humanoid-raises-152m-at-1-35b-valuation-to-build-ai-powered-industrial-humanoid-robots/
+- 备注：本月已写过Bernard Arnault 5000万欧元数学研究院捐赠；今天不是重复捐赠，而是其相关投资工具转向工业机器人/Physical AI轮次。
+
+六、平民消费
+
+- 分类：平民消费
+- 标题：消费品以旧换新惠及超1.5亿人次，电影票房突破200亿元后暑期热度延续
+- 主体：商务部、地方政府、家电/汽车/数码/家居零售、观影人群、票务平台、文旅平台
+- 金额：2026年以来消费品以旧换新政策惠及超1.5亿人次；2026年度电影总票房含预售已突破200亿元；全国暑期文旅消费季超4.5亿元消费券和补贴继续落地
+- 领域：家电、数码、汽车、家居、绿色消费、电影票房、亲子观影、商圈文旅联动
+- 主来源：东方财富转中国证券报，商务部年中推进会：https://finance.eastmoney.com/a/202607203813580240.html
+- 交叉来源：央视网电影票房：https://news.cctv.com/2026/07/20/ARTIuTjbL8NOgUy8gEyFHWPR260719.shtml
+- 交叉来源：央视网暑期文旅消费季：https://news.cctv.com/2026/07/08/ARTI4EwT05K4cGnS2m3QTrW3260708.shtml
+- 热门品类：家电以旧换新、数码3C、汽车/电动车、家居家装、电影票、亲子观影、文旅消费券、夜游/避暑/研学旅行
+- 代表产品：空调、冰箱、洗衣机、手机、平板、笔记本、新能源车、智能家居、电影票、亲子观影套餐、景区门票立减、酒店民宿券、票根商圈优惠
+- 昨日较热国内品牌/平台：京东、天猫、苏宁易购、海尔、美的、格力、小米、华为、比亚迪、猫眼、淘票票、万达电影、携程、美团、飞猪
+- 昨日较热国外/跨境品牌：Apple、Samsung、Sony、Dyson、Panasonic、Nike、Adidas、Uniqlo、Disney、Universal、Starbucks、Sephora
+- 备注：电影票房和文旅消费已连续多期出现，今天要把“以旧换新1.5亿人次”作为新增主线，电影/文旅只做延续信号。
+
+七、高薪职位
+
+- 分类：高薪职位
+- 岗位方向：AI Agent/AI平台架构、具身智能/机器人算法、数据中心电气与运维、传媒并购/反垄断/内容商业化、消费品以旧换新零售运营、项目融资/水务工程
+- 国内扫描来源：BOSS直聘、职友集、猎聘、智联/企业招聘页线索
+- 国内样本：
+  - BOSS直聘架构师页：AI Agent架构师 45-70K·15薪；北京海淀；经验不限/硕士；另有小米AI Agent架构师25-35K
+  - BOSS直聘深圳AI开发平台架构师页：AI Native平台架构师50-80K·14薪；AI Agent平台架构师80-110K·15薪
+  - 职友集深圳算法工程师薪资页：深圳算法工程师79.4%岗位为20-50K/月，2026年招聘职位约6483个
+  - 猎聘智能机器人页：算法经理/算法总监（智能机器人、智能割草机）50-80K；智能机器人核心算法工程师30-50K
+  - BOSS直聘数据中心电气/供配电页：数据中心电气工程师约10-30K，部分15薪；中低压配电20-30K
+  - 猎聘数据中心工程师页：数据中心工程师15-25K·15薪、制冷/电气/运维类10-25K区间
+- 国际扫描来源：Built In、Indeed、Glassdoor、ZipRecruiter、iRecruit
+- 国际样本：
+  - Built In AI Engineer US：平均base 184,757美元/年，平均总补偿211,243美元/年
+  - Built In Robotics Engineer US：平均base 148,604美元/年，平均总补偿183,494美元/年
+  - Indeed AI/ML Engineer US：平均base 152,363美元/年
+  - Glassdoor Senior Robotics Engineer：平均186,048美元/年，90分位约303,868美元/年
+  - ZipRecruiter Data Center Engineer Houston：平均140,821美元/年；Indeed美国数据中心工程师平均137,385美元/年
+- 备注：今天岗位主线从“AI安全/CDMO/体育”切换为“实体AI+水务工程+大媒体并购监管+零售补贴运营”。
