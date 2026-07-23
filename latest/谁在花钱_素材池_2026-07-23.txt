@@ -1,0 +1,78 @@
+谁在花钱｜素材池
+日期：2026-07-23
+
+一、今日候选与核验边界
+
+- 今日为工作日，非周末跳过。
+- 月内去重清单已覆盖至 2026-07-22 的 113 条；今日入选只保留“主体+事件+金额”未重复，或有明确监管/落地更新的条目。
+- Paramount / Warner Bros. Discovery 昨日已写过“12 州诉讼 + 14 天暂停令”，今日只按“欧盟有条件批准”作为富豪资本/家族资本的新增监管更新，不重复写成同一企业主线。
+- 平民消费今日使用 7 月 22 日商务部/央视口径的以旧换新新增数据，并以国家统计局上半年线上零售数据作为底层消费背景；电影和暑期文旅仅作延续信号。
+
+二、素材
+
+【政府】
+- 标题：央行7月23日开展2040亿元7天期逆回购，公开市场净回笼4220亿元
+- 主体：中国人民银行
+- 金额：2040亿元7天期逆回购；6260亿元逆回购到期；净回笼4220亿元
+- 领域：银行体系流动性、回购市场、债券交易、资金面、货币政策操作
+- 主来源：https://www.stcn.com/article/detail/4036536.html
+- 交叉来源：https://www.yicai.com/news/103288621.html
+- 备注：证券时报/人民财讯确认2040亿元、1.40%；第一财经补充Wind口径显示当日6260亿元到期。
+
+【国际政府与开发资金】
+- 标题：EBRD向塔吉克斯坦Bank Eskhata提供最高1500万美元融资包
+- 主体：European Bank for Reconstruction and Development、Bank Eskhata
+- 金额：最高1500万美元，其中1200万美元Youth in Business贷款、300万美元Women in Business贷款
+- 领域：塔吉克斯坦青年创业、女性创业、中小微企业、贸易融资、银行能力建设
+- 主来源：https://www.ebrd.com/home/news-and-events/news/2026/ebrd-providing-financing-of-up-to-us--15-million-to-bank-eskhata.html
+- 备注：EBRD官方新闻稿日期为2026-07-22，适合作为今日国际开发资金线索。
+
+【投资机构】
+- 标题：Capitol Meridian Partners第二只基金以19亿美元硬上限关闭
+- 主体：Capitol Meridian Partners、Capitol Meridian Fund II
+- 金额：19亿美元总承诺；约18亿美元来自60多家机构LP；约1亿美元来自公司及关联方
+- 领域：国防、国家安全、政府技术、商业航空、中型企业私募股权
+- 主来源：https://capitolmeridian.com/defense-focused-capitol-meridian-closes-1-9-billion-sophomore-fund/
+- 交叉来源：https://pulse2.com/capitol-meridian-partners-raises-1-9-billion-for-second-fund-at-hard-cap/
+- 备注：搜索与公司新闻页均显示7月20日至23日期间更新，未在本月去重清单出现。
+
+【企业】
+- 标题：Brookfield拟以约70亿美元企业价值收购Aypa Power
+- 主体：Brookfield、Aypa Power、Blackstone Energy Transition Partners
+- 金额：约70亿美元企业价值；30亿美元股权价值；Aypa约6.5GW运营、在建和已签约容量，超过20GW开发管线
+- 领域：北美电池储能、AI用电、可再生能源并网、独立电力生产商、能源基础设施
+- 主来源：https://www.blackstone.com/news/press/brookfield-to-acquire-aypa-power-the-leading-north-american-battery-storage-platform-from-blackstone-energy-transition-partners/
+- 备注：Blackstone/Brookfield官方口径，交易仍需监管批准。
+
+【富豪资本】
+- 标题：欧盟有条件批准Ellison家族主导的Paramount收购Warner Bros. Discovery交易
+- 主体：Paramount Skydance、Warner Bros. Discovery、David Ellison、Larry Ellison相关资本
+- 金额：交易企业价值约1100亿美元；股权价值约810亿美元；欧盟条件包括13个月内退出UIP电影发行合资、10年内不与NBCUniversal在欧洲经济区做共同发行安排
+- 领域：富豪/家族资本、媒体并购、电影发行、流媒体、新闻和内容资产、监管审批
+- 主来源：https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1663
+- 交叉来源：https://apnews.com/article/87281ccde5b411f87d253e41c43c776e
+- 备注：与7月22日的美国暂停令是同一交易但不同监管更新；今日只写“欧盟放行但美国仍卡住”的进展。
+
+【平民消费】
+- 标题：上半年以旧换新带动销售额1.1万亿元，线上商品和服务零售额达100715亿元
+- 主体：商务部、消费者、汽车/家电/数码平台和品牌、线上零售和服务平台
+- 金额：以旧换新累计带动相关商品销售额1.1万亿元，惠及1.5亿人次；汽车以旧换新370.7万辆；家电6326.6万台；数码和智能产品7909.8万台；上半年社会消费品零售总额248722亿元；全国网上商品和服务零售额100715亿元
+- 领域：汽车、家电、手机数码、智能产品、线上商品、线上服务、暑期电影和文旅
+- 主来源：https://www.nbd.com.cn/articles/2026-07-22/4496243.html
+- 交叉来源：https://www.stats.gov.cn/sj/zxfb/202607/t20260715_1964127.html
+- 延续来源：https://m.jstv.com/news/2026/7/18/1528070800980111360.html
+- 备注：7月22日以旧换新数据是今日新增；电影票房40亿元为暑期体验消费延续信号。
+
+【高薪职位】
+- 国内扫描来源：
+  - BOSS直聘AI架构师页显示AI架构师18-25K·13薪、SerDes架构师40-70K·16薪、AI架构师30-60K·15薪：https://www.zhipin.com/zhaopin/5704e1da30c6a3e21XJ-3Nq9/
+  - BOSS直聘储能系统工程师样本显示25-45K·14薪、20-30K：https://www.zhipin.com/zhaopin/5ced98bdb1a3ac2903J82tu0/
+  - 猎聘数据中心工程师页显示基础设施运维18-30K·18薪、数据中心30-50K·13薪、海外资深电气50-65K·14薪：https://www.liepin.com/zpshujuzhongxingongchengshi/
+  - 职友集CPU验证工程师显示90%岗位拿30-50K以上/月，集中在半导体、电子、芯片行业：https://m.jobui.com/gangwei/cpuyanzhenggongchengshi/
+  - 猎聘电气工程师页有直流输电25-50K、资深/高级电气35-45K、线路电气23-45K·15薪：https://www.liepin.com/career/dianqigcs/
+- 国际扫描来源：
+  - Glassdoor AI Architect平均189859美元/年、75分位258143美元/年、90分位337033美元/年：https://www.glassdoor.com/Salaries/ai-architect-salary-SRCH_KO0%2C12.htm
+  - Levels.fyi Machine Learning Engineer美国平均总补偿约272500美元/年，页面更新至2026-07-21：https://www.levels.fyi/t/software-engineer/title/machine-learning-engineer
+  - ZipRecruiter Data Center Engineer美国平均147461美元/年，约12288美元/月：https://www.ziprecruiter.com/Salaries/Data-Center-Engineer-Salary
+  - ZipRecruiter Data Center Electrical Engineer美国平均111091美元/年，约9257美元/月：https://www.ziprecruiter.com/Salaries/Data-Center-Electrical-Engineer-Salary
+- 备注：今日岗位主线覆盖AI架构/Agent、半导体验证/高速接口、储能系统、数据中心电气与运维、媒体并购合规和消费补贴运营。
