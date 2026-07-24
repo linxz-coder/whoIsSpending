@@ -1,0 +1,89 @@
+谁在花钱｜素材池
+日期：2026-07-24
+
+一、今日候选与核验边界
+
+- 今日为工作日，非周末跳过。
+- 月内去重清单已覆盖至 2026-07-23 的 120 条；今日入选只保留“主体+事件+金额”未重复，或有明确官方新公告、监管进展、金额/结构变化的条目。
+- 政府端不再重复 7 月 23 日 2040 亿元逆回购净回笼，而是写央行 7 月 24 日 5000 亿元 1 年期 MLF 加量续作，更新点是 7 月 MLF 到期 4000 亿元、净投放 1000 亿元。
+- 平民消费不再重复昨天的“以旧换新 1.1 万亿元”总量主线，而是拆出人民日报/新华社口径中的细分更新：新能源车补贴占比、数码智能产品增速、智能眼镜销量增速和地方自主品类补贴。
+- 高薪职位中国岗位继续按 BOSS 直聘必查，并交叉猎聘、职友集/Indeed 等薪资平台；今日主线覆盖 AI 芯片、数据中心、游戏出海和跨境监管，不只写 AI Agent。
+
+二、素材
+
+【政府】
+- 标题：央行 7 月 24 日将开展 5000 亿元 1 年期 MLF 操作，7 月加量续作 1000 亿元
+- 主体：中国人民银行
+- 金额：5000 亿元中期借贷便利（MLF），期限 1 年；7 月 MLF 到期 4000 亿元，净投放 1000 亿元
+- 领域：中期基础货币、银行体系流动性、商业银行负债端、信贷投放、债券市场
+- 主来源：https://www.xinhuanet.com/fortune/20260723/72126fb475c64a20ad5a999608965c62/c.html
+- 交叉来源：https://www.thepaper.cn/newsDetail_forward_33644638
+- 备注：新华社确认 PBOC 公告、5000 亿元、1 年期、7 月到期 4000 亿元；澎湃补充连续 3 个月加量续作，以及 7 月买断式逆回购净投放背景。
+
+【国际政府与开发资金】
+- 标题：EBRD 向波黑提供 6000 万欧元贷款，World Bank 共同融资 3940 万欧元，修建 Foča 至 Hum 跨境道路
+- 主体：European Bank for Reconstruction and Development、Bosnia and Herzegovina、World Bank、European Union
+- 金额：EBRD 6000 万欧元贷款；World Bank 3940 万欧元共同融资；EU 70 万欧元技术援助赠款
+- 领域：波黑与黑山交通互联、Republika Srpska 道路建设、Tara River 大桥、跨境物流、旅游与区域贸易
+- 主来源：https://www.ebrd.com/home/news-and-events/news/2026/ebrd-improves-key-transport-link-between-bosnia-and-herzegovina-.html
+- 备注：EBRD 官方新闻稿 2026-07-23；13.3 公里 Donji Kopilovi 至 Hum 边境口岸道路，连接黑山，纳入更大规模跨境道路和约 380 米 Tara 河新桥投资。
+
+【投资机构】
+- 标题：Etched 完成 3 亿美元 Series C，估值 103 亿美元，Sequoia 领投
+- 主体：Etched、Sequoia、Andreessen Horowitz、Jane Street、Diffusion、SK Hynix
+- 金额：3 亿美元 Series C；103 亿美元估值；公司早前披露总融资 8 亿美元、约 10 亿美元客户需求/合同
+- 领域：AI 推理芯片、Transformer ASIC、frontier inference clusters、TSMC N4P、AI 硬件供应链
+- 主来源：https://www.marketscreener.com/news/ai-chip-startup-etched-raises-300-million-at-10-3-billion-valuation-ce7f51dede89ff22
+- 公司来源：https://www.etched.com/
+- 交叉来源：https://www.globenewswire.com/news-release/2026/06/30/3319922/0/en/etched-emerges-from-stealth-with-working-chip-800m-raised-and-over-1b-in-customer-contracts.html
+- 备注：Reuters 口径显示本轮由 Sequoia 领投，a16z、Jane Street、Diffusion、SK Hynix 参与；Etched 官网确认其正在验证首个 rack-scale 产品并面向 10 亿美元需求。
+
+【企业】
+- 标题：BlackRock 为 Meta El Paso AI 数据中心筹划逾 120 亿美元债券融资
+- 主体：BlackRock、Meta Platforms、Project Sopaipilla Holdings、JPMorgan Chase、Morgan Stanley
+- 金额：逾 120 亿美元债券，可能接近 130 亿美元；BlackRock 相关主体持有项目 80%，Meta 持有 20%；项目约 1GW
+- 领域：AI 数据中心、项目融资、债券市场、私募信贷、SPV、云计算与算力租赁
+- 主来源：https://www.ft.com/content/822628c5-4f9c-47db-bd27-f3ad7f841700
+- 交叉来源：https://www.investing.com/news/stock-market-news/blackrock-seeks-over-12-billion-in-bonds-for-texas-data-center-93CH-4801359
+- 交叉来源：https://www.businesstimes.com.sg/companies-markets/blackrock-eyes-more-us12-billion-debt-texas-data-centre
+- 备注：FT 今日报道融资成本上升，债券收益率超过 7%，高于此前 Louisiana Hyperion 项目；Investing/Business Times 确认 80/20 项目结构、JPMorgan 与 Morgan Stanley 组织债券投资者沟通。
+
+【富豪资本】
+- 标题：Saudi PIF 牵头的 550 亿美元 Electronic Arts 收购获欧盟并购规则批准
+- 主体：Saudi Arabia Public Investment Fund、Silver Lake、Affinity Partners、Jared Kushner、Electronic Arts
+- 金额：550 亿美元收购；PIF 约 1 万亿美元主权财富基金背景；欧盟 Foreign Subsidies Regulation 审查决定期限为 7 月 30 日
+- 领域：游戏 IP、电竞、私募股权、主权财富基金、政治家族资本、反垄断与外国补贴审查
+- 主来源：https://live.euronext.com/en/financial-news/saudi-pifs-55-billion-ea-deal-approved-under-eu-merger-rules
+- 交叉来源：https://www.marketscreener.com/news/the-eu-has-approved-the-acquisition-of-electronic-arts-by-saudi-arabia-s-public-investment-fund-ce7f51deda88f32d
+- 交叉来源：https://apnews.com/article/d17dc7dd3412a990d2c0a6758aaa6900
+- 备注：Reuters/Euronext 确认欧盟反垄断批准；MarketScreener 确认欧盟认为交易对相关市场竞争影响有限；AP 旧文用于确认交易结构、每股 210 美元、PIF/Silver Lake/Affinity 组合和最大 PE 买断背景。
+
+【平民消费】
+- 标题：以旧换新细分更新：新能源车补贴占比 65.4%，数码和智能产品上半年销量增长 13.4%，智能眼镜 6 月增长 30.6%
+- 主体：商务部、地方补贴资金、消费者、汽车/家电/数码/智能硬件品牌、电商平台
+- 金额/增速：上半年以旧换新带动销售额 1.1 万亿元、惠及 1.5 亿人次；19 个地方自主品类补贴带动 99.2 万件商品销售；享受汽车以旧换新补贴的新能源车 6 月占比 65.4%；二季度新能源汽车零售市场渗透率 62.4%；1 至 6 月数码和智能产品销售量同比增长 13.4%，6 月单月增长 32.0%；智能眼镜 6 月单月增长 30.6%
+- 热门品类：新能源汽车置换、绿色节能家电、手机/平板/智能穿戴、智能眼镜、地方自主补贴品类、线上服务与暑期体验消费
+- 代表产品：新能源汽车、空调、冰箱、洗衣机、手机、平板、智能手表、智能眼镜、智能家居、电影票、酒店民宿券、亲子研学产品
+- 昨日最火消费品牌（国内）：比亚迪、理想、小米、华为、海尔、美的、格力、京东、天猫、苏宁易购、携程、美团、猫眼
+- 昨日最火消费品牌（国外）：Apple、Samsung、Sony、Dyson、Panasonic、Nike、Adidas、Uniqlo、Disney、Universal、Starbucks、Sephora
+- 主来源：https://paper.people.com.cn/rmrbhwb/pc/content/202607/23/content_30170599.html
+- 交叉来源：https://www.cnr.cn/newscenter/kuaixun/20260722/t20260722_527723632.shtml
+- 延续来源：https://www.xinhuanet.com/politics/20260708/b020b7d3a41741468e45264b002a9a80/c.html
+- 备注：总量昨天已写，今天仅用作背景，正文重点写绿色和智能消费的结构变化。
+
+【高薪职位】
+- 国内扫描来源：
+  - BOSS 直聘平头哥半导体页显示数字前端设计师 40-70K·16 薪、AI 芯片设计实现专家/软件测试工程师 35-65K·16 薪等样本：https://www.zhipin.com/zhaopin/9d13df225db7b5a71nF529u5Fg~~/
+  - BOSS 直聘北京 AI 编译器工程师页显示 AI 编译器工程师 40-70K，并要求协助芯片团队设计和优化芯片架构：https://www.zhipin.com/zhaopin/75fe56ecb8aee4271Xx52dS5FA~~/
+  - 猎聘芯片验证工程师页显示 SOC 验证 30-60K·18 薪、AI 核芯片验证 50-80K·15 薪、GPU 芯片验证 40-70K·15 薪、DJI 中高级芯片验证 30-60K·15 薪等样本：https://www.liepin.com/zpxinpianyzgcs/
+  - BOSS 直聘数据中心电气工程师页显示 IDC 电气工程师、强电工程师等岗位，典型样本 12-20K：https://www.zhipin.com/zhaopin/c9d2c455124dcbda33F-3d66/
+  - BOSS 直聘游戏商业化运营页显示海外游戏商业化运营 25-50K·16 薪：https://www.zhipin.com/zhaopin/9e013e5c19ca77701nB_3d2_GQ~~/
+  - BOSS 直聘游戏发行负责人页显示游戏海外发行负责人 50-80K·14 薪、小程序/小游戏发行负责人 25-50K：https://www.zhipin.com/zhaopin/ac4bce38023e90001nZ82tm9GA~~/
+  - Indeed 中国游戏运营平均月薪约 26793 元：https://cn.indeed.com/career/%E6%B8%B8%E6%88%8F%E8%BF%90%E8%90%A5/salaries
+- 国际扫描来源：
+  - Glassdoor AI Architect 平均约 189887 美元/年，75 分位约 258181 美元/年，90 分位约 337081 美元/年：https://www.glassdoor.com/Salaries/ai-architect-salary-SRCH_KO0%2C12.htm
+  - Levels.fyi Hardware Engineer 美国平均总补偿约 228000 美元/年，Nvidia Hardware Engineer 美国中位总补偿约 248000 美元/年：https://www.levels.fyi/t/hardware-engineer
+  - Glassdoor Senior Chip Design Engineer 平均约 180767 美元/年，90 分位约 296244 美元/年：https://www.glassdoor.com/Salaries/senior-chip-design-engineer-salary-SRCH_KO0%2C27.htm
+  - ZipRecruiter Texas Data Center Engineer 平均约 137383 美元/年，折合约 11448 美元/月：https://www.ziprecruiter.com/Salaries/Data-Center-Engineer-Salary--in-Texas
+  - Glassdoor Data Center Electrical Engineer 平均约 127504 美元/年，90 分位约 210638 美元/年：https://www.glassdoor.com/Salaries/data-center-electrical-engineer-salary-SRCH_KO0%2C31.htm
+- 备注：今日岗位主线覆盖 AI 芯片设计/验证/编译器、数据中心电气、AI 架构、游戏海外发行/商业化、跨境并购和外国补贴审查、智能硬件消费运营。
